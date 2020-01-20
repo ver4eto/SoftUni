@@ -1,0 +1,7 @@
+C:\Users\Vera\source\repos\arraysExcercise\arraysExcercise\bin\Debug\arraysExcercise.exe.config
+C:\Users\Vera\source\repos\arraysExcercise\arraysExcercise\bin\Debug\arraysExcercise.exe
+C:\Users\Vera\source\repos\arraysExcercise\arraysExcercise\bin\Debug\arraysExcercise.pdb
+C:\Users\Vera\source\repos\arraysExcercise\arraysExcercise\obj\Debug\arraysExcercise.csprojAssemblyReference.cache
+C:\Users\Vera\source\repos\arraysExcercise\arraysExcercise\obj\Debug\arraysExcercise.csproj.CoreCompileInputs.cache
+C:\Users\Vera\source\repos\arraysExcercise\arraysExcercise\obj\Debug\arraysExcercise.exe
+C:\Users\Vera\source\repos\arraysExcercise\arraysExcercise\obj\Debug\arraysExcercise.pdb
