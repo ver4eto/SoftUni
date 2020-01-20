@@ -1,0 +1,10 @@
+C:\Users\Vera\source\repos\AssociativeArraysExercise\6. Courses\bin\Debug\netcoreapp2.2\6. Courses.deps.json
+C:\Users\Vera\source\repos\AssociativeArraysExercise\6. Courses\bin\Debug\netcoreapp2.2\6. Courses.runtimeconfig.json
+C:\Users\Vera\source\repos\AssociativeArraysExercise\6. Courses\bin\Debug\netcoreapp2.2\6. Courses.runtimeconfig.dev.json
+C:\Users\Vera\source\repos\AssociativeArraysExercise\6. Courses\bin\Debug\netcoreapp2.2\6. Courses.dll
+C:\Users\Vera\source\repos\AssociativeArraysExercise\6. Courses\bin\Debug\netcoreapp2.2\6. Courses.pdb
+C:\Users\Vera\source\repos\AssociativeArraysExercise\6. Courses\obj\Debug\netcoreapp2.2\6. Courses.csproj.CoreCompileInputs.cache
+C:\Users\Vera\source\repos\AssociativeArraysExercise\6. Courses\obj\Debug\netcoreapp2.2\6. Courses.AssemblyInfoInputs.cache
+C:\Users\Vera\source\repos\AssociativeArraysExercise\6. Courses\obj\Debug\netcoreapp2.2\6. Courses.AssemblyInfo.cs
+C:\Users\Vera\source\repos\AssociativeArraysExercise\6. Courses\obj\Debug\netcoreapp2.2\6. Courses.dll
+C:\Users\Vera\source\repos\AssociativeArraysExercise\6. Courses\obj\Debug\netcoreapp2.2\6. Courses.pdb

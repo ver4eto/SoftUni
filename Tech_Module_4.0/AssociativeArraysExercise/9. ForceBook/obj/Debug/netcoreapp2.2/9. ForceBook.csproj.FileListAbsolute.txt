@@ -1,0 +1,11 @@
+C:\Users\Vera\source\repos\AssociativeArraysExercise\9. ForceBook\bin\Debug\netcoreapp2.2\9. ForceBook.deps.json
+C:\Users\Vera\source\repos\AssociativeArraysExercise\9. ForceBook\bin\Debug\netcoreapp2.2\9. ForceBook.runtimeconfig.json
+C:\Users\Vera\source\repos\AssociativeArraysExercise\9. ForceBook\bin\Debug\netcoreapp2.2\9. ForceBook.runtimeconfig.dev.json
+C:\Users\Vera\source\repos\AssociativeArraysExercise\9. ForceBook\bin\Debug\netcoreapp2.2\9. ForceBook.dll
+C:\Users\Vera\source\repos\AssociativeArraysExercise\9. ForceBook\bin\Debug\netcoreapp2.2\9. ForceBook.pdb
+C:\Users\Vera\source\repos\AssociativeArraysExercise\9. ForceBook\obj\Debug\netcoreapp2.2\9. ForceBook.csproj.CoreCompileInputs.cache
+C:\Users\Vera\source\repos\AssociativeArraysExercise\9. ForceBook\obj\Debug\netcoreapp2.2\9. ForceBook.AssemblyInfoInputs.cache
+C:\Users\Vera\source\repos\AssociativeArraysExercise\9. ForceBook\obj\Debug\netcoreapp2.2\9. ForceBook.AssemblyInfo.cs
+C:\Users\Vera\source\repos\AssociativeArraysExercise\9. ForceBook\obj\Debug\netcoreapp2.2\9. ForceBook.dll
+C:\Users\Vera\source\repos\AssociativeArraysExercise\9. ForceBook\obj\Debug\netcoreapp2.2\9. ForceBook.pdb
+C:\Users\Vera\source\repos\AssociativeArraysExercise\9. ForceBook\obj\Debug\netcoreapp2.2\9. ForceBook.csprojAssemblyReference.cache

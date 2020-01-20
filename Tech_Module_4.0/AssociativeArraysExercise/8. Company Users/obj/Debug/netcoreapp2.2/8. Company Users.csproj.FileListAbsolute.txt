@@ -1,0 +1,10 @@
+C:\Users\Vera\source\repos\AssociativeArraysExercise\8. Company Users\bin\Debug\netcoreapp2.2\8. Company Users.deps.json
+C:\Users\Vera\source\repos\AssociativeArraysExercise\8. Company Users\bin\Debug\netcoreapp2.2\8. Company Users.runtimeconfig.json
+C:\Users\Vera\source\repos\AssociativeArraysExercise\8. Company Users\bin\Debug\netcoreapp2.2\8. Company Users.runtimeconfig.dev.json
+C:\Users\Vera\source\repos\AssociativeArraysExercise\8. Company Users\bin\Debug\netcoreapp2.2\8. Company Users.dll
+C:\Users\Vera\source\repos\AssociativeArraysExercise\8. Company Users\bin\Debug\netcoreapp2.2\8. Company Users.pdb
+C:\Users\Vera\source\repos\AssociativeArraysExercise\8. Company Users\obj\Debug\netcoreapp2.2\8. Company Users.csproj.CoreCompileInputs.cache
+C:\Users\Vera\source\repos\AssociativeArraysExercise\8. Company Users\obj\Debug\netcoreapp2.2\8. Company Users.AssemblyInfoInputs.cache
+C:\Users\Vera\source\repos\AssociativeArraysExercise\8. Company Users\obj\Debug\netcoreapp2.2\8. Company Users.AssemblyInfo.cs
+C:\Users\Vera\source\repos\AssociativeArraysExercise\8. Company Users\obj\Debug\netcoreapp2.2\8. Company Users.dll
+C:\Users\Vera\source\repos\AssociativeArraysExercise\8. Company Users\obj\Debug\netcoreapp2.2\8. Company Users.pdb
