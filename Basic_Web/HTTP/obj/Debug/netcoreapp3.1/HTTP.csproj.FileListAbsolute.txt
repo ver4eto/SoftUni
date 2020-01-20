@@ -1,0 +1,11 @@
+C:\Users\Vera\source\repos\HTTP\HTTP\bin\Debug\netcoreapp3.1\HTTP.exe
+C:\Users\Vera\source\repos\HTTP\HTTP\bin\Debug\netcoreapp3.1\HTTP.deps.json
+C:\Users\Vera\source\repos\HTTP\HTTP\bin\Debug\netcoreapp3.1\HTTP.runtimeconfig.json
+C:\Users\Vera\source\repos\HTTP\HTTP\bin\Debug\netcoreapp3.1\HTTP.runtimeconfig.dev.json
+C:\Users\Vera\source\repos\HTTP\HTTP\bin\Debug\netcoreapp3.1\HTTP.dll
+C:\Users\Vera\source\repos\HTTP\HTTP\bin\Debug\netcoreapp3.1\HTTP.pdb
+C:\Users\Vera\source\repos\HTTP\HTTP\obj\Debug\netcoreapp3.1\HTTP.csprojAssemblyReference.cache
+C:\Users\Vera\source\repos\HTTP\HTTP\obj\Debug\netcoreapp3.1\HTTP.AssemblyInfoInputs.cache
+C:\Users\Vera\source\repos\HTTP\HTTP\obj\Debug\netcoreapp3.1\HTTP.AssemblyInfo.cs
+C:\Users\Vera\source\repos\HTTP\HTTP\obj\Debug\netcoreapp3.1\HTTP.dll
+C:\Users\Vera\source\repos\HTTP\HTTP\obj\Debug\netcoreapp3.1\HTTP.pdb
