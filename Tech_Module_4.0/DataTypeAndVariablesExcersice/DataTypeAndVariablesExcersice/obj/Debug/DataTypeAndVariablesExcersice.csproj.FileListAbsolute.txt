@@ -1,0 +1,7 @@
+C:\Users\Vera\source\repos\DataTypeAndVariablesExcersice\DataTypeAndVariablesExcersice\bin\Debug\DataTypeAndVariablesExcersice.exe.config
+C:\Users\Vera\source\repos\DataTypeAndVariablesExcersice\DataTypeAndVariablesExcersice\bin\Debug\DataTypeAndVariablesExcersice.exe
+C:\Users\Vera\source\repos\DataTypeAndVariablesExcersice\DataTypeAndVariablesExcersice\bin\Debug\DataTypeAndVariablesExcersice.pdb
+C:\Users\Vera\source\repos\DataTypeAndVariablesExcersice\DataTypeAndVariablesExcersice\obj\Debug\DataTypeAndVariablesExcersice.csprojAssemblyReference.cache
+C:\Users\Vera\source\repos\DataTypeAndVariablesExcersice\DataTypeAndVariablesExcersice\obj\Debug\DataTypeAndVariablesExcersice.csproj.CoreCompileInputs.cache
+C:\Users\Vera\source\repos\DataTypeAndVariablesExcersice\DataTypeAndVariablesExcersice\obj\Debug\DataTypeAndVariablesExcersice.exe
+C:\Users\Vera\source\repos\DataTypeAndVariablesExcersice\DataTypeAndVariablesExcersice\obj\Debug\DataTypeAndVariablesExcersice.pdb
