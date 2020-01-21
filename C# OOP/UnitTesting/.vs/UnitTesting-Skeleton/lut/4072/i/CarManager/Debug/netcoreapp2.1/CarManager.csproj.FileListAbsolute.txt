@@ -1,0 +1,7 @@
+C:\Users\Vera\Desktop\C#LABS\C#OOP\11UNIT TESTING\.vs\UnitTesting-Skeleton\lut\0\b\CarManager\Debug\netcoreapp2.1\CarManager.deps.json
+C:\Users\Vera\Desktop\C#LABS\C#OOP\11UNIT TESTING\.vs\UnitTesting-Skeleton\lut\0\b\CarManager\Debug\netcoreapp2.1\CarManager.dll
+C:\Users\Vera\Desktop\C#LABS\C#OOP\11UNIT TESTING\.vs\UnitTesting-Skeleton\lut\0\i\CarManager\Debug\netcoreapp2.1\CarManager.csproj.CoreCompileInputs.cache
+C:\Users\Vera\Desktop\C#LABS\C#OOP\11UNIT TESTING\.vs\UnitTesting-Skeleton\lut\0\i\CarManager\Debug\netcoreapp2.1\CarManager.AssemblyInfoInputs.cache
+C:\Users\Vera\Desktop\C#LABS\C#OOP\11UNIT TESTING\.vs\UnitTesting-Skeleton\lut\0\i\CarManager\Debug\netcoreapp2.1\CarManager.AssemblyInfo.cs
+C:\Users\Vera\Desktop\C#LABS\C#OOP\11UNIT TESTING\.vs\UnitTesting-Skeleton\lut\0\i\CarManager\Debug\netcoreapp2.1\CarManager.csproj.CopyComplete
+C:\Users\Vera\Desktop\C#LABS\C#OOP\11UNIT TESTING\.vs\UnitTesting-Skeleton\lut\0\i\CarManager\Debug\netcoreapp2.1\CarManager.dll

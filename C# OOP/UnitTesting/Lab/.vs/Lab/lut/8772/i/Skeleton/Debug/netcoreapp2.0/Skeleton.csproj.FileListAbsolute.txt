@@ -1,0 +1,9 @@
+C:\Users\Vera\Desktop\C#LABS\C#OOP\11UNIT TESTING\Lab\.vs\Lab\lut\0\b\Skeleton\Debug\netcoreapp2.0\Skeleton.deps.json
+C:\Users\Vera\Desktop\C#LABS\C#OOP\11UNIT TESTING\Lab\.vs\Lab\lut\0\b\Skeleton\Debug\netcoreapp2.0\Skeleton.runtimeconfig.json
+C:\Users\Vera\Desktop\C#LABS\C#OOP\11UNIT TESTING\Lab\.vs\Lab\lut\0\b\Skeleton\Debug\netcoreapp2.0\Skeleton.runtimeconfig.dev.json
+C:\Users\Vera\Desktop\C#LABS\C#OOP\11UNIT TESTING\Lab\.vs\Lab\lut\0\b\Skeleton\Debug\netcoreapp2.0\Skeleton.dll
+C:\Users\Vera\Desktop\C#LABS\C#OOP\11UNIT TESTING\Lab\.vs\Lab\lut\0\i\Skeleton\Debug\netcoreapp2.0\Skeleton.csproj.CoreCompileInputs.cache
+C:\Users\Vera\Desktop\C#LABS\C#OOP\11UNIT TESTING\Lab\.vs\Lab\lut\0\i\Skeleton\Debug\netcoreapp2.0\Skeleton.AssemblyInfoInputs.cache
+C:\Users\Vera\Desktop\C#LABS\C#OOP\11UNIT TESTING\Lab\.vs\Lab\lut\0\i\Skeleton\Debug\netcoreapp2.0\Skeleton.AssemblyInfo.cs
+C:\Users\Vera\Desktop\C#LABS\C#OOP\11UNIT TESTING\Lab\.vs\Lab\lut\0\i\Skeleton\Debug\netcoreapp2.0\Skeleton.csproj.CopyComplete
+C:\Users\Vera\Desktop\C#LABS\C#OOP\11UNIT TESTING\Lab\.vs\Lab\lut\0\i\Skeleton\Debug\netcoreapp2.0\Skeleton.dll

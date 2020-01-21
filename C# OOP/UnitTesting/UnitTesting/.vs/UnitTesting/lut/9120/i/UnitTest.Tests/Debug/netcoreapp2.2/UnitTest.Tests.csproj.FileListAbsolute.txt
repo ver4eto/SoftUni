@@ -1,0 +1,12 @@
+C:\Users\Vera\source\repos\UnitTesting\.vs\UnitTesting\lut\0\b\UnitTest.Tests\Debug\netcoreapp2.2\NUnit3.TestAdapter.dll
+C:\Users\Vera\source\repos\UnitTesting\.vs\UnitTesting\lut\0\b\UnitTest.Tests\Debug\netcoreapp2.2\NUnit3.TestAdapter.pdb
+C:\Users\Vera\source\repos\UnitTesting\.vs\UnitTesting\lut\0\b\UnitTest.Tests\Debug\netcoreapp2.2\nunit.engine.netstandard.dll
+C:\Users\Vera\source\repos\UnitTesting\.vs\UnitTesting\lut\0\b\UnitTest.Tests\Debug\netcoreapp2.2\UnitTest.Tests.deps.json
+C:\Users\Vera\source\repos\UnitTesting\.vs\UnitTesting\lut\0\b\UnitTest.Tests\Debug\netcoreapp2.2\UnitTest.Tests.runtimeconfig.json
+C:\Users\Vera\source\repos\UnitTesting\.vs\UnitTesting\lut\0\b\UnitTest.Tests\Debug\netcoreapp2.2\UnitTest.Tests.runtimeconfig.dev.json
+C:\Users\Vera\source\repos\UnitTesting\.vs\UnitTesting\lut\0\b\UnitTest.Tests\Debug\netcoreapp2.2\UnitTest.Tests.dll
+C:\Users\Vera\source\repos\UnitTesting\.vs\UnitTesting\lut\0\i\UnitTest.Tests\Debug\netcoreapp2.2\UnitTest.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Vera\source\repos\UnitTesting\.vs\UnitTesting\lut\0\i\UnitTest.Tests\Debug\netcoreapp2.2\UnitTest.Tests.AssemblyInfoInputs.cache
+C:\Users\Vera\source\repos\UnitTesting\.vs\UnitTesting\lut\0\i\UnitTest.Tests\Debug\netcoreapp2.2\UnitTest.Tests.AssemblyInfo.cs
+C:\Users\Vera\source\repos\UnitTesting\.vs\UnitTesting\lut\0\i\UnitTest.Tests\Debug\netcoreapp2.2\UnitTest.Tests.csproj.CopyComplete
+C:\Users\Vera\source\repos\UnitTesting\.vs\UnitTesting\lut\0\i\UnitTest.Tests\Debug\netcoreapp2.2\UnitTest.Tests.dll

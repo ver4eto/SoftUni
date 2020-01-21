@@ -1,0 +1,8 @@
+C:\Users\Vera\Desktop\C#LABS\C#OOP\11UNIT TESTING\FightingArena\bin\Debug\netcoreapp2.1\FightingArena.deps.json
+C:\Users\Vera\Desktop\C#LABS\C#OOP\11UNIT TESTING\FightingArena\bin\Debug\netcoreapp2.1\FightingArena.dll
+C:\Users\Vera\Desktop\C#LABS\C#OOP\11UNIT TESTING\FightingArena\bin\Debug\netcoreapp2.1\FightingArena.pdb
+C:\Users\Vera\Desktop\C#LABS\C#OOP\11UNIT TESTING\FightingArena\obj\Debug\netcoreapp2.1\FightingArena.csproj.CoreCompileInputs.cache
+C:\Users\Vera\Desktop\C#LABS\C#OOP\11UNIT TESTING\FightingArena\obj\Debug\netcoreapp2.1\FightingArena.AssemblyInfoInputs.cache
+C:\Users\Vera\Desktop\C#LABS\C#OOP\11UNIT TESTING\FightingArena\obj\Debug\netcoreapp2.1\FightingArena.AssemblyInfo.cs
+C:\Users\Vera\Desktop\C#LABS\C#OOP\11UNIT TESTING\FightingArena\obj\Debug\netcoreapp2.1\FightingArena.dll
+C:\Users\Vera\Desktop\C#LABS\C#OOP\11UNIT TESTING\FightingArena\obj\Debug\netcoreapp2.1\FightingArena.pdb

@@ -1,0 +1,7 @@
+C:\Users\Vera\Desktop\C#LABS\C#OOP\11UNIT TESTING\.vs\UnitTesting-Skeleton\lut\0\b\Database\Debug\netcoreapp2.1\Database.deps.json
+C:\Users\Vera\Desktop\C#LABS\C#OOP\11UNIT TESTING\.vs\UnitTesting-Skeleton\lut\0\b\Database\Debug\netcoreapp2.1\Database.dll
+C:\Users\Vera\Desktop\C#LABS\C#OOP\11UNIT TESTING\.vs\UnitTesting-Skeleton\lut\0\i\Database\Debug\netcoreapp2.1\Database.csproj.CoreCompileInputs.cache
+C:\Users\Vera\Desktop\C#LABS\C#OOP\11UNIT TESTING\.vs\UnitTesting-Skeleton\lut\0\i\Database\Debug\netcoreapp2.1\Database.AssemblyInfoInputs.cache
+C:\Users\Vera\Desktop\C#LABS\C#OOP\11UNIT TESTING\.vs\UnitTesting-Skeleton\lut\0\i\Database\Debug\netcoreapp2.1\Database.AssemblyInfo.cs
+C:\Users\Vera\Desktop\C#LABS\C#OOP\11UNIT TESTING\.vs\UnitTesting-Skeleton\lut\0\i\Database\Debug\netcoreapp2.1\Database.csproj.CopyComplete
+C:\Users\Vera\Desktop\C#LABS\C#OOP\11UNIT TESTING\.vs\UnitTesting-Skeleton\lut\0\i\Database\Debug\netcoreapp2.1\Database.dll

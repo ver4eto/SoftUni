@@ -1,0 +1,9 @@
+C:\Users\Vera\Desktop\C#LABS\C#OOP\11UNIT TESTING\DatabaseExtended\bin\Debug\netcoreapp2.1\DatabaseExtended.deps.json
+C:\Users\Vera\Desktop\C#LABS\C#OOP\11UNIT TESTING\DatabaseExtended\bin\Debug\netcoreapp2.1\DatabaseExtended.dll
+C:\Users\Vera\Desktop\C#LABS\C#OOP\11UNIT TESTING\DatabaseExtended\bin\Debug\netcoreapp2.1\DatabaseExtended.pdb
+C:\Users\Vera\Desktop\C#LABS\C#OOP\11UNIT TESTING\DatabaseExtended\obj\Debug\netcoreapp2.1\DatabaseExtended.csprojAssemblyReference.cache
+C:\Users\Vera\Desktop\C#LABS\C#OOP\11UNIT TESTING\DatabaseExtended\obj\Debug\netcoreapp2.1\DatabaseExtended.csproj.CoreCompileInputs.cache
+C:\Users\Vera\Desktop\C#LABS\C#OOP\11UNIT TESTING\DatabaseExtended\obj\Debug\netcoreapp2.1\DatabaseExtended.AssemblyInfoInputs.cache
+C:\Users\Vera\Desktop\C#LABS\C#OOP\11UNIT TESTING\DatabaseExtended\obj\Debug\netcoreapp2.1\DatabaseExtended.AssemblyInfo.cs
+C:\Users\Vera\Desktop\C#LABS\C#OOP\11UNIT TESTING\DatabaseExtended\obj\Debug\netcoreapp2.1\DatabaseExtended.dll
+C:\Users\Vera\Desktop\C#LABS\C#OOP\11UNIT TESTING\DatabaseExtended\obj\Debug\netcoreapp2.1\DatabaseExtended.pdb

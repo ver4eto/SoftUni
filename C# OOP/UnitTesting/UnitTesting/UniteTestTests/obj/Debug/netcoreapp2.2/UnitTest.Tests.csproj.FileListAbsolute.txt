@@ -1,0 +1,17 @@
+C:\Users\Vera\source\repos\UnitTesting\UniteTestTests\bin\Debug\netcoreapp2.2\UnitTesting.dll
+C:\Users\Vera\source\repos\UnitTesting\UniteTestTests\obj\Debug\netcoreapp2.2\UnitTest.Tests.csprojAssemblyReference.cache
+C:\Users\Vera\source\repos\UnitTesting\UniteTestTests\obj\Debug\netcoreapp2.2\UnitTest.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Vera\source\repos\UnitTesting\UniteTestTests\obj\Debug\netcoreapp2.2\UnitTest.Tests.AssemblyInfoInputs.cache
+C:\Users\Vera\source\repos\UnitTesting\UniteTestTests\obj\Debug\netcoreapp2.2\UnitTest.Tests.AssemblyInfo.cs
+C:\Users\Vera\source\repos\UnitTesting\UniteTestTests\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.dll
+C:\Users\Vera\source\repos\UnitTesting\UniteTestTests\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.pdb
+C:\Users\Vera\source\repos\UnitTesting\UniteTestTests\bin\Debug\netcoreapp2.2\nunit.engine.netstandard.dll
+C:\Users\Vera\source\repos\UnitTesting\UniteTestTests\bin\Debug\netcoreapp2.2\UnitTest.Tests.deps.json
+C:\Users\Vera\source\repos\UnitTesting\UniteTestTests\bin\Debug\netcoreapp2.2\UnitTest.Tests.runtimeconfig.json
+C:\Users\Vera\source\repos\UnitTesting\UniteTestTests\bin\Debug\netcoreapp2.2\UnitTest.Tests.runtimeconfig.dev.json
+C:\Users\Vera\source\repos\UnitTesting\UniteTestTests\bin\Debug\netcoreapp2.2\UnitTest.Tests.dll
+C:\Users\Vera\source\repos\UnitTesting\UniteTestTests\bin\Debug\netcoreapp2.2\UnitTest.Tests.pdb
+C:\Users\Vera\source\repos\UnitTesting\UniteTestTests\bin\Debug\netcoreapp2.2\UnitTesting.pdb
+C:\Users\Vera\source\repos\UnitTesting\UniteTestTests\obj\Debug\netcoreapp2.2\UnitTest.Tests.csproj.CopyComplete
+C:\Users\Vera\source\repos\UnitTesting\UniteTestTests\obj\Debug\netcoreapp2.2\UnitTest.Tests.dll
+C:\Users\Vera\source\repos\UnitTesting\UniteTestTests\obj\Debug\netcoreapp2.2\UnitTest.Tests.pdb

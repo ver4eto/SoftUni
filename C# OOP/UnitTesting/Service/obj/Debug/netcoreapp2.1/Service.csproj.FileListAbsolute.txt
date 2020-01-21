@@ -1,0 +1,8 @@
+C:\Users\Vera\Desktop\C#LABS\C#OOP\11UNIT TESTING\Service\bin\Debug\netcoreapp2.1\Service.deps.json
+C:\Users\Vera\Desktop\C#LABS\C#OOP\11UNIT TESTING\Service\bin\Debug\netcoreapp2.1\Service.dll
+C:\Users\Vera\Desktop\C#LABS\C#OOP\11UNIT TESTING\Service\bin\Debug\netcoreapp2.1\Service.pdb
+C:\Users\Vera\Desktop\C#LABS\C#OOP\11UNIT TESTING\Service\obj\Debug\netcoreapp2.1\Service.csproj.CoreCompileInputs.cache
+C:\Users\Vera\Desktop\C#LABS\C#OOP\11UNIT TESTING\Service\obj\Debug\netcoreapp2.1\Service.AssemblyInfoInputs.cache
+C:\Users\Vera\Desktop\C#LABS\C#OOP\11UNIT TESTING\Service\obj\Debug\netcoreapp2.1\Service.AssemblyInfo.cs
+C:\Users\Vera\Desktop\C#LABS\C#OOP\11UNIT TESTING\Service\obj\Debug\netcoreapp2.1\Service.dll
+C:\Users\Vera\Desktop\C#LABS\C#OOP\11UNIT TESTING\Service\obj\Debug\netcoreapp2.1\Service.pdb

@@ -1,0 +1,12 @@
+C:\Users\Vera\Desktop\C#LABS\C#OOP\11UNIT TESTING\.vs\UnitTesting-Skeleton\lut\0\b\CarManager.Tests\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+C:\Users\Vera\Desktop\C#LABS\C#OOP\11UNIT TESTING\.vs\UnitTesting-Skeleton\lut\0\b\CarManager.Tests\Debug\netcoreapp2.1\nunit.engine.netstandard.dll
+C:\Users\Vera\Desktop\C#LABS\C#OOP\11UNIT TESTING\.vs\UnitTesting-Skeleton\lut\0\b\CarManager.Tests\Debug\netcoreapp2.1\Mono.Cecil.dll
+C:\Users\Vera\Desktop\C#LABS\C#OOP\11UNIT TESTING\.vs\UnitTesting-Skeleton\lut\0\b\CarManager.Tests\Debug\netcoreapp2.1\CarManager.Tests.deps.json
+C:\Users\Vera\Desktop\C#LABS\C#OOP\11UNIT TESTING\.vs\UnitTesting-Skeleton\lut\0\b\CarManager.Tests\Debug\netcoreapp2.1\CarManager.Tests.runtimeconfig.json
+C:\Users\Vera\Desktop\C#LABS\C#OOP\11UNIT TESTING\.vs\UnitTesting-Skeleton\lut\0\b\CarManager.Tests\Debug\netcoreapp2.1\CarManager.Tests.runtimeconfig.dev.json
+C:\Users\Vera\Desktop\C#LABS\C#OOP\11UNIT TESTING\.vs\UnitTesting-Skeleton\lut\0\b\CarManager.Tests\Debug\netcoreapp2.1\CarManager.Tests.dll
+C:\Users\Vera\Desktop\C#LABS\C#OOP\11UNIT TESTING\.vs\UnitTesting-Skeleton\lut\0\i\CarManager.Tests\Debug\netcoreapp2.1\CarManager.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Vera\Desktop\C#LABS\C#OOP\11UNIT TESTING\.vs\UnitTesting-Skeleton\lut\0\i\CarManager.Tests\Debug\netcoreapp2.1\CarManager.Tests.AssemblyInfoInputs.cache
+C:\Users\Vera\Desktop\C#LABS\C#OOP\11UNIT TESTING\.vs\UnitTesting-Skeleton\lut\0\i\CarManager.Tests\Debug\netcoreapp2.1\CarManager.Tests.AssemblyInfo.cs
+C:\Users\Vera\Desktop\C#LABS\C#OOP\11UNIT TESTING\.vs\UnitTesting-Skeleton\lut\0\i\CarManager.Tests\Debug\netcoreapp2.1\CarManager.Tests.csproj.CopyComplete
+C:\Users\Vera\Desktop\C#LABS\C#OOP\11UNIT TESTING\.vs\UnitTesting-Skeleton\lut\0\i\CarManager.Tests\Debug\netcoreapp2.1\CarManager.Tests.dll

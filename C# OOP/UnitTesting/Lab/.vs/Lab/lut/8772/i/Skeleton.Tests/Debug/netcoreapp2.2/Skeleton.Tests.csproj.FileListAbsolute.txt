@@ -1,0 +1,13 @@
+C:\Users\Vera\Desktop\C#LABS\C#OOP\11UNIT TESTING\Lab\.vs\Lab\lut\0\b\Skeleton.Tests\Debug\netcoreapp2.2\NUnit3.TestAdapter.dll
+C:\Users\Vera\Desktop\C#LABS\C#OOP\11UNIT TESTING\Lab\.vs\Lab\lut\0\b\Skeleton.Tests\Debug\netcoreapp2.2\NUnit3.TestAdapter.pdb
+C:\Users\Vera\Desktop\C#LABS\C#OOP\11UNIT TESTING\Lab\.vs\Lab\lut\0\b\Skeleton.Tests\Debug\netcoreapp2.2\nunit.engine.netstandard.dll
+C:\Users\Vera\Desktop\C#LABS\C#OOP\11UNIT TESTING\Lab\.vs\Lab\lut\0\b\Skeleton.Tests\Debug\netcoreapp2.2\Skeleton.Tests.deps.json
+C:\Users\Vera\Desktop\C#LABS\C#OOP\11UNIT TESTING\Lab\.vs\Lab\lut\0\b\Skeleton.Tests\Debug\netcoreapp2.2\Skeleton.Tests.runtimeconfig.json
+C:\Users\Vera\Desktop\C#LABS\C#OOP\11UNIT TESTING\Lab\.vs\Lab\lut\0\b\Skeleton.Tests\Debug\netcoreapp2.2\Skeleton.Tests.runtimeconfig.dev.json
+C:\Users\Vera\Desktop\C#LABS\C#OOP\11UNIT TESTING\Lab\.vs\Lab\lut\0\b\Skeleton.Tests\Debug\netcoreapp2.2\Skeleton.Tests.dll
+C:\Users\Vera\Desktop\C#LABS\C#OOP\11UNIT TESTING\Lab\.vs\Lab\lut\0\i\Skeleton.Tests\Debug\netcoreapp2.2\Skeleton.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Vera\Desktop\C#LABS\C#OOP\11UNIT TESTING\Lab\.vs\Lab\lut\0\i\Skeleton.Tests\Debug\netcoreapp2.2\Skeleton.Tests.AssemblyInfoInputs.cache
+C:\Users\Vera\Desktop\C#LABS\C#OOP\11UNIT TESTING\Lab\.vs\Lab\lut\0\i\Skeleton.Tests\Debug\netcoreapp2.2\Skeleton.Tests.AssemblyInfo.cs
+C:\Users\Vera\Desktop\C#LABS\C#OOP\11UNIT TESTING\Lab\.vs\Lab\lut\0\i\Skeleton.Tests\Debug\netcoreapp2.2\Skeleton.Tests.csproj.CopyComplete
+C:\Users\Vera\Desktop\C#LABS\C#OOP\11UNIT TESTING\Lab\.vs\Lab\lut\0\i\Skeleton.Tests\Debug\netcoreapp2.2\Skeleton.Tests.dll
+C:\Users\Vera\Desktop\C#LABS\C#OOP\11UNIT TESTING\Lab\.vs\Lab\lut\0\i\Skeleton.Tests\Debug\netcoreapp2.2\Skeleton.Tests.csprojAssemblyReference.cache

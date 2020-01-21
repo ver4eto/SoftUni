@@ -1,0 +1,12 @@
+C:\Users\Vera\Desktop\C#LABS\C#OOP\11UNIT TESTING\Lab\Tests\bin\Debug\netcoreapp2.2\Tests.deps.json
+C:\Users\Vera\Desktop\C#LABS\C#OOP\11UNIT TESTING\Lab\Tests\bin\Debug\netcoreapp2.2\Tests.dll
+C:\Users\Vera\Desktop\C#LABS\C#OOP\11UNIT TESTING\Lab\Tests\bin\Debug\netcoreapp2.2\Skeleton.dll
+C:\Users\Vera\Desktop\C#LABS\C#OOP\11UNIT TESTING\Lab\Tests\bin\Debug\netcoreapp2.2\Skeleton.pdb
+C:\Users\Vera\Desktop\C#LABS\C#OOP\11UNIT TESTING\Lab\Tests\obj\Debug\netcoreapp2.2\Tests.csprojAssemblyReference.cache
+C:\Users\Vera\Desktop\C#LABS\C#OOP\11UNIT TESTING\Lab\Tests\obj\Debug\netcoreapp2.2\Tests.csproj.CoreCompileInputs.cache
+C:\Users\Vera\Desktop\C#LABS\C#OOP\11UNIT TESTING\Lab\Tests\obj\Debug\netcoreapp2.2\Tests.AssemblyInfoInputs.cache
+C:\Users\Vera\Desktop\C#LABS\C#OOP\11UNIT TESTING\Lab\Tests\obj\Debug\netcoreapp2.2\Tests.AssemblyInfo.cs
+C:\Users\Vera\Desktop\C#LABS\C#OOP\11UNIT TESTING\Lab\Tests\obj\Debug\netcoreapp2.2\Tests.csproj.CopyComplete
+C:\Users\Vera\Desktop\C#LABS\C#OOP\11UNIT TESTING\Lab\Tests\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.dll
+C:\Users\Vera\Desktop\C#LABS\C#OOP\11UNIT TESTING\Lab\Tests\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.pdb
+C:\Users\Vera\Desktop\C#LABS\C#OOP\11UNIT TESTING\Lab\Tests\bin\Debug\netcoreapp2.2\nunit.engine.netstandard.dll
