@@ -1,0 +1,11 @@
+C:\Users\Vera\source\repos\MidExamPrep\DemoMID\bin\Debug\netcoreapp2.2\DemoMID.deps.json
+C:\Users\Vera\source\repos\MidExamPrep\DemoMID\bin\Debug\netcoreapp2.2\DemoMID.runtimeconfig.json
+C:\Users\Vera\source\repos\MidExamPrep\DemoMID\bin\Debug\netcoreapp2.2\DemoMID.runtimeconfig.dev.json
+C:\Users\Vera\source\repos\MidExamPrep\DemoMID\bin\Debug\netcoreapp2.2\DemoMID.dll
+C:\Users\Vera\source\repos\MidExamPrep\DemoMID\bin\Debug\netcoreapp2.2\DemoMID.pdb
+C:\Users\Vera\source\repos\MidExamPrep\DemoMID\obj\Debug\netcoreapp2.2\DemoMID.csprojAssemblyReference.cache
+C:\Users\Vera\source\repos\MidExamPrep\DemoMID\obj\Debug\netcoreapp2.2\DemoMID.csproj.CoreCompileInputs.cache
+C:\Users\Vera\source\repos\MidExamPrep\DemoMID\obj\Debug\netcoreapp2.2\DemoMID.AssemblyInfoInputs.cache
+C:\Users\Vera\source\repos\MidExamPrep\DemoMID\obj\Debug\netcoreapp2.2\DemoMID.AssemblyInfo.cs
+C:\Users\Vera\source\repos\MidExamPrep\DemoMID\obj\Debug\netcoreapp2.2\DemoMID.dll
+C:\Users\Vera\source\repos\MidExamPrep\DemoMID\obj\Debug\netcoreapp2.2\DemoMID.pdb

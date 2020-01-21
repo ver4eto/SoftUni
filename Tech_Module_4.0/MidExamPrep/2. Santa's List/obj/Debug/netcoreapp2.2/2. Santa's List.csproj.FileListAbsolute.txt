@@ -1,0 +1,11 @@
+C:\Users\Vera\source\repos\MidExamPrep\2. Santa's List\bin\Debug\netcoreapp2.2\2. Santa's List.deps.json
+C:\Users\Vera\source\repos\MidExamPrep\2. Santa's List\bin\Debug\netcoreapp2.2\2. Santa's List.runtimeconfig.json
+C:\Users\Vera\source\repos\MidExamPrep\2. Santa's List\bin\Debug\netcoreapp2.2\2. Santa's List.runtimeconfig.dev.json
+C:\Users\Vera\source\repos\MidExamPrep\2. Santa's List\bin\Debug\netcoreapp2.2\2. Santa's List.dll
+C:\Users\Vera\source\repos\MidExamPrep\2. Santa's List\bin\Debug\netcoreapp2.2\2. Santa's List.pdb
+C:\Users\Vera\source\repos\MidExamPrep\2. Santa's List\obj\Debug\netcoreapp2.2\2. Santa's List.csproj.CoreCompileInputs.cache
+C:\Users\Vera\source\repos\MidExamPrep\2. Santa's List\obj\Debug\netcoreapp2.2\2. Santa's List.AssemblyInfoInputs.cache
+C:\Users\Vera\source\repos\MidExamPrep\2. Santa's List\obj\Debug\netcoreapp2.2\2. Santa's List.AssemblyInfo.cs
+C:\Users\Vera\source\repos\MidExamPrep\2. Santa's List\obj\Debug\netcoreapp2.2\2. Santa's List.dll
+C:\Users\Vera\source\repos\MidExamPrep\2. Santa's List\obj\Debug\netcoreapp2.2\2. Santa's List.pdb
+C:\Users\Vera\source\repos\MidExamPrep\2. Santa's List\obj\Debug\netcoreapp2.2\2. Santa's List.csprojAssemblyReference.cache

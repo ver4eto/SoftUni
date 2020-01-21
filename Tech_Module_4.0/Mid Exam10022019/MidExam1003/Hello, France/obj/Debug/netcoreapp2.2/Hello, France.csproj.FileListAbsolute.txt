@@ -1,0 +1,11 @@
+C:\Users\Vera\source\repos\MidExam1003\Hello, France\bin\Debug\netcoreapp2.2\Hello, France.deps.json
+C:\Users\Vera\source\repos\MidExam1003\Hello, France\bin\Debug\netcoreapp2.2\Hello, France.runtimeconfig.json
+C:\Users\Vera\source\repos\MidExam1003\Hello, France\bin\Debug\netcoreapp2.2\Hello, France.runtimeconfig.dev.json
+C:\Users\Vera\source\repos\MidExam1003\Hello, France\bin\Debug\netcoreapp2.2\Hello, France.dll
+C:\Users\Vera\source\repos\MidExam1003\Hello, France\bin\Debug\netcoreapp2.2\Hello, France.pdb
+C:\Users\Vera\source\repos\MidExam1003\Hello, France\obj\Debug\netcoreapp2.2\Hello, France.csprojAssemblyReference.cache
+C:\Users\Vera\source\repos\MidExam1003\Hello, France\obj\Debug\netcoreapp2.2\Hello, France.csproj.CoreCompileInputs.cache
+C:\Users\Vera\source\repos\MidExam1003\Hello, France\obj\Debug\netcoreapp2.2\Hello, France.AssemblyInfoInputs.cache
+C:\Users\Vera\source\repos\MidExam1003\Hello, France\obj\Debug\netcoreapp2.2\Hello, France.AssemblyInfo.cs
+C:\Users\Vera\source\repos\MidExam1003\Hello, France\obj\Debug\netcoreapp2.2\Hello, France.dll
+C:\Users\Vera\source\repos\MidExam1003\Hello, France\obj\Debug\netcoreapp2.2\Hello, France.pdb

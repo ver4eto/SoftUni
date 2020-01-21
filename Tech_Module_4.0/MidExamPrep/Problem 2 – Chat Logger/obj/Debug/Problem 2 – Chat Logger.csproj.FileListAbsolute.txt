@@ -1,0 +1,7 @@
+C:\Users\Vera\source\repos\MidExamPrep\Problem 2 – Chat Logger\bin\Debug\Problem 2 – Chat Logger.exe.config
+C:\Users\Vera\source\repos\MidExamPrep\Problem 2 – Chat Logger\bin\Debug\Problem 2 – Chat Logger.exe
+C:\Users\Vera\source\repos\MidExamPrep\Problem 2 – Chat Logger\bin\Debug\Problem 2 – Chat Logger.pdb
+C:\Users\Vera\source\repos\MidExamPrep\Problem 2 – Chat Logger\obj\Debug\Problem 2 – Chat Logger.csprojAssemblyReference.cache
+C:\Users\Vera\source\repos\MidExamPrep\Problem 2 – Chat Logger\obj\Debug\Problem 2 – Chat Logger.csproj.CoreCompileInputs.cache
+C:\Users\Vera\source\repos\MidExamPrep\Problem 2 – Chat Logger\obj\Debug\Problem 2 – Chat Logger.exe
+C:\Users\Vera\source\repos\MidExamPrep\Problem 2 – Chat Logger\obj\Debug\Problem 2 – Chat Logger.pdb

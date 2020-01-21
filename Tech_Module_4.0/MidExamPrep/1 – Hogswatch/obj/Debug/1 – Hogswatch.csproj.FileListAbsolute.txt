@@ -1,0 +1,7 @@
+C:\Users\Vera\source\repos\MidExamPrep\1 – Hogswatch\bin\Debug\1 – Hogswatch.exe.config
+C:\Users\Vera\source\repos\MidExamPrep\1 – Hogswatch\bin\Debug\1 – Hogswatch.exe
+C:\Users\Vera\source\repos\MidExamPrep\1 – Hogswatch\bin\Debug\1 – Hogswatch.pdb
+C:\Users\Vera\source\repos\MidExamPrep\1 – Hogswatch\obj\Debug\1 – Hogswatch.csprojAssemblyReference.cache
+C:\Users\Vera\source\repos\MidExamPrep\1 – Hogswatch\obj\Debug\1 – Hogswatch.csproj.CoreCompileInputs.cache
+C:\Users\Vera\source\repos\MidExamPrep\1 – Hogswatch\obj\Debug\1 – Hogswatch.exe
+C:\Users\Vera\source\repos\MidExamPrep\1 – Hogswatch\obj\Debug\1 – Hogswatch.pdb

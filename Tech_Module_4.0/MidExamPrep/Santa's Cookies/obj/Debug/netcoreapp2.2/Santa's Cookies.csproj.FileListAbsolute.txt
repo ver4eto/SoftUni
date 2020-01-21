@@ -1,0 +1,11 @@
+C:\Users\Vera\source\repos\MidExamPrep\Santa's Cookies\bin\Debug\netcoreapp2.2\Santa's Cookies.deps.json
+C:\Users\Vera\source\repos\MidExamPrep\Santa's Cookies\bin\Debug\netcoreapp2.2\Santa's Cookies.runtimeconfig.json
+C:\Users\Vera\source\repos\MidExamPrep\Santa's Cookies\bin\Debug\netcoreapp2.2\Santa's Cookies.runtimeconfig.dev.json
+C:\Users\Vera\source\repos\MidExamPrep\Santa's Cookies\bin\Debug\netcoreapp2.2\Santa's Cookies.dll
+C:\Users\Vera\source\repos\MidExamPrep\Santa's Cookies\bin\Debug\netcoreapp2.2\Santa's Cookies.pdb
+C:\Users\Vera\source\repos\MidExamPrep\Santa's Cookies\obj\Debug\netcoreapp2.2\Santa's Cookies.csprojAssemblyReference.cache
+C:\Users\Vera\source\repos\MidExamPrep\Santa's Cookies\obj\Debug\netcoreapp2.2\Santa's Cookies.csproj.CoreCompileInputs.cache
+C:\Users\Vera\source\repos\MidExamPrep\Santa's Cookies\obj\Debug\netcoreapp2.2\Santa's Cookies.AssemblyInfoInputs.cache
+C:\Users\Vera\source\repos\MidExamPrep\Santa's Cookies\obj\Debug\netcoreapp2.2\Santa's Cookies.AssemblyInfo.cs
+C:\Users\Vera\source\repos\MidExamPrep\Santa's Cookies\obj\Debug\netcoreapp2.2\Santa's Cookies.dll
+C:\Users\Vera\source\repos\MidExamPrep\Santa's Cookies\obj\Debug\netcoreapp2.2\Santa's Cookies.pdb

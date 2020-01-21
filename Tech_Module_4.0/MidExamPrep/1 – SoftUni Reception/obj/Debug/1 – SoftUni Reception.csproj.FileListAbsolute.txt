@@ -1,0 +1,7 @@
+C:\Users\Vera\source\repos\MidExamPrep\1 – SoftUni Reception\bin\Debug\1 – SoftUni Reception.exe.config
+C:\Users\Vera\source\repos\MidExamPrep\1 – SoftUni Reception\bin\Debug\1 – SoftUni Reception.exe
+C:\Users\Vera\source\repos\MidExamPrep\1 – SoftUni Reception\bin\Debug\1 – SoftUni Reception.pdb
+C:\Users\Vera\source\repos\MidExamPrep\1 – SoftUni Reception\obj\Debug\1 – SoftUni Reception.csprojAssemblyReference.cache
+C:\Users\Vera\source\repos\MidExamPrep\1 – SoftUni Reception\obj\Debug\1 – SoftUni Reception.csproj.CoreCompileInputs.cache
+C:\Users\Vera\source\repos\MidExamPrep\1 – SoftUni Reception\obj\Debug\1 – SoftUni Reception.exe
+C:\Users\Vera\source\repos\MidExamPrep\1 – SoftUni Reception\obj\Debug\1 – SoftUni Reception.pdb

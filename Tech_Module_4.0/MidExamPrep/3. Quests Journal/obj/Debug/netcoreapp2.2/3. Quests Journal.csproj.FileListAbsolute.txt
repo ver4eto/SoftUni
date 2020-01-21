@@ -1,0 +1,11 @@
+C:\Users\Vera\source\repos\MidExamPrep\3. Quests Journal\bin\Debug\netcoreapp2.2\3. Quests Journal.deps.json
+C:\Users\Vera\source\repos\MidExamPrep\3. Quests Journal\bin\Debug\netcoreapp2.2\3. Quests Journal.runtimeconfig.json
+C:\Users\Vera\source\repos\MidExamPrep\3. Quests Journal\bin\Debug\netcoreapp2.2\3. Quests Journal.runtimeconfig.dev.json
+C:\Users\Vera\source\repos\MidExamPrep\3. Quests Journal\bin\Debug\netcoreapp2.2\3. Quests Journal.dll
+C:\Users\Vera\source\repos\MidExamPrep\3. Quests Journal\bin\Debug\netcoreapp2.2\3. Quests Journal.pdb
+C:\Users\Vera\source\repos\MidExamPrep\3. Quests Journal\obj\Debug\netcoreapp2.2\3. Quests Journal.csproj.CoreCompileInputs.cache
+C:\Users\Vera\source\repos\MidExamPrep\3. Quests Journal\obj\Debug\netcoreapp2.2\3. Quests Journal.AssemblyInfoInputs.cache
+C:\Users\Vera\source\repos\MidExamPrep\3. Quests Journal\obj\Debug\netcoreapp2.2\3. Quests Journal.AssemblyInfo.cs
+C:\Users\Vera\source\repos\MidExamPrep\3. Quests Journal\obj\Debug\netcoreapp2.2\3. Quests Journal.dll
+C:\Users\Vera\source\repos\MidExamPrep\3. Quests Journal\obj\Debug\netcoreapp2.2\3. Quests Journal.pdb
+C:\Users\Vera\source\repos\MidExamPrep\3. Quests Journal\obj\Debug\netcoreapp2.2\3. Quests Journal.csprojAssemblyReference.cache

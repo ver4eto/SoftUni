@@ -1,0 +1,7 @@
+C:\Users\Vera\source\repos\MidExamPrep\2 – Grains of Sand\bin\Debug\2 – Grains of Sand.exe.config
+C:\Users\Vera\source\repos\MidExamPrep\2 – Grains of Sand\bin\Debug\2 – Grains of Sand.exe
+C:\Users\Vera\source\repos\MidExamPrep\2 – Grains of Sand\bin\Debug\2 – Grains of Sand.pdb
+C:\Users\Vera\source\repos\MidExamPrep\2 – Grains of Sand\obj\Debug\2 – Grains of Sand.csprojAssemblyReference.cache
+C:\Users\Vera\source\repos\MidExamPrep\2 – Grains of Sand\obj\Debug\2 – Grains of Sand.csproj.CoreCompileInputs.cache
+C:\Users\Vera\source\repos\MidExamPrep\2 – Grains of Sand\obj\Debug\2 – Grains of Sand.exe
+C:\Users\Vera\source\repos\MidExamPrep\2 – Grains of Sand\obj\Debug\2 – Grains of Sand.pdb

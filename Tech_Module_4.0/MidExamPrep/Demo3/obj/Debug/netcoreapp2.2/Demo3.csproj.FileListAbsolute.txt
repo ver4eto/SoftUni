@@ -1,0 +1,11 @@
+C:\Users\Vera\source\repos\MidExamPrep\Demo3\bin\Debug\netcoreapp2.2\Demo3.deps.json
+C:\Users\Vera\source\repos\MidExamPrep\Demo3\bin\Debug\netcoreapp2.2\Demo3.runtimeconfig.json
+C:\Users\Vera\source\repos\MidExamPrep\Demo3\bin\Debug\netcoreapp2.2\Demo3.runtimeconfig.dev.json
+C:\Users\Vera\source\repos\MidExamPrep\Demo3\bin\Debug\netcoreapp2.2\Demo3.dll
+C:\Users\Vera\source\repos\MidExamPrep\Demo3\bin\Debug\netcoreapp2.2\Demo3.pdb
+C:\Users\Vera\source\repos\MidExamPrep\Demo3\obj\Debug\netcoreapp2.2\Demo3.csprojAssemblyReference.cache
+C:\Users\Vera\source\repos\MidExamPrep\Demo3\obj\Debug\netcoreapp2.2\Demo3.csproj.CoreCompileInputs.cache
+C:\Users\Vera\source\repos\MidExamPrep\Demo3\obj\Debug\netcoreapp2.2\Demo3.AssemblyInfoInputs.cache
+C:\Users\Vera\source\repos\MidExamPrep\Demo3\obj\Debug\netcoreapp2.2\Demo3.AssemblyInfo.cs
+C:\Users\Vera\source\repos\MidExamPrep\Demo3\obj\Debug\netcoreapp2.2\Demo3.dll
+C:\Users\Vera\source\repos\MidExamPrep\Demo3\obj\Debug\netcoreapp2.2\Demo3.pdb

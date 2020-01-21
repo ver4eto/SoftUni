@@ -1,0 +1,11 @@
+C:\Users\Vera\source\repos\MidExamPrep\MidExamPrep\bin\Debug\netcoreapp2.2\1. Party Profit.deps.json
+C:\Users\Vera\source\repos\MidExamPrep\MidExamPrep\bin\Debug\netcoreapp2.2\1. Party Profit.runtimeconfig.json
+C:\Users\Vera\source\repos\MidExamPrep\MidExamPrep\bin\Debug\netcoreapp2.2\1. Party Profit.runtimeconfig.dev.json
+C:\Users\Vera\source\repos\MidExamPrep\MidExamPrep\bin\Debug\netcoreapp2.2\1. Party Profit.dll
+C:\Users\Vera\source\repos\MidExamPrep\MidExamPrep\bin\Debug\netcoreapp2.2\1. Party Profit.pdb
+C:\Users\Vera\source\repos\MidExamPrep\MidExamPrep\obj\Debug\netcoreapp2.2\1. Party Profit.csprojAssemblyReference.cache
+C:\Users\Vera\source\repos\MidExamPrep\MidExamPrep\obj\Debug\netcoreapp2.2\1. Party Profit.csproj.CoreCompileInputs.cache
+C:\Users\Vera\source\repos\MidExamPrep\MidExamPrep\obj\Debug\netcoreapp2.2\1. Party Profit.AssemblyInfoInputs.cache
+C:\Users\Vera\source\repos\MidExamPrep\MidExamPrep\obj\Debug\netcoreapp2.2\1. Party Profit.AssemblyInfo.cs
+C:\Users\Vera\source\repos\MidExamPrep\MidExamPrep\obj\Debug\netcoreapp2.2\1. Party Profit.dll
+C:\Users\Vera\source\repos\MidExamPrep\MidExamPrep\obj\Debug\netcoreapp2.2\1. Party Profit.pdb

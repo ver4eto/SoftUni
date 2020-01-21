@@ -1,0 +1,11 @@
+C:\Users\Vera\source\repos\MidExamPrep\Santa’s Gifts\bin\Debug\netcoreapp2.2\Santa’s Gifts.deps.json
+C:\Users\Vera\source\repos\MidExamPrep\Santa’s Gifts\bin\Debug\netcoreapp2.2\Santa’s Gifts.runtimeconfig.json
+C:\Users\Vera\source\repos\MidExamPrep\Santa’s Gifts\bin\Debug\netcoreapp2.2\Santa’s Gifts.runtimeconfig.dev.json
+C:\Users\Vera\source\repos\MidExamPrep\Santa’s Gifts\bin\Debug\netcoreapp2.2\Santa’s Gifts.dll
+C:\Users\Vera\source\repos\MidExamPrep\Santa’s Gifts\bin\Debug\netcoreapp2.2\Santa’s Gifts.pdb
+C:\Users\Vera\source\repos\MidExamPrep\Santa’s Gifts\obj\Debug\netcoreapp2.2\Santa’s Gifts.csprojAssemblyReference.cache
+C:\Users\Vera\source\repos\MidExamPrep\Santa’s Gifts\obj\Debug\netcoreapp2.2\Santa’s Gifts.csproj.CoreCompileInputs.cache
+C:\Users\Vera\source\repos\MidExamPrep\Santa’s Gifts\obj\Debug\netcoreapp2.2\Santa’s Gifts.AssemblyInfoInputs.cache
+C:\Users\Vera\source\repos\MidExamPrep\Santa’s Gifts\obj\Debug\netcoreapp2.2\Santa’s Gifts.AssemblyInfo.cs
+C:\Users\Vera\source\repos\MidExamPrep\Santa’s Gifts\obj\Debug\netcoreapp2.2\Santa’s Gifts.dll
+C:\Users\Vera\source\repos\MidExamPrep\Santa’s Gifts\obj\Debug\netcoreapp2.2\Santa’s Gifts.pdb

@@ -1,0 +1,7 @@
+C:\Users\Vera\source\repos\MidExamPrep\Google Seaches\bin\Debug\Google Seaches.exe.config
+C:\Users\Vera\source\repos\MidExamPrep\Google Seaches\bin\Debug\Google Seaches.exe
+C:\Users\Vera\source\repos\MidExamPrep\Google Seaches\bin\Debug\Google Seaches.pdb
+C:\Users\Vera\source\repos\MidExamPrep\Google Seaches\obj\Debug\Google Seaches.csprojAssemblyReference.cache
+C:\Users\Vera\source\repos\MidExamPrep\Google Seaches\obj\Debug\Google Seaches.csproj.CoreCompileInputs.cache
+C:\Users\Vera\source\repos\MidExamPrep\Google Seaches\obj\Debug\Google Seaches.exe
+C:\Users\Vera\source\repos\MidExamPrep\Google Seaches\obj\Debug\Google Seaches.pdb
