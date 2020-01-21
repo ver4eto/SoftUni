@@ -1,0 +1,11 @@
+C:\Users\Vera\source\repos\InterfacesExcersice\MilitaryElite\bin\Debug\netcoreapp2.1\MilitaryElite.deps.json
+C:\Users\Vera\source\repos\InterfacesExcersice\MilitaryElite\bin\Debug\netcoreapp2.1\MilitaryElite.runtimeconfig.json
+C:\Users\Vera\source\repos\InterfacesExcersice\MilitaryElite\bin\Debug\netcoreapp2.1\MilitaryElite.runtimeconfig.dev.json
+C:\Users\Vera\source\repos\InterfacesExcersice\MilitaryElite\bin\Debug\netcoreapp2.1\MilitaryElite.dll
+C:\Users\Vera\source\repos\InterfacesExcersice\MilitaryElite\bin\Debug\netcoreapp2.1\MilitaryElite.pdb
+C:\Users\Vera\source\repos\InterfacesExcersice\MilitaryElite\obj\Debug\netcoreapp2.1\MilitaryElite.csprojAssemblyReference.cache
+C:\Users\Vera\source\repos\InterfacesExcersice\MilitaryElite\obj\Debug\netcoreapp2.1\MilitaryElite.csproj.CoreCompileInputs.cache
+C:\Users\Vera\source\repos\InterfacesExcersice\MilitaryElite\obj\Debug\netcoreapp2.1\MilitaryElite.AssemblyInfoInputs.cache
+C:\Users\Vera\source\repos\InterfacesExcersice\MilitaryElite\obj\Debug\netcoreapp2.1\MilitaryElite.AssemblyInfo.cs
+C:\Users\Vera\source\repos\InterfacesExcersice\MilitaryElite\obj\Debug\netcoreapp2.1\MilitaryElite.dll
+C:\Users\Vera\source\repos\InterfacesExcersice\MilitaryElite\obj\Debug\netcoreapp2.1\MilitaryElite.pdb

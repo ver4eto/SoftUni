@@ -1,0 +1,11 @@
+C:\Users\Vera\source\repos\InterfacesExcersice\Telephony\bin\Debug\netcoreapp2.1\Telephony.deps.json
+C:\Users\Vera\source\repos\InterfacesExcersice\Telephony\bin\Debug\netcoreapp2.1\Telephony.runtimeconfig.json
+C:\Users\Vera\source\repos\InterfacesExcersice\Telephony\bin\Debug\netcoreapp2.1\Telephony.runtimeconfig.dev.json
+C:\Users\Vera\source\repos\InterfacesExcersice\Telephony\bin\Debug\netcoreapp2.1\Telephony.dll
+C:\Users\Vera\source\repos\InterfacesExcersice\Telephony\bin\Debug\netcoreapp2.1\Telephony.pdb
+C:\Users\Vera\source\repos\InterfacesExcersice\Telephony\obj\Debug\netcoreapp2.1\Telephony.csprojAssemblyReference.cache
+C:\Users\Vera\source\repos\InterfacesExcersice\Telephony\obj\Debug\netcoreapp2.1\Telephony.csproj.CoreCompileInputs.cache
+C:\Users\Vera\source\repos\InterfacesExcersice\Telephony\obj\Debug\netcoreapp2.1\Telephony.AssemblyInfoInputs.cache
+C:\Users\Vera\source\repos\InterfacesExcersice\Telephony\obj\Debug\netcoreapp2.1\Telephony.AssemblyInfo.cs
+C:\Users\Vera\source\repos\InterfacesExcersice\Telephony\obj\Debug\netcoreapp2.1\Telephony.dll
+C:\Users\Vera\source\repos\InterfacesExcersice\Telephony\obj\Debug\netcoreapp2.1\Telephony.pdb

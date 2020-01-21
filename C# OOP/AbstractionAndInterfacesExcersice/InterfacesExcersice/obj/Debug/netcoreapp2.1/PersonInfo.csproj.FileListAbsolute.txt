@@ -1,0 +1,11 @@
+C:\Users\Vera\source\repos\InterfacesExcersice\InterfacesExcersice\bin\Debug\netcoreapp2.1\PersonInfo.deps.json
+C:\Users\Vera\source\repos\InterfacesExcersice\InterfacesExcersice\bin\Debug\netcoreapp2.1\PersonInfo.runtimeconfig.json
+C:\Users\Vera\source\repos\InterfacesExcersice\InterfacesExcersice\bin\Debug\netcoreapp2.1\PersonInfo.runtimeconfig.dev.json
+C:\Users\Vera\source\repos\InterfacesExcersice\InterfacesExcersice\bin\Debug\netcoreapp2.1\PersonInfo.dll
+C:\Users\Vera\source\repos\InterfacesExcersice\InterfacesExcersice\bin\Debug\netcoreapp2.1\PersonInfo.pdb
+C:\Users\Vera\source\repos\InterfacesExcersice\InterfacesExcersice\obj\Debug\netcoreapp2.1\PersonInfo.csprojAssemblyReference.cache
+C:\Users\Vera\source\repos\InterfacesExcersice\InterfacesExcersice\obj\Debug\netcoreapp2.1\PersonInfo.csproj.CoreCompileInputs.cache
+C:\Users\Vera\source\repos\InterfacesExcersice\InterfacesExcersice\obj\Debug\netcoreapp2.1\PersonInfo.AssemblyInfoInputs.cache
+C:\Users\Vera\source\repos\InterfacesExcersice\InterfacesExcersice\obj\Debug\netcoreapp2.1\PersonInfo.AssemblyInfo.cs
+C:\Users\Vera\source\repos\InterfacesExcersice\InterfacesExcersice\obj\Debug\netcoreapp2.1\PersonInfo.dll
+C:\Users\Vera\source\repos\InterfacesExcersice\InterfacesExcersice\obj\Debug\netcoreapp2.1\PersonInfo.pdb

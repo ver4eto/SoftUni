@@ -1,0 +1,11 @@
+C:\Users\Vera\source\repos\InterfacesExcersice\ExplicitInterfaces\bin\Debug\netcoreapp2.2\ExplicitInterfaces.deps.json
+C:\Users\Vera\source\repos\InterfacesExcersice\ExplicitInterfaces\bin\Debug\netcoreapp2.2\ExplicitInterfaces.runtimeconfig.json
+C:\Users\Vera\source\repos\InterfacesExcersice\ExplicitInterfaces\bin\Debug\netcoreapp2.2\ExplicitInterfaces.runtimeconfig.dev.json
+C:\Users\Vera\source\repos\InterfacesExcersice\ExplicitInterfaces\bin\Debug\netcoreapp2.2\ExplicitInterfaces.dll
+C:\Users\Vera\source\repos\InterfacesExcersice\ExplicitInterfaces\bin\Debug\netcoreapp2.2\ExplicitInterfaces.pdb
+C:\Users\Vera\source\repos\InterfacesExcersice\ExplicitInterfaces\obj\Debug\netcoreapp2.2\ExplicitInterfaces.csprojAssemblyReference.cache
+C:\Users\Vera\source\repos\InterfacesExcersice\ExplicitInterfaces\obj\Debug\netcoreapp2.2\ExplicitInterfaces.csproj.CoreCompileInputs.cache
+C:\Users\Vera\source\repos\InterfacesExcersice\ExplicitInterfaces\obj\Debug\netcoreapp2.2\ExplicitInterfaces.AssemblyInfoInputs.cache
+C:\Users\Vera\source\repos\InterfacesExcersice\ExplicitInterfaces\obj\Debug\netcoreapp2.2\ExplicitInterfaces.AssemblyInfo.cs
+C:\Users\Vera\source\repos\InterfacesExcersice\ExplicitInterfaces\obj\Debug\netcoreapp2.2\ExplicitInterfaces.dll
+C:\Users\Vera\source\repos\InterfacesExcersice\ExplicitInterfaces\obj\Debug\netcoreapp2.2\ExplicitInterfaces.pdb

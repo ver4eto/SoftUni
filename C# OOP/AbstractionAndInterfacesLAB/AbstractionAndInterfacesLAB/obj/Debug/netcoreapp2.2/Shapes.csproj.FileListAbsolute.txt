@@ -1,0 +1,11 @@
+C:\Users\Vera\source\repos\AbstractionAndInterfacesLAB\AbstractionAndInterfacesLAB\bin\Debug\netcoreapp2.2\Shapes.deps.json
+C:\Users\Vera\source\repos\AbstractionAndInterfacesLAB\AbstractionAndInterfacesLAB\bin\Debug\netcoreapp2.2\Shapes.runtimeconfig.json
+C:\Users\Vera\source\repos\AbstractionAndInterfacesLAB\AbstractionAndInterfacesLAB\bin\Debug\netcoreapp2.2\Shapes.runtimeconfig.dev.json
+C:\Users\Vera\source\repos\AbstractionAndInterfacesLAB\AbstractionAndInterfacesLAB\bin\Debug\netcoreapp2.2\Shapes.dll
+C:\Users\Vera\source\repos\AbstractionAndInterfacesLAB\AbstractionAndInterfacesLAB\bin\Debug\netcoreapp2.2\Shapes.pdb
+C:\Users\Vera\source\repos\AbstractionAndInterfacesLAB\AbstractionAndInterfacesLAB\obj\Debug\netcoreapp2.2\Shapes.csprojAssemblyReference.cache
+C:\Users\Vera\source\repos\AbstractionAndInterfacesLAB\AbstractionAndInterfacesLAB\obj\Debug\netcoreapp2.2\Shapes.csproj.CoreCompileInputs.cache
+C:\Users\Vera\source\repos\AbstractionAndInterfacesLAB\AbstractionAndInterfacesLAB\obj\Debug\netcoreapp2.2\Shapes.AssemblyInfoInputs.cache
+C:\Users\Vera\source\repos\AbstractionAndInterfacesLAB\AbstractionAndInterfacesLAB\obj\Debug\netcoreapp2.2\Shapes.AssemblyInfo.cs
+C:\Users\Vera\source\repos\AbstractionAndInterfacesLAB\AbstractionAndInterfacesLAB\obj\Debug\netcoreapp2.2\Shapes.dll
+C:\Users\Vera\source\repos\AbstractionAndInterfacesLAB\AbstractionAndInterfacesLAB\obj\Debug\netcoreapp2.2\Shapes.pdb
