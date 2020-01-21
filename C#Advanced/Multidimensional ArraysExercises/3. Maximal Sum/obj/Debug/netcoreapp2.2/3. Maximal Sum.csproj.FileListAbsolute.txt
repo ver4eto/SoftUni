@@ -1,0 +1,10 @@
+C:\Users\Vera\source\repos\Multidimensional ArraysExercises\3. Maximal Sum\bin\Debug\netcoreapp2.2\3. Maximal Sum.deps.json
+C:\Users\Vera\source\repos\Multidimensional ArraysExercises\3. Maximal Sum\bin\Debug\netcoreapp2.2\3. Maximal Sum.runtimeconfig.json
+C:\Users\Vera\source\repos\Multidimensional ArraysExercises\3. Maximal Sum\bin\Debug\netcoreapp2.2\3. Maximal Sum.runtimeconfig.dev.json
+C:\Users\Vera\source\repos\Multidimensional ArraysExercises\3. Maximal Sum\bin\Debug\netcoreapp2.2\3. Maximal Sum.dll
+C:\Users\Vera\source\repos\Multidimensional ArraysExercises\3. Maximal Sum\bin\Debug\netcoreapp2.2\3. Maximal Sum.pdb
+C:\Users\Vera\source\repos\Multidimensional ArraysExercises\3. Maximal Sum\obj\Debug\netcoreapp2.2\3. Maximal Sum.csproj.CoreCompileInputs.cache
+C:\Users\Vera\source\repos\Multidimensional ArraysExercises\3. Maximal Sum\obj\Debug\netcoreapp2.2\3. Maximal Sum.AssemblyInfoInputs.cache
+C:\Users\Vera\source\repos\Multidimensional ArraysExercises\3. Maximal Sum\obj\Debug\netcoreapp2.2\3. Maximal Sum.AssemblyInfo.cs
+C:\Users\Vera\source\repos\Multidimensional ArraysExercises\3. Maximal Sum\obj\Debug\netcoreapp2.2\3. Maximal Sum.dll
+C:\Users\Vera\source\repos\Multidimensional ArraysExercises\3. Maximal Sum\obj\Debug\netcoreapp2.2\3. Maximal Sum.pdb

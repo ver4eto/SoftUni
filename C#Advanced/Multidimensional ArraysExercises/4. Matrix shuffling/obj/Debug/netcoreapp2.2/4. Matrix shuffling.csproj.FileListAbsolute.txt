@@ -1,0 +1,11 @@
+C:\Users\Vera\source\repos\Multidimensional ArraysExercises\4. Matrix shuffling\bin\Debug\netcoreapp2.2\4. Matrix shuffling.deps.json
+C:\Users\Vera\source\repos\Multidimensional ArraysExercises\4. Matrix shuffling\bin\Debug\netcoreapp2.2\4. Matrix shuffling.runtimeconfig.json
+C:\Users\Vera\source\repos\Multidimensional ArraysExercises\4. Matrix shuffling\bin\Debug\netcoreapp2.2\4. Matrix shuffling.runtimeconfig.dev.json
+C:\Users\Vera\source\repos\Multidimensional ArraysExercises\4. Matrix shuffling\bin\Debug\netcoreapp2.2\4. Matrix shuffling.dll
+C:\Users\Vera\source\repos\Multidimensional ArraysExercises\4. Matrix shuffling\bin\Debug\netcoreapp2.2\4. Matrix shuffling.pdb
+C:\Users\Vera\source\repos\Multidimensional ArraysExercises\4. Matrix shuffling\obj\Debug\netcoreapp2.2\4. Matrix shuffling.csprojAssemblyReference.cache
+C:\Users\Vera\source\repos\Multidimensional ArraysExercises\4. Matrix shuffling\obj\Debug\netcoreapp2.2\4. Matrix shuffling.csproj.CoreCompileInputs.cache
+C:\Users\Vera\source\repos\Multidimensional ArraysExercises\4. Matrix shuffling\obj\Debug\netcoreapp2.2\4. Matrix shuffling.AssemblyInfoInputs.cache
+C:\Users\Vera\source\repos\Multidimensional ArraysExercises\4. Matrix shuffling\obj\Debug\netcoreapp2.2\4. Matrix shuffling.AssemblyInfo.cs
+C:\Users\Vera\source\repos\Multidimensional ArraysExercises\4. Matrix shuffling\obj\Debug\netcoreapp2.2\4. Matrix shuffling.dll
+C:\Users\Vera\source\repos\Multidimensional ArraysExercises\4. Matrix shuffling\obj\Debug\netcoreapp2.2\4. Matrix shuffling.pdb

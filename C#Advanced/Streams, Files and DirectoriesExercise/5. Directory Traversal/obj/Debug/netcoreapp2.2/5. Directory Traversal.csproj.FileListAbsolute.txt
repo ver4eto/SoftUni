@@ -1,0 +1,10 @@
+C:\Users\Vera\source\repos\Streams, Files and DirectoriesExercise\5. Directory Traversal\bin\Debug\netcoreapp2.2\5. Directory Traversal.deps.json
+C:\Users\Vera\source\repos\Streams, Files and DirectoriesExercise\5. Directory Traversal\bin\Debug\netcoreapp2.2\5. Directory Traversal.runtimeconfig.json
+C:\Users\Vera\source\repos\Streams, Files and DirectoriesExercise\5. Directory Traversal\bin\Debug\netcoreapp2.2\5. Directory Traversal.runtimeconfig.dev.json
+C:\Users\Vera\source\repos\Streams, Files and DirectoriesExercise\5. Directory Traversal\bin\Debug\netcoreapp2.2\5. Directory Traversal.dll
+C:\Users\Vera\source\repos\Streams, Files and DirectoriesExercise\5. Directory Traversal\bin\Debug\netcoreapp2.2\5. Directory Traversal.pdb
+C:\Users\Vera\source\repos\Streams, Files and DirectoriesExercise\5. Directory Traversal\obj\Debug\netcoreapp2.2\5. Directory Traversal.csproj.CoreCompileInputs.cache
+C:\Users\Vera\source\repos\Streams, Files and DirectoriesExercise\5. Directory Traversal\obj\Debug\netcoreapp2.2\5. Directory Traversal.AssemblyInfoInputs.cache
+C:\Users\Vera\source\repos\Streams, Files and DirectoriesExercise\5. Directory Traversal\obj\Debug\netcoreapp2.2\5. Directory Traversal.AssemblyInfo.cs
+C:\Users\Vera\source\repos\Streams, Files and DirectoriesExercise\5. Directory Traversal\obj\Debug\netcoreapp2.2\5. Directory Traversal.dll
+C:\Users\Vera\source\repos\Streams, Files and DirectoriesExercise\5. Directory Traversal\obj\Debug\netcoreapp2.2\5. Directory Traversal.pdb

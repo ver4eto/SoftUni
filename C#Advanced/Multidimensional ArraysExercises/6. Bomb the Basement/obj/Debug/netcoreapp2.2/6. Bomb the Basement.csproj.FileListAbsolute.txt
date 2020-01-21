@@ -1,0 +1,11 @@
+C:\Users\Vera\source\repos\Multidimensional ArraysExercises\6. Bomb the Basement\bin\Debug\netcoreapp2.2\6. Bomb the Basement.deps.json
+C:\Users\Vera\source\repos\Multidimensional ArraysExercises\6. Bomb the Basement\bin\Debug\netcoreapp2.2\6. Bomb the Basement.runtimeconfig.json
+C:\Users\Vera\source\repos\Multidimensional ArraysExercises\6. Bomb the Basement\bin\Debug\netcoreapp2.2\6. Bomb the Basement.runtimeconfig.dev.json
+C:\Users\Vera\source\repos\Multidimensional ArraysExercises\6. Bomb the Basement\bin\Debug\netcoreapp2.2\6. Bomb the Basement.dll
+C:\Users\Vera\source\repos\Multidimensional ArraysExercises\6. Bomb the Basement\bin\Debug\netcoreapp2.2\6. Bomb the Basement.pdb
+C:\Users\Vera\source\repos\Multidimensional ArraysExercises\6. Bomb the Basement\obj\Debug\netcoreapp2.2\6. Bomb the Basement.csproj.CoreCompileInputs.cache
+C:\Users\Vera\source\repos\Multidimensional ArraysExercises\6. Bomb the Basement\obj\Debug\netcoreapp2.2\6. Bomb the Basement.AssemblyInfoInputs.cache
+C:\Users\Vera\source\repos\Multidimensional ArraysExercises\6. Bomb the Basement\obj\Debug\netcoreapp2.2\6. Bomb the Basement.AssemblyInfo.cs
+C:\Users\Vera\source\repos\Multidimensional ArraysExercises\6. Bomb the Basement\obj\Debug\netcoreapp2.2\6. Bomb the Basement.dll
+C:\Users\Vera\source\repos\Multidimensional ArraysExercises\6. Bomb the Basement\obj\Debug\netcoreapp2.2\6. Bomb the Basement.pdb
+C:\Users\Vera\source\repos\Multidimensional ArraysExercises\6. Bomb the Basement\obj\Debug\netcoreapp2.2\6. Bomb the Basement.csprojAssemblyReference.cache

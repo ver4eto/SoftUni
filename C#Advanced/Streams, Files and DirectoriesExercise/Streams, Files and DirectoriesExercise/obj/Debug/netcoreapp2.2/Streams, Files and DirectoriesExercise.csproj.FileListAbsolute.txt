@@ -1,0 +1,12 @@
+C:\Users\Vera\source\repos\Streams, Files and DirectoriesExercise\Streams, Files and DirectoriesExercise\bin\Debug\netcoreapp2.2\text.txt
+C:\Users\Vera\source\repos\Streams, Files and DirectoriesExercise\Streams, Files and DirectoriesExercise\bin\Debug\netcoreapp2.2\Streams, Files and DirectoriesExercise.deps.json
+C:\Users\Vera\source\repos\Streams, Files and DirectoriesExercise\Streams, Files and DirectoriesExercise\bin\Debug\netcoreapp2.2\Streams, Files and DirectoriesExercise.runtimeconfig.json
+C:\Users\Vera\source\repos\Streams, Files and DirectoriesExercise\Streams, Files and DirectoriesExercise\bin\Debug\netcoreapp2.2\Streams, Files and DirectoriesExercise.runtimeconfig.dev.json
+C:\Users\Vera\source\repos\Streams, Files and DirectoriesExercise\Streams, Files and DirectoriesExercise\bin\Debug\netcoreapp2.2\Streams, Files and DirectoriesExercise.dll
+C:\Users\Vera\source\repos\Streams, Files and DirectoriesExercise\Streams, Files and DirectoriesExercise\bin\Debug\netcoreapp2.2\Streams, Files and DirectoriesExercise.pdb
+C:\Users\Vera\source\repos\Streams, Files and DirectoriesExercise\Streams, Files and DirectoriesExercise\obj\Debug\netcoreapp2.2\Streams, Files and DirectoriesExercise.csprojAssemblyReference.cache
+C:\Users\Vera\source\repos\Streams, Files and DirectoriesExercise\Streams, Files and DirectoriesExercise\obj\Debug\netcoreapp2.2\Streams, Files and DirectoriesExercise.csproj.CoreCompileInputs.cache
+C:\Users\Vera\source\repos\Streams, Files and DirectoriesExercise\Streams, Files and DirectoriesExercise\obj\Debug\netcoreapp2.2\Streams, Files and DirectoriesExercise.AssemblyInfoInputs.cache
+C:\Users\Vera\source\repos\Streams, Files and DirectoriesExercise\Streams, Files and DirectoriesExercise\obj\Debug\netcoreapp2.2\Streams, Files and DirectoriesExercise.AssemblyInfo.cs
+C:\Users\Vera\source\repos\Streams, Files and DirectoriesExercise\Streams, Files and DirectoriesExercise\obj\Debug\netcoreapp2.2\Streams, Files and DirectoriesExercise.dll
+C:\Users\Vera\source\repos\Streams, Files and DirectoriesExercise\Streams, Files and DirectoriesExercise\obj\Debug\netcoreapp2.2\Streams, Files and DirectoriesExercise.pdb

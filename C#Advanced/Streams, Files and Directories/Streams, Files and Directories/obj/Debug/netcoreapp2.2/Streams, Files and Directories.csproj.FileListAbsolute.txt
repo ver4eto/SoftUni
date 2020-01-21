@@ -1,0 +1,12 @@
+C:\Users\Vera\source\repos\Streams, Files and Directories\Streams, Files and Directories\bin\Debug\netcoreapp2.2\Streams, Files and Directories.deps.json
+C:\Users\Vera\source\repos\Streams, Files and Directories\Streams, Files and Directories\bin\Debug\netcoreapp2.2\Streams, Files and Directories.runtimeconfig.json
+C:\Users\Vera\source\repos\Streams, Files and Directories\Streams, Files and Directories\bin\Debug\netcoreapp2.2\Streams, Files and Directories.runtimeconfig.dev.json
+C:\Users\Vera\source\repos\Streams, Files and Directories\Streams, Files and Directories\bin\Debug\netcoreapp2.2\Streams, Files and Directories.dll
+C:\Users\Vera\source\repos\Streams, Files and Directories\Streams, Files and Directories\bin\Debug\netcoreapp2.2\Streams, Files and Directories.pdb
+C:\Users\Vera\source\repos\Streams, Files and Directories\Streams, Files and Directories\obj\Debug\netcoreapp2.2\Streams, Files and Directories.csprojAssemblyReference.cache
+C:\Users\Vera\source\repos\Streams, Files and Directories\Streams, Files and Directories\obj\Debug\netcoreapp2.2\Streams, Files and Directories.csproj.CoreCompileInputs.cache
+C:\Users\Vera\source\repos\Streams, Files and Directories\Streams, Files and Directories\obj\Debug\netcoreapp2.2\Streams, Files and Directories.AssemblyInfoInputs.cache
+C:\Users\Vera\source\repos\Streams, Files and Directories\Streams, Files and Directories\obj\Debug\netcoreapp2.2\Streams, Files and Directories.AssemblyInfo.cs
+C:\Users\Vera\source\repos\Streams, Files and Directories\Streams, Files and Directories\obj\Debug\netcoreapp2.2\Streams, Files and Directories.dll
+C:\Users\Vera\source\repos\Streams, Files and Directories\Streams, Files and Directories\obj\Debug\netcoreapp2.2\Streams, Files and Directories.pdb
+C:\Users\Vera\source\repos\Streams, Files and Directories\Streams, Files and Directories\bin\Debug\netcoreapp2.2\files\input.txt

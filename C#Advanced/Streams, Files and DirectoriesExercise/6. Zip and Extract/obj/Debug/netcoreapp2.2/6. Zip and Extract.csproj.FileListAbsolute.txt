@@ -1,0 +1,12 @@
+C:\Users\Vera\source\repos\Streams, Files and DirectoriesExercise\6. Zip and Extract\bin\Debug\netcoreapp2.2\6. Zip and Extract.deps.json
+C:\Users\Vera\source\repos\Streams, Files and DirectoriesExercise\6. Zip and Extract\bin\Debug\netcoreapp2.2\6. Zip and Extract.runtimeconfig.json
+C:\Users\Vera\source\repos\Streams, Files and DirectoriesExercise\6. Zip and Extract\bin\Debug\netcoreapp2.2\6. Zip and Extract.runtimeconfig.dev.json
+C:\Users\Vera\source\repos\Streams, Files and DirectoriesExercise\6. Zip and Extract\bin\Debug\netcoreapp2.2\6. Zip and Extract.dll
+C:\Users\Vera\source\repos\Streams, Files and DirectoriesExercise\6. Zip and Extract\bin\Debug\netcoreapp2.2\6. Zip and Extract.pdb
+C:\Users\Vera\source\repos\Streams, Files and DirectoriesExercise\6. Zip and Extract\obj\Debug\netcoreapp2.2\6. Zip and Extract.csproj.CoreCompileInputs.cache
+C:\Users\Vera\source\repos\Streams, Files and DirectoriesExercise\6. Zip and Extract\obj\Debug\netcoreapp2.2\6. Zip and Extract.AssemblyInfoInputs.cache
+C:\Users\Vera\source\repos\Streams, Files and DirectoriesExercise\6. Zip and Extract\obj\Debug\netcoreapp2.2\6. Zip and Extract.AssemblyInfo.cs
+C:\Users\Vera\source\repos\Streams, Files and DirectoriesExercise\6. Zip and Extract\obj\Debug\netcoreapp2.2\6. Zip and Extract.dll
+C:\Users\Vera\source\repos\Streams, Files and DirectoriesExercise\6. Zip and Extract\obj\Debug\netcoreapp2.2\6. Zip and Extract.pdb
+C:\Users\Vera\source\repos\Streams, Files and DirectoriesExercise\6. Zip and Extract\bin\Debug\netcoreapp2.2\copyMe.png
+C:\Users\Vera\source\repos\Streams, Files and DirectoriesExercise\6. Zip and Extract\obj\Debug\netcoreapp2.2\6. Zip and Extract.csprojAssemblyReference.cache

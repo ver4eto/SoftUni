@@ -1,0 +1,11 @@
+C:\Users\Vera\source\repos\Multidimensional ArraysExercises\5. Snake Moves\obj\Debug\netcoreapp2.2\5. Snake Moves.csprojAssemblyReference.cache
+C:\Users\Vera\source\repos\Multidimensional ArraysExercises\5. Snake Moves\obj\Debug\netcoreapp2.2\5. Snake Moves.csproj.CoreCompileInputs.cache
+C:\Users\Vera\source\repos\Multidimensional ArraysExercises\5. Snake Moves\obj\Debug\netcoreapp2.2\5. Snake Moves.AssemblyInfoInputs.cache
+C:\Users\Vera\source\repos\Multidimensional ArraysExercises\5. Snake Moves\obj\Debug\netcoreapp2.2\5. Snake Moves.AssemblyInfo.cs
+C:\Users\Vera\source\repos\Multidimensional ArraysExercises\5. Snake Moves\bin\Debug\netcoreapp2.2\5. Snake Moves.deps.json
+C:\Users\Vera\source\repos\Multidimensional ArraysExercises\5. Snake Moves\bin\Debug\netcoreapp2.2\5. Snake Moves.runtimeconfig.json
+C:\Users\Vera\source\repos\Multidimensional ArraysExercises\5. Snake Moves\bin\Debug\netcoreapp2.2\5. Snake Moves.runtimeconfig.dev.json
+C:\Users\Vera\source\repos\Multidimensional ArraysExercises\5. Snake Moves\bin\Debug\netcoreapp2.2\5. Snake Moves.dll
+C:\Users\Vera\source\repos\Multidimensional ArraysExercises\5. Snake Moves\bin\Debug\netcoreapp2.2\5. Snake Moves.pdb
+C:\Users\Vera\source\repos\Multidimensional ArraysExercises\5. Snake Moves\obj\Debug\netcoreapp2.2\5. Snake Moves.dll
+C:\Users\Vera\source\repos\Multidimensional ArraysExercises\5. Snake Moves\obj\Debug\netcoreapp2.2\5. Snake Moves.pdb
