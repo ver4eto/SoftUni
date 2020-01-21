@@ -1,0 +1,6 @@
+C:\Users\Vera\source\repos\ConsoleApp11\4. Printing Triangle\bin\Debug\_4.Printing_Triangle.exe.config
+C:\Users\Vera\source\repos\ConsoleApp11\4. Printing Triangle\bin\Debug\_4.Printing_Triangle.exe
+C:\Users\Vera\source\repos\ConsoleApp11\4. Printing Triangle\bin\Debug\_4.Printing_Triangle.pdb
+C:\Users\Vera\source\repos\ConsoleApp11\4. Printing Triangle\obj\Debug\4. Printing Triangle.csproj.CoreCompileInputs.cache
+C:\Users\Vera\source\repos\ConsoleApp11\4. Printing Triangle\obj\Debug\_4.Printing_Triangle.exe
+C:\Users\Vera\source\repos\ConsoleApp11\4. Printing Triangle\obj\Debug\_4.Printing_Triangle.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "methodLab5. Orders", "methodLab5. Orders\methodLab5. Orders.csproj", "{CBCC8EF6-0539-4838-8B34-41A6F84DB90C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CBCC8EF6-0539-4838-8B34-41A6F84DB90C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBCC8EF6-0539-4838-8B34-41A6F84DB90C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBCC8EF6-0539-4838-8B34-41A6F84DB90C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBCC8EF6-0539-4838-8B34-41A6F84DB90C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {623B5456-C2DC-404D-BDEB-1BD1A028352F}
+	EndGlobalSection
+EndGlobal

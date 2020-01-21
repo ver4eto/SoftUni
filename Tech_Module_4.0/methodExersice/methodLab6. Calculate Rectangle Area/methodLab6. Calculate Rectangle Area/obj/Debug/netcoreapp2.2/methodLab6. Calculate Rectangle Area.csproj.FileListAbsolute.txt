@@ -1,0 +1,11 @@
+C:\Users\Vera\source\repos\methodLab6. Calculate Rectangle Area\methodLab6. Calculate Rectangle Area\bin\Debug\netcoreapp2.2\methodLab6. Calculate Rectangle Area.deps.json
+C:\Users\Vera\source\repos\methodLab6. Calculate Rectangle Area\methodLab6. Calculate Rectangle Area\bin\Debug\netcoreapp2.2\methodLab6. Calculate Rectangle Area.runtimeconfig.json
+C:\Users\Vera\source\repos\methodLab6. Calculate Rectangle Area\methodLab6. Calculate Rectangle Area\bin\Debug\netcoreapp2.2\methodLab6. Calculate Rectangle Area.runtimeconfig.dev.json
+C:\Users\Vera\source\repos\methodLab6. Calculate Rectangle Area\methodLab6. Calculate Rectangle Area\bin\Debug\netcoreapp2.2\methodLab6. Calculate Rectangle Area.dll
+C:\Users\Vera\source\repos\methodLab6. Calculate Rectangle Area\methodLab6. Calculate Rectangle Area\bin\Debug\netcoreapp2.2\methodLab6. Calculate Rectangle Area.pdb
+C:\Users\Vera\source\repos\methodLab6. Calculate Rectangle Area\methodLab6. Calculate Rectangle Area\obj\Debug\netcoreapp2.2\methodLab6. Calculate Rectangle Area.csprojAssemblyReference.cache
+C:\Users\Vera\source\repos\methodLab6. Calculate Rectangle Area\methodLab6. Calculate Rectangle Area\obj\Debug\netcoreapp2.2\methodLab6. Calculate Rectangle Area.csproj.CoreCompileInputs.cache
+C:\Users\Vera\source\repos\methodLab6. Calculate Rectangle Area\methodLab6. Calculate Rectangle Area\obj\Debug\netcoreapp2.2\methodLab6. Calculate Rectangle Area.AssemblyInfoInputs.cache
+C:\Users\Vera\source\repos\methodLab6. Calculate Rectangle Area\methodLab6. Calculate Rectangle Area\obj\Debug\netcoreapp2.2\methodLab6. Calculate Rectangle Area.AssemblyInfo.cs
+C:\Users\Vera\source\repos\methodLab6. Calculate Rectangle Area\methodLab6. Calculate Rectangle Area\obj\Debug\netcoreapp2.2\methodLab6. Calculate Rectangle Area.dll
+C:\Users\Vera\source\repos\methodLab6. Calculate Rectangle Area\methodLab6. Calculate Rectangle Area\obj\Debug\netcoreapp2.2\methodLab6. Calculate Rectangle Area.pdb
