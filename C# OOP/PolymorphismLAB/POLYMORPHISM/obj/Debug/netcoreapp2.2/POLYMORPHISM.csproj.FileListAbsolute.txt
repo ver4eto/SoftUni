@@ -1,0 +1,11 @@
+C:\Users\Vera\source\repos\POLYMORPHISM\POLYMORPHISM\bin\Debug\netcoreapp2.2\POLYMORPHISM.deps.json
+C:\Users\Vera\source\repos\POLYMORPHISM\POLYMORPHISM\bin\Debug\netcoreapp2.2\POLYMORPHISM.runtimeconfig.json
+C:\Users\Vera\source\repos\POLYMORPHISM\POLYMORPHISM\bin\Debug\netcoreapp2.2\POLYMORPHISM.runtimeconfig.dev.json
+C:\Users\Vera\source\repos\POLYMORPHISM\POLYMORPHISM\bin\Debug\netcoreapp2.2\POLYMORPHISM.dll
+C:\Users\Vera\source\repos\POLYMORPHISM\POLYMORPHISM\bin\Debug\netcoreapp2.2\POLYMORPHISM.pdb
+C:\Users\Vera\source\repos\POLYMORPHISM\POLYMORPHISM\obj\Debug\netcoreapp2.2\POLYMORPHISM.csprojAssemblyReference.cache
+C:\Users\Vera\source\repos\POLYMORPHISM\POLYMORPHISM\obj\Debug\netcoreapp2.2\POLYMORPHISM.csproj.CoreCompileInputs.cache
+C:\Users\Vera\source\repos\POLYMORPHISM\POLYMORPHISM\obj\Debug\netcoreapp2.2\POLYMORPHISM.AssemblyInfoInputs.cache
+C:\Users\Vera\source\repos\POLYMORPHISM\POLYMORPHISM\obj\Debug\netcoreapp2.2\POLYMORPHISM.AssemblyInfo.cs
+C:\Users\Vera\source\repos\POLYMORPHISM\POLYMORPHISM\obj\Debug\netcoreapp2.2\POLYMORPHISM.dll
+C:\Users\Vera\source\repos\POLYMORPHISM\POLYMORPHISM\obj\Debug\netcoreapp2.2\POLYMORPHISM.pdb

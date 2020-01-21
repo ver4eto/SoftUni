@@ -1,0 +1,11 @@
+C:\Users\Vera\source\repos\POLYMORPHISM\Animal\obj\Debug\netcoreapp2.2\Animal.csprojAssemblyReference.cache
+C:\Users\Vera\source\repos\POLYMORPHISM\Animal\obj\Debug\netcoreapp2.2\Animal.csproj.CoreCompileInputs.cache
+C:\Users\Vera\source\repos\POLYMORPHISM\Animal\obj\Debug\netcoreapp2.2\Animal.AssemblyInfoInputs.cache
+C:\Users\Vera\source\repos\POLYMORPHISM\Animal\obj\Debug\netcoreapp2.2\Animal.AssemblyInfo.cs
+C:\Users\Vera\source\repos\POLYMORPHISM\Animal\bin\Debug\netcoreapp2.2\Animal.deps.json
+C:\Users\Vera\source\repos\POLYMORPHISM\Animal\bin\Debug\netcoreapp2.2\Animal.runtimeconfig.json
+C:\Users\Vera\source\repos\POLYMORPHISM\Animal\bin\Debug\netcoreapp2.2\Animal.runtimeconfig.dev.json
+C:\Users\Vera\source\repos\POLYMORPHISM\Animal\bin\Debug\netcoreapp2.2\Animal.dll
+C:\Users\Vera\source\repos\POLYMORPHISM\Animal\bin\Debug\netcoreapp2.2\Animal.pdb
+C:\Users\Vera\source\repos\POLYMORPHISM\Animal\obj\Debug\netcoreapp2.2\Animal.dll
+C:\Users\Vera\source\repos\POLYMORPHISM\Animal\obj\Debug\netcoreapp2.2\Animal.pdb

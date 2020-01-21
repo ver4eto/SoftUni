@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29025.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "POLYMORPHISM", "POLYMORPHISM\POLYMORPHISM.csproj", "{B3D62078-6018-4926-BE6A-CB9ED98776E4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Animal", "Animal\Animal.csproj", "{9CCC62EB-846C-4A1B-BFCD-973EDA192891}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shapes", "Shapes\Shapes.csproj", "{1EA84C03-547B-4F70-B461-C33ECAAC90A2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B3D62078-6018-4926-BE6A-CB9ED98776E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3D62078-6018-4926-BE6A-CB9ED98776E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3D62078-6018-4926-BE6A-CB9ED98776E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3D62078-6018-4926-BE6A-CB9ED98776E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9CCC62EB-846C-4A1B-BFCD-973EDA192891}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CCC62EB-846C-4A1B-BFCD-973EDA192891}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CCC62EB-846C-4A1B-BFCD-973EDA192891}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CCC62EB-846C-4A1B-BFCD-973EDA192891}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1EA84C03-547B-4F70-B461-C33ECAAC90A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EA84C03-547B-4F70-B461-C33ECAAC90A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EA84C03-547B-4F70-B461-C33ECAAC90A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EA84C03-547B-4F70-B461-C33ECAAC90A2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E673561B-4FA1-4FA5-B460-F94913607D7B}
+	EndGlobalSection
+EndGlobal
