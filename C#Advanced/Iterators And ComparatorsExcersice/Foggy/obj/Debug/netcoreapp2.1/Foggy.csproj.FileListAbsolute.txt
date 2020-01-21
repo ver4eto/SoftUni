@@ -1,0 +1,11 @@
+C:\Users\Vera\source\repos\Iterators And ComparatorsExcersice\Foggy\bin\Debug\netcoreapp2.1\Foggy.deps.json
+C:\Users\Vera\source\repos\Iterators And ComparatorsExcersice\Foggy\bin\Debug\netcoreapp2.1\Foggy.runtimeconfig.json
+C:\Users\Vera\source\repos\Iterators And ComparatorsExcersice\Foggy\bin\Debug\netcoreapp2.1\Foggy.runtimeconfig.dev.json
+C:\Users\Vera\source\repos\Iterators And ComparatorsExcersice\Foggy\bin\Debug\netcoreapp2.1\Foggy.dll
+C:\Users\Vera\source\repos\Iterators And ComparatorsExcersice\Foggy\bin\Debug\netcoreapp2.1\Foggy.pdb
+C:\Users\Vera\source\repos\Iterators And ComparatorsExcersice\Foggy\obj\Debug\netcoreapp2.1\Foggy.csprojAssemblyReference.cache
+C:\Users\Vera\source\repos\Iterators And ComparatorsExcersice\Foggy\obj\Debug\netcoreapp2.1\Foggy.csproj.CoreCompileInputs.cache
+C:\Users\Vera\source\repos\Iterators And ComparatorsExcersice\Foggy\obj\Debug\netcoreapp2.1\Foggy.AssemblyInfoInputs.cache
+C:\Users\Vera\source\repos\Iterators And ComparatorsExcersice\Foggy\obj\Debug\netcoreapp2.1\Foggy.AssemblyInfo.cs
+C:\Users\Vera\source\repos\Iterators And ComparatorsExcersice\Foggy\obj\Debug\netcoreapp2.1\Foggy.dll
+C:\Users\Vera\source\repos\Iterators And ComparatorsExcersice\Foggy\obj\Debug\netcoreapp2.1\Foggy.pdb

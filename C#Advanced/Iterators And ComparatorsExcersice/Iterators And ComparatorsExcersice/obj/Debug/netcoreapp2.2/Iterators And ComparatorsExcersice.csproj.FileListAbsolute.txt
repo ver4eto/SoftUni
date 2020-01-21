@@ -1,0 +1,11 @@
+C:\Users\Vera\source\repos\Iterators And ComparatorsExcersice\Iterators And ComparatorsExcersice\bin\Debug\netcoreapp2.2\Iterators And ComparatorsExcersice.deps.json
+C:\Users\Vera\source\repos\Iterators And ComparatorsExcersice\Iterators And ComparatorsExcersice\bin\Debug\netcoreapp2.2\Iterators And ComparatorsExcersice.runtimeconfig.json
+C:\Users\Vera\source\repos\Iterators And ComparatorsExcersice\Iterators And ComparatorsExcersice\bin\Debug\netcoreapp2.2\Iterators And ComparatorsExcersice.runtimeconfig.dev.json
+C:\Users\Vera\source\repos\Iterators And ComparatorsExcersice\Iterators And ComparatorsExcersice\bin\Debug\netcoreapp2.2\Iterators And ComparatorsExcersice.dll
+C:\Users\Vera\source\repos\Iterators And ComparatorsExcersice\Iterators And ComparatorsExcersice\bin\Debug\netcoreapp2.2\Iterators And ComparatorsExcersice.pdb
+C:\Users\Vera\source\repos\Iterators And ComparatorsExcersice\Iterators And ComparatorsExcersice\obj\Debug\netcoreapp2.2\Iterators And ComparatorsExcersice.csprojAssemblyReference.cache
+C:\Users\Vera\source\repos\Iterators And ComparatorsExcersice\Iterators And ComparatorsExcersice\obj\Debug\netcoreapp2.2\Iterators And ComparatorsExcersice.csproj.CoreCompileInputs.cache
+C:\Users\Vera\source\repos\Iterators And ComparatorsExcersice\Iterators And ComparatorsExcersice\obj\Debug\netcoreapp2.2\Iterators And ComparatorsExcersice.AssemblyInfoInputs.cache
+C:\Users\Vera\source\repos\Iterators And ComparatorsExcersice\Iterators And ComparatorsExcersice\obj\Debug\netcoreapp2.2\Iterators And ComparatorsExcersice.AssemblyInfo.cs
+C:\Users\Vera\source\repos\Iterators And ComparatorsExcersice\Iterators And ComparatorsExcersice\obj\Debug\netcoreapp2.2\Iterators And ComparatorsExcersice.dll
+C:\Users\Vera\source\repos\Iterators And ComparatorsExcersice\Iterators And ComparatorsExcersice\obj\Debug\netcoreapp2.2\Iterators And ComparatorsExcersice.pdb
