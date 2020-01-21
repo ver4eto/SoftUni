@@ -1,0 +1,10 @@
+C:\Users\Vera\source\repos\Text-Processing and RegEXMoreExercise\5. HTML\bin\Debug\netcoreapp2.2\5. HTML.deps.json
+C:\Users\Vera\source\repos\Text-Processing and RegEXMoreExercise\5. HTML\bin\Debug\netcoreapp2.2\5. HTML.runtimeconfig.json
+C:\Users\Vera\source\repos\Text-Processing and RegEXMoreExercise\5. HTML\bin\Debug\netcoreapp2.2\5. HTML.runtimeconfig.dev.json
+C:\Users\Vera\source\repos\Text-Processing and RegEXMoreExercise\5. HTML\bin\Debug\netcoreapp2.2\5. HTML.dll
+C:\Users\Vera\source\repos\Text-Processing and RegEXMoreExercise\5. HTML\bin\Debug\netcoreapp2.2\5. HTML.pdb
+C:\Users\Vera\source\repos\Text-Processing and RegEXMoreExercise\5. HTML\obj\Debug\netcoreapp2.2\5. HTML.csproj.CoreCompileInputs.cache
+C:\Users\Vera\source\repos\Text-Processing and RegEXMoreExercise\5. HTML\obj\Debug\netcoreapp2.2\5. HTML.AssemblyInfoInputs.cache
+C:\Users\Vera\source\repos\Text-Processing and RegEXMoreExercise\5. HTML\obj\Debug\netcoreapp2.2\5. HTML.AssemblyInfo.cs
+C:\Users\Vera\source\repos\Text-Processing and RegEXMoreExercise\5. HTML\obj\Debug\netcoreapp2.2\5. HTML.dll
+C:\Users\Vera\source\repos\Text-Processing and RegEXMoreExercise\5. HTML\obj\Debug\netcoreapp2.2\5. HTML.pdb

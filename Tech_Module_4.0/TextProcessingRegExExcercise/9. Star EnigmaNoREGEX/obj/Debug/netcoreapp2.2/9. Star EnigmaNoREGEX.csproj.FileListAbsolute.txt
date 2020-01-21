@@ -1,0 +1,11 @@
+C:\Users\Vera\source\repos\TextProcessingRegExExcercise\9. Star EnigmaNoREGEX\obj\Debug\netcoreapp2.2\9. Star EnigmaNoREGEX.csprojAssemblyReference.cache
+C:\Users\Vera\source\repos\TextProcessingRegExExcercise\9. Star EnigmaNoREGEX\obj\Debug\netcoreapp2.2\9. Star EnigmaNoREGEX.csproj.CoreCompileInputs.cache
+C:\Users\Vera\source\repos\TextProcessingRegExExcercise\9. Star EnigmaNoREGEX\obj\Debug\netcoreapp2.2\9. Star EnigmaNoREGEX.AssemblyInfoInputs.cache
+C:\Users\Vera\source\repos\TextProcessingRegExExcercise\9. Star EnigmaNoREGEX\obj\Debug\netcoreapp2.2\9. Star EnigmaNoREGEX.AssemblyInfo.cs
+C:\Users\Vera\source\repos\TextProcessingRegExExcercise\9. Star EnigmaNoREGEX\bin\Debug\netcoreapp2.2\9. Star EnigmaNoREGEX.deps.json
+C:\Users\Vera\source\repos\TextProcessingRegExExcercise\9. Star EnigmaNoREGEX\bin\Debug\netcoreapp2.2\9. Star EnigmaNoREGEX.runtimeconfig.json
+C:\Users\Vera\source\repos\TextProcessingRegExExcercise\9. Star EnigmaNoREGEX\bin\Debug\netcoreapp2.2\9. Star EnigmaNoREGEX.runtimeconfig.dev.json
+C:\Users\Vera\source\repos\TextProcessingRegExExcercise\9. Star EnigmaNoREGEX\bin\Debug\netcoreapp2.2\9. Star EnigmaNoREGEX.dll
+C:\Users\Vera\source\repos\TextProcessingRegExExcercise\9. Star EnigmaNoREGEX\bin\Debug\netcoreapp2.2\9. Star EnigmaNoREGEX.pdb
+C:\Users\Vera\source\repos\TextProcessingRegExExcercise\9. Star EnigmaNoREGEX\obj\Debug\netcoreapp2.2\9. Star EnigmaNoREGEX.dll
+C:\Users\Vera\source\repos\TextProcessingRegExExcercise\9. Star EnigmaNoREGEX\obj\Debug\netcoreapp2.2\9. Star EnigmaNoREGEX.pdb

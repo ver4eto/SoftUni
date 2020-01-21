@@ -1,0 +1,11 @@
+C:\Users\Vera\source\repos\Text-Processing and RegEXMoreExercise\6. Winning Ticket\bin\Debug\netcoreapp2.2\6. Winning Ticket.deps.json
+C:\Users\Vera\source\repos\Text-Processing and RegEXMoreExercise\6. Winning Ticket\bin\Debug\netcoreapp2.2\6. Winning Ticket.runtimeconfig.json
+C:\Users\Vera\source\repos\Text-Processing and RegEXMoreExercise\6. Winning Ticket\bin\Debug\netcoreapp2.2\6. Winning Ticket.runtimeconfig.dev.json
+C:\Users\Vera\source\repos\Text-Processing and RegEXMoreExercise\6. Winning Ticket\bin\Debug\netcoreapp2.2\6. Winning Ticket.dll
+C:\Users\Vera\source\repos\Text-Processing and RegEXMoreExercise\6. Winning Ticket\bin\Debug\netcoreapp2.2\6. Winning Ticket.pdb
+C:\Users\Vera\source\repos\Text-Processing and RegEXMoreExercise\6. Winning Ticket\obj\Debug\netcoreapp2.2\6. Winning Ticket.csprojAssemblyReference.cache
+C:\Users\Vera\source\repos\Text-Processing and RegEXMoreExercise\6. Winning Ticket\obj\Debug\netcoreapp2.2\6. Winning Ticket.csproj.CoreCompileInputs.cache
+C:\Users\Vera\source\repos\Text-Processing and RegEXMoreExercise\6. Winning Ticket\obj\Debug\netcoreapp2.2\6. Winning Ticket.AssemblyInfoInputs.cache
+C:\Users\Vera\source\repos\Text-Processing and RegEXMoreExercise\6. Winning Ticket\obj\Debug\netcoreapp2.2\6. Winning Ticket.AssemblyInfo.cs
+C:\Users\Vera\source\repos\Text-Processing and RegEXMoreExercise\6. Winning Ticket\obj\Debug\netcoreapp2.2\6. Winning Ticket.dll
+C:\Users\Vera\source\repos\Text-Processing and RegEXMoreExercise\6. Winning Ticket\obj\Debug\netcoreapp2.2\6. Winning Ticket.pdb

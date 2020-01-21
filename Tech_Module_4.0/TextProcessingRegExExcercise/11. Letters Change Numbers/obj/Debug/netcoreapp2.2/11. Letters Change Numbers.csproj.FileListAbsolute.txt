@@ -1,0 +1,10 @@
+C:\Users\Vera\source\repos\TextProcessingRegExExcercise\11. Letters Change Numbers\bin\Debug\netcoreapp2.2\11. Letters Change Numbers.deps.json
+C:\Users\Vera\source\repos\TextProcessingRegExExcercise\11. Letters Change Numbers\bin\Debug\netcoreapp2.2\11. Letters Change Numbers.runtimeconfig.json
+C:\Users\Vera\source\repos\TextProcessingRegExExcercise\11. Letters Change Numbers\bin\Debug\netcoreapp2.2\11. Letters Change Numbers.runtimeconfig.dev.json
+C:\Users\Vera\source\repos\TextProcessingRegExExcercise\11. Letters Change Numbers\bin\Debug\netcoreapp2.2\11. Letters Change Numbers.dll
+C:\Users\Vera\source\repos\TextProcessingRegExExcercise\11. Letters Change Numbers\bin\Debug\netcoreapp2.2\11. Letters Change Numbers.pdb
+C:\Users\Vera\source\repos\TextProcessingRegExExcercise\11. Letters Change Numbers\obj\Debug\netcoreapp2.2\11. Letters Change Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Vera\source\repos\TextProcessingRegExExcercise\11. Letters Change Numbers\obj\Debug\netcoreapp2.2\11. Letters Change Numbers.AssemblyInfoInputs.cache
+C:\Users\Vera\source\repos\TextProcessingRegExExcercise\11. Letters Change Numbers\obj\Debug\netcoreapp2.2\11. Letters Change Numbers.AssemblyInfo.cs
+C:\Users\Vera\source\repos\TextProcessingRegExExcercise\11. Letters Change Numbers\obj\Debug\netcoreapp2.2\11. Letters Change Numbers.dll
+C:\Users\Vera\source\repos\TextProcessingRegExExcercise\11. Letters Change Numbers\obj\Debug\netcoreapp2.2\11. Letters Change Numbers.pdb

@@ -1,0 +1,10 @@
+C:\Users\Vera\source\repos\Text-Processing and RegEXMoreExercise\2. Ascii Sumator\bin\Debug\netcoreapp2.2\2. Ascii Sumator.deps.json
+C:\Users\Vera\source\repos\Text-Processing and RegEXMoreExercise\2. Ascii Sumator\bin\Debug\netcoreapp2.2\2. Ascii Sumator.runtimeconfig.json
+C:\Users\Vera\source\repos\Text-Processing and RegEXMoreExercise\2. Ascii Sumator\bin\Debug\netcoreapp2.2\2. Ascii Sumator.runtimeconfig.dev.json
+C:\Users\Vera\source\repos\Text-Processing and RegEXMoreExercise\2. Ascii Sumator\bin\Debug\netcoreapp2.2\2. Ascii Sumator.dll
+C:\Users\Vera\source\repos\Text-Processing and RegEXMoreExercise\2. Ascii Sumator\bin\Debug\netcoreapp2.2\2. Ascii Sumator.pdb
+C:\Users\Vera\source\repos\Text-Processing and RegEXMoreExercise\2. Ascii Sumator\obj\Debug\netcoreapp2.2\2. Ascii Sumator.csproj.CoreCompileInputs.cache
+C:\Users\Vera\source\repos\Text-Processing and RegEXMoreExercise\2. Ascii Sumator\obj\Debug\netcoreapp2.2\2. Ascii Sumator.AssemblyInfoInputs.cache
+C:\Users\Vera\source\repos\Text-Processing and RegEXMoreExercise\2. Ascii Sumator\obj\Debug\netcoreapp2.2\2. Ascii Sumator.AssemblyInfo.cs
+C:\Users\Vera\source\repos\Text-Processing and RegEXMoreExercise\2. Ascii Sumator\obj\Debug\netcoreapp2.2\2. Ascii Sumator.dll
+C:\Users\Vera\source\repos\Text-Processing and RegEXMoreExercise\2. Ascii Sumator\obj\Debug\netcoreapp2.2\2. Ascii Sumator.pdb

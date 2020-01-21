@@ -1,0 +1,11 @@
+C:\Users\Vera\source\repos\TextProcessingRegExExcercise\10.Rage Quit\bin\Debug\netcoreapp2.2\10.Rage Quit.deps.json
+C:\Users\Vera\source\repos\TextProcessingRegExExcercise\10.Rage Quit\bin\Debug\netcoreapp2.2\10.Rage Quit.runtimeconfig.json
+C:\Users\Vera\source\repos\TextProcessingRegExExcercise\10.Rage Quit\bin\Debug\netcoreapp2.2\10.Rage Quit.runtimeconfig.dev.json
+C:\Users\Vera\source\repos\TextProcessingRegExExcercise\10.Rage Quit\bin\Debug\netcoreapp2.2\10.Rage Quit.dll
+C:\Users\Vera\source\repos\TextProcessingRegExExcercise\10.Rage Quit\bin\Debug\netcoreapp2.2\10.Rage Quit.pdb
+C:\Users\Vera\source\repos\TextProcessingRegExExcercise\10.Rage Quit\obj\Debug\netcoreapp2.2\10.Rage Quit.csprojAssemblyReference.cache
+C:\Users\Vera\source\repos\TextProcessingRegExExcercise\10.Rage Quit\obj\Debug\netcoreapp2.2\10.Rage Quit.csproj.CoreCompileInputs.cache
+C:\Users\Vera\source\repos\TextProcessingRegExExcercise\10.Rage Quit\obj\Debug\netcoreapp2.2\10.Rage Quit.AssemblyInfoInputs.cache
+C:\Users\Vera\source\repos\TextProcessingRegExExcercise\10.Rage Quit\obj\Debug\netcoreapp2.2\10.Rage Quit.AssemblyInfo.cs
+C:\Users\Vera\source\repos\TextProcessingRegExExcercise\10.Rage Quit\obj\Debug\netcoreapp2.2\10.Rage Quit.dll
+C:\Users\Vera\source\repos\TextProcessingRegExExcercise\10.Rage Quit\obj\Debug\netcoreapp2.2\10.Rage Quit.pdb

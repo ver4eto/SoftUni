@@ -1,0 +1,11 @@
+C:\Users\Vera\source\repos\TextProcessingRegExExcercise\12. SoftUni Bar Income\bin\Debug\netcoreapp2.2\12. SoftUni Bar Income.deps.json
+C:\Users\Vera\source\repos\TextProcessingRegExExcercise\12. SoftUni Bar Income\bin\Debug\netcoreapp2.2\12. SoftUni Bar Income.runtimeconfig.json
+C:\Users\Vera\source\repos\TextProcessingRegExExcercise\12. SoftUni Bar Income\bin\Debug\netcoreapp2.2\12. SoftUni Bar Income.runtimeconfig.dev.json
+C:\Users\Vera\source\repos\TextProcessingRegExExcercise\12. SoftUni Bar Income\bin\Debug\netcoreapp2.2\12. SoftUni Bar Income.dll
+C:\Users\Vera\source\repos\TextProcessingRegExExcercise\12. SoftUni Bar Income\bin\Debug\netcoreapp2.2\12. SoftUni Bar Income.pdb
+C:\Users\Vera\source\repos\TextProcessingRegExExcercise\12. SoftUni Bar Income\obj\Debug\netcoreapp2.2\12. SoftUni Bar Income.csprojAssemblyReference.cache
+C:\Users\Vera\source\repos\TextProcessingRegExExcercise\12. SoftUni Bar Income\obj\Debug\netcoreapp2.2\12. SoftUni Bar Income.csproj.CoreCompileInputs.cache
+C:\Users\Vera\source\repos\TextProcessingRegExExcercise\12. SoftUni Bar Income\obj\Debug\netcoreapp2.2\12. SoftUni Bar Income.AssemblyInfoInputs.cache
+C:\Users\Vera\source\repos\TextProcessingRegExExcercise\12. SoftUni Bar Income\obj\Debug\netcoreapp2.2\12. SoftUni Bar Income.AssemblyInfo.cs
+C:\Users\Vera\source\repos\TextProcessingRegExExcercise\12. SoftUni Bar Income\obj\Debug\netcoreapp2.2\12. SoftUni Bar Income.dll
+C:\Users\Vera\source\repos\TextProcessingRegExExcercise\12. SoftUni Bar Income\obj\Debug\netcoreapp2.2\12. SoftUni Bar Income.pdb

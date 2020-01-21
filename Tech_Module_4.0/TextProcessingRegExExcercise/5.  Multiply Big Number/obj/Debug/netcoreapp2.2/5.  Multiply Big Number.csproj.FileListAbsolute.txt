@@ -1,0 +1,11 @@
+C:\Users\Vera\source\repos\TextProcessingRegExExcercise\5.  Multiply Big Number\bin\Debug\netcoreapp2.2\5.  Multiply Big Number.deps.json
+C:\Users\Vera\source\repos\TextProcessingRegExExcercise\5.  Multiply Big Number\bin\Debug\netcoreapp2.2\5.  Multiply Big Number.runtimeconfig.json
+C:\Users\Vera\source\repos\TextProcessingRegExExcercise\5.  Multiply Big Number\bin\Debug\netcoreapp2.2\5.  Multiply Big Number.runtimeconfig.dev.json
+C:\Users\Vera\source\repos\TextProcessingRegExExcercise\5.  Multiply Big Number\bin\Debug\netcoreapp2.2\5.  Multiply Big Number.dll
+C:\Users\Vera\source\repos\TextProcessingRegExExcercise\5.  Multiply Big Number\bin\Debug\netcoreapp2.2\5.  Multiply Big Number.pdb
+C:\Users\Vera\source\repos\TextProcessingRegExExcercise\5.  Multiply Big Number\obj\Debug\netcoreapp2.2\5.  Multiply Big Number.csprojAssemblyReference.cache
+C:\Users\Vera\source\repos\TextProcessingRegExExcercise\5.  Multiply Big Number\obj\Debug\netcoreapp2.2\5.  Multiply Big Number.csproj.CoreCompileInputs.cache
+C:\Users\Vera\source\repos\TextProcessingRegExExcercise\5.  Multiply Big Number\obj\Debug\netcoreapp2.2\5.  Multiply Big Number.AssemblyInfoInputs.cache
+C:\Users\Vera\source\repos\TextProcessingRegExExcercise\5.  Multiply Big Number\obj\Debug\netcoreapp2.2\5.  Multiply Big Number.AssemblyInfo.cs
+C:\Users\Vera\source\repos\TextProcessingRegExExcercise\5.  Multiply Big Number\obj\Debug\netcoreapp2.2\5.  Multiply Big Number.dll
+C:\Users\Vera\source\repos\TextProcessingRegExExcercise\5.  Multiply Big Number\obj\Debug\netcoreapp2.2\5.  Multiply Big Number.pdb

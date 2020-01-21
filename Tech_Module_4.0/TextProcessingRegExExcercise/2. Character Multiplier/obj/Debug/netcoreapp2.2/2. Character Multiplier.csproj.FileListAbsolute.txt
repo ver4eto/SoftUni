@@ -1,0 +1,11 @@
+C:\Users\Vera\source\repos\TextProcessingRegExExcercise\2. Character Multiplier\bin\Debug\netcoreapp2.2\2. Character Multiplier.deps.json
+C:\Users\Vera\source\repos\TextProcessingRegExExcercise\2. Character Multiplier\bin\Debug\netcoreapp2.2\2. Character Multiplier.runtimeconfig.json
+C:\Users\Vera\source\repos\TextProcessingRegExExcercise\2. Character Multiplier\bin\Debug\netcoreapp2.2\2. Character Multiplier.runtimeconfig.dev.json
+C:\Users\Vera\source\repos\TextProcessingRegExExcercise\2. Character Multiplier\bin\Debug\netcoreapp2.2\2. Character Multiplier.dll
+C:\Users\Vera\source\repos\TextProcessingRegExExcercise\2. Character Multiplier\bin\Debug\netcoreapp2.2\2. Character Multiplier.pdb
+C:\Users\Vera\source\repos\TextProcessingRegExExcercise\2. Character Multiplier\obj\Debug\netcoreapp2.2\2. Character Multiplier.csproj.CoreCompileInputs.cache
+C:\Users\Vera\source\repos\TextProcessingRegExExcercise\2. Character Multiplier\obj\Debug\netcoreapp2.2\2. Character Multiplier.AssemblyInfoInputs.cache
+C:\Users\Vera\source\repos\TextProcessingRegExExcercise\2. Character Multiplier\obj\Debug\netcoreapp2.2\2. Character Multiplier.AssemblyInfo.cs
+C:\Users\Vera\source\repos\TextProcessingRegExExcercise\2. Character Multiplier\obj\Debug\netcoreapp2.2\2. Character Multiplier.dll
+C:\Users\Vera\source\repos\TextProcessingRegExExcercise\2. Character Multiplier\obj\Debug\netcoreapp2.2\2. Character Multiplier.pdb
+C:\Users\Vera\source\repos\TextProcessingRegExExcercise\2. Character Multiplier\obj\Debug\netcoreapp2.2\2. Character Multiplier.csprojAssemblyReference.cache

@@ -1,0 +1,11 @@
+C:\Users\Vera\source\repos\TextProcessingRegExExcercise\TextProcessingRegExExcercise\bin\Debug\netcoreapp2.2\TextProcessingRegExExcercise.deps.json
+C:\Users\Vera\source\repos\TextProcessingRegExExcercise\TextProcessingRegExExcercise\bin\Debug\netcoreapp2.2\TextProcessingRegExExcercise.runtimeconfig.json
+C:\Users\Vera\source\repos\TextProcessingRegExExcercise\TextProcessingRegExExcercise\bin\Debug\netcoreapp2.2\TextProcessingRegExExcercise.runtimeconfig.dev.json
+C:\Users\Vera\source\repos\TextProcessingRegExExcercise\TextProcessingRegExExcercise\bin\Debug\netcoreapp2.2\TextProcessingRegExExcercise.dll
+C:\Users\Vera\source\repos\TextProcessingRegExExcercise\TextProcessingRegExExcercise\bin\Debug\netcoreapp2.2\TextProcessingRegExExcercise.pdb
+C:\Users\Vera\source\repos\TextProcessingRegExExcercise\TextProcessingRegExExcercise\obj\Debug\netcoreapp2.2\TextProcessingRegExExcercise.csprojAssemblyReference.cache
+C:\Users\Vera\source\repos\TextProcessingRegExExcercise\TextProcessingRegExExcercise\obj\Debug\netcoreapp2.2\TextProcessingRegExExcercise.csproj.CoreCompileInputs.cache
+C:\Users\Vera\source\repos\TextProcessingRegExExcercise\TextProcessingRegExExcercise\obj\Debug\netcoreapp2.2\TextProcessingRegExExcercise.AssemblyInfoInputs.cache
+C:\Users\Vera\source\repos\TextProcessingRegExExcercise\TextProcessingRegExExcercise\obj\Debug\netcoreapp2.2\TextProcessingRegExExcercise.AssemblyInfo.cs
+C:\Users\Vera\source\repos\TextProcessingRegExExcercise\TextProcessingRegExExcercise\obj\Debug\netcoreapp2.2\TextProcessingRegExExcercise.dll
+C:\Users\Vera\source\repos\TextProcessingRegExExcercise\TextProcessingRegExExcercise\obj\Debug\netcoreapp2.2\TextProcessingRegExExcercise.pdb

@@ -1,0 +1,26 @@
+﻿@model Cat
+@{
+    ViewData["Title"] = "All";
+}
+
+<h1>All</h1>
+<h2>All cats</h2>
+<h3>Jhony</h3>
+@{  
+    string name = "Gosho";
+}
+@for (int i = 0; i < 10; i++)
+{
+    <li style="color:mediumvioletred">Test</li>
+    <li style="color:darkslateblue">@name@i</li>    
+          
+}
+
+@{ 
+    var cat = (Cat)ViewData["Cat"];
+}
+
+@cat.Name
+@cat.Age
+
+@Model.Name^^^^@Model.Age
