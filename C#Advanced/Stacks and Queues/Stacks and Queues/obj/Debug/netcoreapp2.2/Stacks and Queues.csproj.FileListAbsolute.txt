@@ -1,0 +1,11 @@
+C:\Users\Vera\source\repos\Stacks and Queues\Stacks and Queues\bin\Debug\netcoreapp2.2\Stacks and Queues.deps.json
+C:\Users\Vera\source\repos\Stacks and Queues\Stacks and Queues\bin\Debug\netcoreapp2.2\Stacks and Queues.runtimeconfig.json
+C:\Users\Vera\source\repos\Stacks and Queues\Stacks and Queues\bin\Debug\netcoreapp2.2\Stacks and Queues.runtimeconfig.dev.json
+C:\Users\Vera\source\repos\Stacks and Queues\Stacks and Queues\bin\Debug\netcoreapp2.2\Stacks and Queues.dll
+C:\Users\Vera\source\repos\Stacks and Queues\Stacks and Queues\bin\Debug\netcoreapp2.2\Stacks and Queues.pdb
+C:\Users\Vera\source\repos\Stacks and Queues\Stacks and Queues\obj\Debug\netcoreapp2.2\Stacks and Queues.csprojAssemblyReference.cache
+C:\Users\Vera\source\repos\Stacks and Queues\Stacks and Queues\obj\Debug\netcoreapp2.2\Stacks and Queues.csproj.CoreCompileInputs.cache
+C:\Users\Vera\source\repos\Stacks and Queues\Stacks and Queues\obj\Debug\netcoreapp2.2\Stacks and Queues.AssemblyInfoInputs.cache
+C:\Users\Vera\source\repos\Stacks and Queues\Stacks and Queues\obj\Debug\netcoreapp2.2\Stacks and Queues.AssemblyInfo.cs
+C:\Users\Vera\source\repos\Stacks and Queues\Stacks and Queues\obj\Debug\netcoreapp2.2\Stacks and Queues.dll
+C:\Users\Vera\source\repos\Stacks and Queues\Stacks and Queues\obj\Debug\netcoreapp2.2\Stacks and Queues.pdb

@@ -1,0 +1,11 @@
+C:\Users\Vera\source\repos\Stacks and QueuesExercises\Stacks and QueuesExercises\bin\Debug\netcoreapp2.2\1. Basic StackOperations.deps.json
+C:\Users\Vera\source\repos\Stacks and QueuesExercises\Stacks and QueuesExercises\bin\Debug\netcoreapp2.2\1. Basic StackOperations.runtimeconfig.json
+C:\Users\Vera\source\repos\Stacks and QueuesExercises\Stacks and QueuesExercises\bin\Debug\netcoreapp2.2\1. Basic StackOperations.runtimeconfig.dev.json
+C:\Users\Vera\source\repos\Stacks and QueuesExercises\Stacks and QueuesExercises\bin\Debug\netcoreapp2.2\1. Basic StackOperations.dll
+C:\Users\Vera\source\repos\Stacks and QueuesExercises\Stacks and QueuesExercises\bin\Debug\netcoreapp2.2\1. Basic StackOperations.pdb
+C:\Users\Vera\source\repos\Stacks and QueuesExercises\Stacks and QueuesExercises\obj\Debug\netcoreapp2.2\1. Basic StackOperations.csprojAssemblyReference.cache
+C:\Users\Vera\source\repos\Stacks and QueuesExercises\Stacks and QueuesExercises\obj\Debug\netcoreapp2.2\1. Basic StackOperations.csproj.CoreCompileInputs.cache
+C:\Users\Vera\source\repos\Stacks and QueuesExercises\Stacks and QueuesExercises\obj\Debug\netcoreapp2.2\1. Basic StackOperations.AssemblyInfoInputs.cache
+C:\Users\Vera\source\repos\Stacks and QueuesExercises\Stacks and QueuesExercises\obj\Debug\netcoreapp2.2\1. Basic StackOperations.AssemblyInfo.cs
+C:\Users\Vera\source\repos\Stacks and QueuesExercises\Stacks and QueuesExercises\obj\Debug\netcoreapp2.2\1. Basic StackOperations.dll
+C:\Users\Vera\source\repos\Stacks and QueuesExercises\Stacks and QueuesExercises\obj\Debug\netcoreapp2.2\1. Basic StackOperations.pdb

@@ -1,0 +1,10 @@
+C:\Users\Vera\source\repos\Stacks and Queues\8. Traffic Jam\bin\Debug\netcoreapp2.2\8. Traffic Jam.deps.json
+C:\Users\Vera\source\repos\Stacks and Queues\8. Traffic Jam\bin\Debug\netcoreapp2.2\8. Traffic Jam.runtimeconfig.json
+C:\Users\Vera\source\repos\Stacks and Queues\8. Traffic Jam\bin\Debug\netcoreapp2.2\8. Traffic Jam.runtimeconfig.dev.json
+C:\Users\Vera\source\repos\Stacks and Queues\8. Traffic Jam\bin\Debug\netcoreapp2.2\8. Traffic Jam.dll
+C:\Users\Vera\source\repos\Stacks and Queues\8. Traffic Jam\bin\Debug\netcoreapp2.2\8. Traffic Jam.pdb
+C:\Users\Vera\source\repos\Stacks and Queues\8. Traffic Jam\obj\Debug\netcoreapp2.2\8. Traffic Jam.csproj.CoreCompileInputs.cache
+C:\Users\Vera\source\repos\Stacks and Queues\8. Traffic Jam\obj\Debug\netcoreapp2.2\8. Traffic Jam.AssemblyInfoInputs.cache
+C:\Users\Vera\source\repos\Stacks and Queues\8. Traffic Jam\obj\Debug\netcoreapp2.2\8. Traffic Jam.AssemblyInfo.cs
+C:\Users\Vera\source\repos\Stacks and Queues\8. Traffic Jam\obj\Debug\netcoreapp2.2\8. Traffic Jam.dll
+C:\Users\Vera\source\repos\Stacks and Queues\8. Traffic Jam\obj\Debug\netcoreapp2.2\8. Traffic Jam.pdb

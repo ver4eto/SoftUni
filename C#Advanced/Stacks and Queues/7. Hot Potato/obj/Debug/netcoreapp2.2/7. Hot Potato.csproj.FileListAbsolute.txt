@@ -1,0 +1,11 @@
+C:\Users\Vera\source\repos\Stacks and Queues\7. Hot Potato\bin\Debug\netcoreapp2.2\7. Hot Potato.deps.json
+C:\Users\Vera\source\repos\Stacks and Queues\7. Hot Potato\bin\Debug\netcoreapp2.2\7. Hot Potato.runtimeconfig.json
+C:\Users\Vera\source\repos\Stacks and Queues\7. Hot Potato\bin\Debug\netcoreapp2.2\7. Hot Potato.runtimeconfig.dev.json
+C:\Users\Vera\source\repos\Stacks and Queues\7. Hot Potato\bin\Debug\netcoreapp2.2\7. Hot Potato.dll
+C:\Users\Vera\source\repos\Stacks and Queues\7. Hot Potato\bin\Debug\netcoreapp2.2\7. Hot Potato.pdb
+C:\Users\Vera\source\repos\Stacks and Queues\7. Hot Potato\obj\Debug\netcoreapp2.2\7. Hot Potato.csproj.CoreCompileInputs.cache
+C:\Users\Vera\source\repos\Stacks and Queues\7. Hot Potato\obj\Debug\netcoreapp2.2\7. Hot Potato.AssemblyInfoInputs.cache
+C:\Users\Vera\source\repos\Stacks and Queues\7. Hot Potato\obj\Debug\netcoreapp2.2\7. Hot Potato.AssemblyInfo.cs
+C:\Users\Vera\source\repos\Stacks and Queues\7. Hot Potato\obj\Debug\netcoreapp2.2\7. Hot Potato.dll
+C:\Users\Vera\source\repos\Stacks and Queues\7. Hot Potato\obj\Debug\netcoreapp2.2\7. Hot Potato.pdb
+C:\Users\Vera\source\repos\Stacks and Queues\7. Hot Potato\obj\Debug\netcoreapp2.2\7. Hot Potato.csprojAssemblyReference.cache

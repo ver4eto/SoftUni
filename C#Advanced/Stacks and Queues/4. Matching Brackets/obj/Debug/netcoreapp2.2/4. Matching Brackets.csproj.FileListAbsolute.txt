@@ -1,0 +1,11 @@
+C:\Users\Vera\source\repos\Stacks and Queues\4. Matching Brackets\bin\Debug\netcoreapp2.2\4. Matching Brackets.deps.json
+C:\Users\Vera\source\repos\Stacks and Queues\4. Matching Brackets\bin\Debug\netcoreapp2.2\4. Matching Brackets.runtimeconfig.json
+C:\Users\Vera\source\repos\Stacks and Queues\4. Matching Brackets\bin\Debug\netcoreapp2.2\4. Matching Brackets.runtimeconfig.dev.json
+C:\Users\Vera\source\repos\Stacks and Queues\4. Matching Brackets\bin\Debug\netcoreapp2.2\4. Matching Brackets.dll
+C:\Users\Vera\source\repos\Stacks and Queues\4. Matching Brackets\bin\Debug\netcoreapp2.2\4. Matching Brackets.pdb
+C:\Users\Vera\source\repos\Stacks and Queues\4. Matching Brackets\obj\Debug\netcoreapp2.2\4. Matching Brackets.csprojAssemblyReference.cache
+C:\Users\Vera\source\repos\Stacks and Queues\4. Matching Brackets\obj\Debug\netcoreapp2.2\4. Matching Brackets.csproj.CoreCompileInputs.cache
+C:\Users\Vera\source\repos\Stacks and Queues\4. Matching Brackets\obj\Debug\netcoreapp2.2\4. Matching Brackets.AssemblyInfoInputs.cache
+C:\Users\Vera\source\repos\Stacks and Queues\4. Matching Brackets\obj\Debug\netcoreapp2.2\4. Matching Brackets.AssemblyInfo.cs
+C:\Users\Vera\source\repos\Stacks and Queues\4. Matching Brackets\obj\Debug\netcoreapp2.2\4. Matching Brackets.dll
+C:\Users\Vera\source\repos\Stacks and Queues\4. Matching Brackets\obj\Debug\netcoreapp2.2\4. Matching Brackets.pdb

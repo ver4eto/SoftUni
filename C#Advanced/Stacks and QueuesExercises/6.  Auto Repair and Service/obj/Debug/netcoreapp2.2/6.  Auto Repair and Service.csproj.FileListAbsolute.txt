@@ -1,0 +1,10 @@
+C:\Users\Vera\source\repos\Stacks and QueuesExercises\6.  Auto Repair and Service\bin\Debug\netcoreapp2.2\6.  Auto Repair and Service.deps.json
+C:\Users\Vera\source\repos\Stacks and QueuesExercises\6.  Auto Repair and Service\bin\Debug\netcoreapp2.2\6.  Auto Repair and Service.runtimeconfig.json
+C:\Users\Vera\source\repos\Stacks and QueuesExercises\6.  Auto Repair and Service\bin\Debug\netcoreapp2.2\6.  Auto Repair and Service.runtimeconfig.dev.json
+C:\Users\Vera\source\repos\Stacks and QueuesExercises\6.  Auto Repair and Service\bin\Debug\netcoreapp2.2\6.  Auto Repair and Service.dll
+C:\Users\Vera\source\repos\Stacks and QueuesExercises\6.  Auto Repair and Service\bin\Debug\netcoreapp2.2\6.  Auto Repair and Service.pdb
+C:\Users\Vera\source\repos\Stacks and QueuesExercises\6.  Auto Repair and Service\obj\Debug\netcoreapp2.2\6.  Auto Repair and Service.csproj.CoreCompileInputs.cache
+C:\Users\Vera\source\repos\Stacks and QueuesExercises\6.  Auto Repair and Service\obj\Debug\netcoreapp2.2\6.  Auto Repair and Service.AssemblyInfoInputs.cache
+C:\Users\Vera\source\repos\Stacks and QueuesExercises\6.  Auto Repair and Service\obj\Debug\netcoreapp2.2\6.  Auto Repair and Service.AssemblyInfo.cs
+C:\Users\Vera\source\repos\Stacks and QueuesExercises\6.  Auto Repair and Service\obj\Debug\netcoreapp2.2\6.  Auto Repair and Service.dll
+C:\Users\Vera\source\repos\Stacks and QueuesExercises\6.  Auto Repair and Service\obj\Debug\netcoreapp2.2\6.  Auto Repair and Service.pdb

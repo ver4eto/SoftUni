@@ -1,0 +1,11 @@
+C:\Users\Vera\source\repos\Stacks and QueuesExercises\7.  Truck Tour\bin\Debug\netcoreapp2.2\7.  Truck Tour.deps.json
+C:\Users\Vera\source\repos\Stacks and QueuesExercises\7.  Truck Tour\bin\Debug\netcoreapp2.2\7.  Truck Tour.runtimeconfig.json
+C:\Users\Vera\source\repos\Stacks and QueuesExercises\7.  Truck Tour\bin\Debug\netcoreapp2.2\7.  Truck Tour.runtimeconfig.dev.json
+C:\Users\Vera\source\repos\Stacks and QueuesExercises\7.  Truck Tour\bin\Debug\netcoreapp2.2\7.  Truck Tour.dll
+C:\Users\Vera\source\repos\Stacks and QueuesExercises\7.  Truck Tour\bin\Debug\netcoreapp2.2\7.  Truck Tour.pdb
+C:\Users\Vera\source\repos\Stacks and QueuesExercises\7.  Truck Tour\obj\Debug\netcoreapp2.2\7.  Truck Tour.csprojAssemblyReference.cache
+C:\Users\Vera\source\repos\Stacks and QueuesExercises\7.  Truck Tour\obj\Debug\netcoreapp2.2\7.  Truck Tour.csproj.CoreCompileInputs.cache
+C:\Users\Vera\source\repos\Stacks and QueuesExercises\7.  Truck Tour\obj\Debug\netcoreapp2.2\7.  Truck Tour.AssemblyInfoInputs.cache
+C:\Users\Vera\source\repos\Stacks and QueuesExercises\7.  Truck Tour\obj\Debug\netcoreapp2.2\7.  Truck Tour.AssemblyInfo.cs
+C:\Users\Vera\source\repos\Stacks and QueuesExercises\7.  Truck Tour\obj\Debug\netcoreapp2.2\7.  Truck Tour.dll
+C:\Users\Vera\source\repos\Stacks and QueuesExercises\7.  Truck Tour\obj\Debug\netcoreapp2.2\7.  Truck Tour.pdb

@@ -1,0 +1,11 @@
+C:\Users\Vera\source\repos\Stacks and QueuesExercises\8.  Balanced Parentheses\bin\Debug\netcoreapp2.2\8.  Balanced Parentheses.deps.json
+C:\Users\Vera\source\repos\Stacks and QueuesExercises\8.  Balanced Parentheses\bin\Debug\netcoreapp2.2\8.  Balanced Parentheses.runtimeconfig.json
+C:\Users\Vera\source\repos\Stacks and QueuesExercises\8.  Balanced Parentheses\bin\Debug\netcoreapp2.2\8.  Balanced Parentheses.runtimeconfig.dev.json
+C:\Users\Vera\source\repos\Stacks and QueuesExercises\8.  Balanced Parentheses\bin\Debug\netcoreapp2.2\8.  Balanced Parentheses.dll
+C:\Users\Vera\source\repos\Stacks and QueuesExercises\8.  Balanced Parentheses\bin\Debug\netcoreapp2.2\8.  Balanced Parentheses.pdb
+C:\Users\Vera\source\repos\Stacks and QueuesExercises\8.  Balanced Parentheses\obj\Debug\netcoreapp2.2\8.  Balanced Parentheses.csprojAssemblyReference.cache
+C:\Users\Vera\source\repos\Stacks and QueuesExercises\8.  Balanced Parentheses\obj\Debug\netcoreapp2.2\8.  Balanced Parentheses.csproj.CoreCompileInputs.cache
+C:\Users\Vera\source\repos\Stacks and QueuesExercises\8.  Balanced Parentheses\obj\Debug\netcoreapp2.2\8.  Balanced Parentheses.AssemblyInfoInputs.cache
+C:\Users\Vera\source\repos\Stacks and QueuesExercises\8.  Balanced Parentheses\obj\Debug\netcoreapp2.2\8.  Balanced Parentheses.AssemblyInfo.cs
+C:\Users\Vera\source\repos\Stacks and QueuesExercises\8.  Balanced Parentheses\obj\Debug\netcoreapp2.2\8.  Balanced Parentheses.dll
+C:\Users\Vera\source\repos\Stacks and QueuesExercises\8.  Balanced Parentheses\obj\Debug\netcoreapp2.2\8.  Balanced Parentheses.pdb
