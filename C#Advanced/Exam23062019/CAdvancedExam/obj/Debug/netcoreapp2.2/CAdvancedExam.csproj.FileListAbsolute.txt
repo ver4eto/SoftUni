@@ -1,0 +1,11 @@
+C:\Users\Vera\source\repos\CAdvancedExam\CAdvancedExam\bin\Debug\netcoreapp2.2\CAdvancedExam.deps.json
+C:\Users\Vera\source\repos\CAdvancedExam\CAdvancedExam\bin\Debug\netcoreapp2.2\CAdvancedExam.runtimeconfig.json
+C:\Users\Vera\source\repos\CAdvancedExam\CAdvancedExam\bin\Debug\netcoreapp2.2\CAdvancedExam.runtimeconfig.dev.json
+C:\Users\Vera\source\repos\CAdvancedExam\CAdvancedExam\bin\Debug\netcoreapp2.2\CAdvancedExam.dll
+C:\Users\Vera\source\repos\CAdvancedExam\CAdvancedExam\bin\Debug\netcoreapp2.2\CAdvancedExam.pdb
+C:\Users\Vera\source\repos\CAdvancedExam\CAdvancedExam\obj\Debug\netcoreapp2.2\CAdvancedExam.csprojAssemblyReference.cache
+C:\Users\Vera\source\repos\CAdvancedExam\CAdvancedExam\obj\Debug\netcoreapp2.2\CAdvancedExam.csproj.CoreCompileInputs.cache
+C:\Users\Vera\source\repos\CAdvancedExam\CAdvancedExam\obj\Debug\netcoreapp2.2\CAdvancedExam.AssemblyInfoInputs.cache
+C:\Users\Vera\source\repos\CAdvancedExam\CAdvancedExam\obj\Debug\netcoreapp2.2\CAdvancedExam.AssemblyInfo.cs
+C:\Users\Vera\source\repos\CAdvancedExam\CAdvancedExam\obj\Debug\netcoreapp2.2\CAdvancedExam.dll
+C:\Users\Vera\source\repos\CAdvancedExam\CAdvancedExam\obj\Debug\netcoreapp2.2\CAdvancedExam.pdb

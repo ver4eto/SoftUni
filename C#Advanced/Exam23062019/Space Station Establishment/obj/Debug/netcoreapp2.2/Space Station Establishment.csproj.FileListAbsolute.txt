@@ -1,0 +1,11 @@
+C:\Users\Vera\source\repos\CAdvancedExam\Space Station Establishment\bin\Debug\netcoreapp2.2\Space Station Establishment.deps.json
+C:\Users\Vera\source\repos\CAdvancedExam\Space Station Establishment\bin\Debug\netcoreapp2.2\Space Station Establishment.runtimeconfig.json
+C:\Users\Vera\source\repos\CAdvancedExam\Space Station Establishment\bin\Debug\netcoreapp2.2\Space Station Establishment.runtimeconfig.dev.json
+C:\Users\Vera\source\repos\CAdvancedExam\Space Station Establishment\bin\Debug\netcoreapp2.2\Space Station Establishment.dll
+C:\Users\Vera\source\repos\CAdvancedExam\Space Station Establishment\bin\Debug\netcoreapp2.2\Space Station Establishment.pdb
+C:\Users\Vera\source\repos\CAdvancedExam\Space Station Establishment\obj\Debug\netcoreapp2.2\Space Station Establishment.csprojAssemblyReference.cache
+C:\Users\Vera\source\repos\CAdvancedExam\Space Station Establishment\obj\Debug\netcoreapp2.2\Space Station Establishment.csproj.CoreCompileInputs.cache
+C:\Users\Vera\source\repos\CAdvancedExam\Space Station Establishment\obj\Debug\netcoreapp2.2\Space Station Establishment.AssemblyInfoInputs.cache
+C:\Users\Vera\source\repos\CAdvancedExam\Space Station Establishment\obj\Debug\netcoreapp2.2\Space Station Establishment.AssemblyInfo.cs
+C:\Users\Vera\source\repos\CAdvancedExam\Space Station Establishment\obj\Debug\netcoreapp2.2\Space Station Establishment.dll
+C:\Users\Vera\source\repos\CAdvancedExam\Space Station Establishment\obj\Debug\netcoreapp2.2\Space Station Establishment.pdb

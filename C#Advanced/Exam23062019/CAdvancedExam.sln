@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CAdvancedExam", "CAdvancedExam\CAdvancedExam.csproj", "{7B7890FE-9F91-45C9-A6E5-2B1F42A913BC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Space Station Establishment", "Space Station Establishment\Space Station Establishment.csproj", "{414128FB-A908-4375-9FB2-81C963A9A051}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7B7890FE-9F91-45C9-A6E5-2B1F42A913BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B7890FE-9F91-45C9-A6E5-2B1F42A913BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B7890FE-9F91-45C9-A6E5-2B1F42A913BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B7890FE-9F91-45C9-A6E5-2B1F42A913BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{414128FB-A908-4375-9FB2-81C963A9A051}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{414128FB-A908-4375-9FB2-81C963A9A051}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{414128FB-A908-4375-9FB2-81C963A9A051}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{414128FB-A908-4375-9FB2-81C963A9A051}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {987FC724-BC92-4264-B389-C2751F54C001}
+	EndGlobalSection
+EndGlobal
