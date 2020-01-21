@@ -1,0 +1,10 @@
+C:\Users\Vera\source\repos\Sets and Dictionaries AdvancedExercises\6. Wardrobe\bin\Debug\netcoreapp2.2\6. Wardrobe.deps.json
+C:\Users\Vera\source\repos\Sets and Dictionaries AdvancedExercises\6. Wardrobe\bin\Debug\netcoreapp2.2\6. Wardrobe.runtimeconfig.json
+C:\Users\Vera\source\repos\Sets and Dictionaries AdvancedExercises\6. Wardrobe\bin\Debug\netcoreapp2.2\6. Wardrobe.runtimeconfig.dev.json
+C:\Users\Vera\source\repos\Sets and Dictionaries AdvancedExercises\6. Wardrobe\bin\Debug\netcoreapp2.2\6. Wardrobe.dll
+C:\Users\Vera\source\repos\Sets and Dictionaries AdvancedExercises\6. Wardrobe\bin\Debug\netcoreapp2.2\6. Wardrobe.pdb
+C:\Users\Vera\source\repos\Sets and Dictionaries AdvancedExercises\6. Wardrobe\obj\Debug\netcoreapp2.2\6. Wardrobe.csproj.CoreCompileInputs.cache
+C:\Users\Vera\source\repos\Sets and Dictionaries AdvancedExercises\6. Wardrobe\obj\Debug\netcoreapp2.2\6. Wardrobe.AssemblyInfoInputs.cache
+C:\Users\Vera\source\repos\Sets and Dictionaries AdvancedExercises\6. Wardrobe\obj\Debug\netcoreapp2.2\6. Wardrobe.AssemblyInfo.cs
+C:\Users\Vera\source\repos\Sets and Dictionaries AdvancedExercises\6. Wardrobe\obj\Debug\netcoreapp2.2\6. Wardrobe.dll
+C:\Users\Vera\source\repos\Sets and Dictionaries AdvancedExercises\6. Wardrobe\obj\Debug\netcoreapp2.2\6. Wardrobe.pdb

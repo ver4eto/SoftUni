@@ -1,0 +1,11 @@
+C:\Users\Vera\source\repos\Sets and Dictionaries AdvancedLAB\5. Record Unique Names\bin\Debug\netcoreapp2.2\5. Record Unique Names.deps.json
+C:\Users\Vera\source\repos\Sets and Dictionaries AdvancedLAB\5. Record Unique Names\bin\Debug\netcoreapp2.2\5. Record Unique Names.runtimeconfig.json
+C:\Users\Vera\source\repos\Sets and Dictionaries AdvancedLAB\5. Record Unique Names\bin\Debug\netcoreapp2.2\5. Record Unique Names.runtimeconfig.dev.json
+C:\Users\Vera\source\repos\Sets and Dictionaries AdvancedLAB\5. Record Unique Names\bin\Debug\netcoreapp2.2\5. Record Unique Names.dll
+C:\Users\Vera\source\repos\Sets and Dictionaries AdvancedLAB\5. Record Unique Names\bin\Debug\netcoreapp2.2\5. Record Unique Names.pdb
+C:\Users\Vera\source\repos\Sets and Dictionaries AdvancedLAB\5. Record Unique Names\obj\Debug\netcoreapp2.2\5. Record Unique Names.csprojAssemblyReference.cache
+C:\Users\Vera\source\repos\Sets and Dictionaries AdvancedLAB\5. Record Unique Names\obj\Debug\netcoreapp2.2\5. Record Unique Names.csproj.CoreCompileInputs.cache
+C:\Users\Vera\source\repos\Sets and Dictionaries AdvancedLAB\5. Record Unique Names\obj\Debug\netcoreapp2.2\5. Record Unique Names.AssemblyInfoInputs.cache
+C:\Users\Vera\source\repos\Sets and Dictionaries AdvancedLAB\5. Record Unique Names\obj\Debug\netcoreapp2.2\5. Record Unique Names.AssemblyInfo.cs
+C:\Users\Vera\source\repos\Sets and Dictionaries AdvancedLAB\5. Record Unique Names\obj\Debug\netcoreapp2.2\5. Record Unique Names.dll
+C:\Users\Vera\source\repos\Sets and Dictionaries AdvancedLAB\5. Record Unique Names\obj\Debug\netcoreapp2.2\5. Record Unique Names.pdb

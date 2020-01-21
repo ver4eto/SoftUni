@@ -1,0 +1,11 @@
+C:\Users\Vera\source\repos\Sets and Dictionaries AdvancedLAB\7. SoftUni Party\bin\Debug\netcoreapp2.2\7. SoftUni Party.deps.json
+C:\Users\Vera\source\repos\Sets and Dictionaries AdvancedLAB\7. SoftUni Party\bin\Debug\netcoreapp2.2\7. SoftUni Party.runtimeconfig.json
+C:\Users\Vera\source\repos\Sets and Dictionaries AdvancedLAB\7. SoftUni Party\bin\Debug\netcoreapp2.2\7. SoftUni Party.runtimeconfig.dev.json
+C:\Users\Vera\source\repos\Sets and Dictionaries AdvancedLAB\7. SoftUni Party\bin\Debug\netcoreapp2.2\7. SoftUni Party.dll
+C:\Users\Vera\source\repos\Sets and Dictionaries AdvancedLAB\7. SoftUni Party\bin\Debug\netcoreapp2.2\7. SoftUni Party.pdb
+C:\Users\Vera\source\repos\Sets and Dictionaries AdvancedLAB\7. SoftUni Party\obj\Debug\netcoreapp2.2\7. SoftUni Party.csprojAssemblyReference.cache
+C:\Users\Vera\source\repos\Sets and Dictionaries AdvancedLAB\7. SoftUni Party\obj\Debug\netcoreapp2.2\7. SoftUni Party.csproj.CoreCompileInputs.cache
+C:\Users\Vera\source\repos\Sets and Dictionaries AdvancedLAB\7. SoftUni Party\obj\Debug\netcoreapp2.2\7. SoftUni Party.AssemblyInfoInputs.cache
+C:\Users\Vera\source\repos\Sets and Dictionaries AdvancedLAB\7. SoftUni Party\obj\Debug\netcoreapp2.2\7. SoftUni Party.AssemblyInfo.cs
+C:\Users\Vera\source\repos\Sets and Dictionaries AdvancedLAB\7. SoftUni Party\obj\Debug\netcoreapp2.2\7. SoftUni Party.dll
+C:\Users\Vera\source\repos\Sets and Dictionaries AdvancedLAB\7. SoftUni Party\obj\Debug\netcoreapp2.2\7. SoftUni Party.pdb

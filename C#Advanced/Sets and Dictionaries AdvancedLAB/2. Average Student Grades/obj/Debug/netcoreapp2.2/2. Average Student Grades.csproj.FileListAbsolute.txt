@@ -1,0 +1,11 @@
+C:\Users\Vera\source\repos\Sets and Dictionaries AdvancedLAB\2. Average Student Grades\bin\Debug\netcoreapp2.2\2. Average Student Grades.deps.json
+C:\Users\Vera\source\repos\Sets and Dictionaries AdvancedLAB\2. Average Student Grades\bin\Debug\netcoreapp2.2\2. Average Student Grades.runtimeconfig.json
+C:\Users\Vera\source\repos\Sets and Dictionaries AdvancedLAB\2. Average Student Grades\bin\Debug\netcoreapp2.2\2. Average Student Grades.runtimeconfig.dev.json
+C:\Users\Vera\source\repos\Sets and Dictionaries AdvancedLAB\2. Average Student Grades\bin\Debug\netcoreapp2.2\2. Average Student Grades.dll
+C:\Users\Vera\source\repos\Sets and Dictionaries AdvancedLAB\2. Average Student Grades\bin\Debug\netcoreapp2.2\2. Average Student Grades.pdb
+C:\Users\Vera\source\repos\Sets and Dictionaries AdvancedLAB\2. Average Student Grades\obj\Debug\netcoreapp2.2\2. Average Student Grades.csprojAssemblyReference.cache
+C:\Users\Vera\source\repos\Sets and Dictionaries AdvancedLAB\2. Average Student Grades\obj\Debug\netcoreapp2.2\2. Average Student Grades.csproj.CoreCompileInputs.cache
+C:\Users\Vera\source\repos\Sets and Dictionaries AdvancedLAB\2. Average Student Grades\obj\Debug\netcoreapp2.2\2. Average Student Grades.AssemblyInfoInputs.cache
+C:\Users\Vera\source\repos\Sets and Dictionaries AdvancedLAB\2. Average Student Grades\obj\Debug\netcoreapp2.2\2. Average Student Grades.AssemblyInfo.cs
+C:\Users\Vera\source\repos\Sets and Dictionaries AdvancedLAB\2. Average Student Grades\obj\Debug\netcoreapp2.2\2. Average Student Grades.dll
+C:\Users\Vera\source\repos\Sets and Dictionaries AdvancedLAB\2. Average Student Grades\obj\Debug\netcoreapp2.2\2. Average Student Grades.pdb

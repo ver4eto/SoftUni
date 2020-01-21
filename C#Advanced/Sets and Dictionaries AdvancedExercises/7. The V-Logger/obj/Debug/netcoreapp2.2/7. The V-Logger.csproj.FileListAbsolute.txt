@@ -1,0 +1,11 @@
+C:\Users\Vera\source\repos\Sets and Dictionaries AdvancedExercises\7. The V-Logger\bin\Debug\netcoreapp2.2\7. The V-Logger.deps.json
+C:\Users\Vera\source\repos\Sets and Dictionaries AdvancedExercises\7. The V-Logger\bin\Debug\netcoreapp2.2\7. The V-Logger.runtimeconfig.json
+C:\Users\Vera\source\repos\Sets and Dictionaries AdvancedExercises\7. The V-Logger\bin\Debug\netcoreapp2.2\7. The V-Logger.runtimeconfig.dev.json
+C:\Users\Vera\source\repos\Sets and Dictionaries AdvancedExercises\7. The V-Logger\bin\Debug\netcoreapp2.2\7. The V-Logger.dll
+C:\Users\Vera\source\repos\Sets and Dictionaries AdvancedExercises\7. The V-Logger\bin\Debug\netcoreapp2.2\7. The V-Logger.pdb
+C:\Users\Vera\source\repos\Sets and Dictionaries AdvancedExercises\7. The V-Logger\obj\Debug\netcoreapp2.2\7. The V-Logger.csprojAssemblyReference.cache
+C:\Users\Vera\source\repos\Sets and Dictionaries AdvancedExercises\7. The V-Logger\obj\Debug\netcoreapp2.2\7. The V-Logger.csproj.CoreCompileInputs.cache
+C:\Users\Vera\source\repos\Sets and Dictionaries AdvancedExercises\7. The V-Logger\obj\Debug\netcoreapp2.2\7. The V-Logger.AssemblyInfoInputs.cache
+C:\Users\Vera\source\repos\Sets and Dictionaries AdvancedExercises\7. The V-Logger\obj\Debug\netcoreapp2.2\7. The V-Logger.AssemblyInfo.cs
+C:\Users\Vera\source\repos\Sets and Dictionaries AdvancedExercises\7. The V-Logger\obj\Debug\netcoreapp2.2\7. The V-Logger.dll
+C:\Users\Vera\source\repos\Sets and Dictionaries AdvancedExercises\7. The V-Logger\obj\Debug\netcoreapp2.2\7. The V-Logger.pdb

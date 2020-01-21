@@ -1,0 +1,11 @@
+C:\Users\Vera\source\repos\Sets and Dictionaries AdvancedLAB\Sets and Dictionaries AdvancedLAB\bin\Debug\netcoreapp2.2\1. Count Same Values in Array.deps.json
+C:\Users\Vera\source\repos\Sets and Dictionaries AdvancedLAB\Sets and Dictionaries AdvancedLAB\bin\Debug\netcoreapp2.2\1. Count Same Values in Array.runtimeconfig.json
+C:\Users\Vera\source\repos\Sets and Dictionaries AdvancedLAB\Sets and Dictionaries AdvancedLAB\bin\Debug\netcoreapp2.2\1. Count Same Values in Array.runtimeconfig.dev.json
+C:\Users\Vera\source\repos\Sets and Dictionaries AdvancedLAB\Sets and Dictionaries AdvancedLAB\bin\Debug\netcoreapp2.2\1. Count Same Values in Array.dll
+C:\Users\Vera\source\repos\Sets and Dictionaries AdvancedLAB\Sets and Dictionaries AdvancedLAB\bin\Debug\netcoreapp2.2\1. Count Same Values in Array.pdb
+C:\Users\Vera\source\repos\Sets and Dictionaries AdvancedLAB\Sets and Dictionaries AdvancedLAB\obj\Debug\netcoreapp2.2\1. Count Same Values in Array.csprojAssemblyReference.cache
+C:\Users\Vera\source\repos\Sets and Dictionaries AdvancedLAB\Sets and Dictionaries AdvancedLAB\obj\Debug\netcoreapp2.2\1. Count Same Values in Array.csproj.CoreCompileInputs.cache
+C:\Users\Vera\source\repos\Sets and Dictionaries AdvancedLAB\Sets and Dictionaries AdvancedLAB\obj\Debug\netcoreapp2.2\1. Count Same Values in Array.AssemblyInfoInputs.cache
+C:\Users\Vera\source\repos\Sets and Dictionaries AdvancedLAB\Sets and Dictionaries AdvancedLAB\obj\Debug\netcoreapp2.2\1. Count Same Values in Array.AssemblyInfo.cs
+C:\Users\Vera\source\repos\Sets and Dictionaries AdvancedLAB\Sets and Dictionaries AdvancedLAB\obj\Debug\netcoreapp2.2\1. Count Same Values in Array.dll
+C:\Users\Vera\source\repos\Sets and Dictionaries AdvancedLAB\Sets and Dictionaries AdvancedLAB\obj\Debug\netcoreapp2.2\1. Count Same Values in Array.pdb

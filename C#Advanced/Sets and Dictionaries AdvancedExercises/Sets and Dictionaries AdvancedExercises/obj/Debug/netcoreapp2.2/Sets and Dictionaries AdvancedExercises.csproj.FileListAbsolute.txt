@@ -1,0 +1,11 @@
+C:\Users\Vera\source\repos\Sets and Dictionaries AdvancedExercises\Sets and Dictionaries AdvancedExercises\bin\Debug\netcoreapp2.2\Sets and Dictionaries AdvancedExercises.deps.json
+C:\Users\Vera\source\repos\Sets and Dictionaries AdvancedExercises\Sets and Dictionaries AdvancedExercises\bin\Debug\netcoreapp2.2\Sets and Dictionaries AdvancedExercises.runtimeconfig.json
+C:\Users\Vera\source\repos\Sets and Dictionaries AdvancedExercises\Sets and Dictionaries AdvancedExercises\bin\Debug\netcoreapp2.2\Sets and Dictionaries AdvancedExercises.runtimeconfig.dev.json
+C:\Users\Vera\source\repos\Sets and Dictionaries AdvancedExercises\Sets and Dictionaries AdvancedExercises\bin\Debug\netcoreapp2.2\Sets and Dictionaries AdvancedExercises.dll
+C:\Users\Vera\source\repos\Sets and Dictionaries AdvancedExercises\Sets and Dictionaries AdvancedExercises\bin\Debug\netcoreapp2.2\Sets and Dictionaries AdvancedExercises.pdb
+C:\Users\Vera\source\repos\Sets and Dictionaries AdvancedExercises\Sets and Dictionaries AdvancedExercises\obj\Debug\netcoreapp2.2\Sets and Dictionaries AdvancedExercises.csprojAssemblyReference.cache
+C:\Users\Vera\source\repos\Sets and Dictionaries AdvancedExercises\Sets and Dictionaries AdvancedExercises\obj\Debug\netcoreapp2.2\Sets and Dictionaries AdvancedExercises.csproj.CoreCompileInputs.cache
+C:\Users\Vera\source\repos\Sets and Dictionaries AdvancedExercises\Sets and Dictionaries AdvancedExercises\obj\Debug\netcoreapp2.2\Sets and Dictionaries AdvancedExercises.AssemblyInfoInputs.cache
+C:\Users\Vera\source\repos\Sets and Dictionaries AdvancedExercises\Sets and Dictionaries AdvancedExercises\obj\Debug\netcoreapp2.2\Sets and Dictionaries AdvancedExercises.AssemblyInfo.cs
+C:\Users\Vera\source\repos\Sets and Dictionaries AdvancedExercises\Sets and Dictionaries AdvancedExercises\obj\Debug\netcoreapp2.2\Sets and Dictionaries AdvancedExercises.dll
+C:\Users\Vera\source\repos\Sets and Dictionaries AdvancedExercises\Sets and Dictionaries AdvancedExercises\obj\Debug\netcoreapp2.2\Sets and Dictionaries AdvancedExercises.pdb

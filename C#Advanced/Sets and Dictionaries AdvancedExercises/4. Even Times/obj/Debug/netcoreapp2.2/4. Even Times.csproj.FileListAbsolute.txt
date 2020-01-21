@@ -1,0 +1,11 @@
+C:\Users\Vera\source\repos\Sets and Dictionaries AdvancedExercises\4. Even Times\bin\Debug\netcoreapp2.2\4. Even Times.deps.json
+C:\Users\Vera\source\repos\Sets and Dictionaries AdvancedExercises\4. Even Times\bin\Debug\netcoreapp2.2\4. Even Times.runtimeconfig.json
+C:\Users\Vera\source\repos\Sets and Dictionaries AdvancedExercises\4. Even Times\bin\Debug\netcoreapp2.2\4. Even Times.runtimeconfig.dev.json
+C:\Users\Vera\source\repos\Sets and Dictionaries AdvancedExercises\4. Even Times\bin\Debug\netcoreapp2.2\4. Even Times.dll
+C:\Users\Vera\source\repos\Sets and Dictionaries AdvancedExercises\4. Even Times\bin\Debug\netcoreapp2.2\4. Even Times.pdb
+C:\Users\Vera\source\repos\Sets and Dictionaries AdvancedExercises\4. Even Times\obj\Debug\netcoreapp2.2\4. Even Times.csprojAssemblyReference.cache
+C:\Users\Vera\source\repos\Sets and Dictionaries AdvancedExercises\4. Even Times\obj\Debug\netcoreapp2.2\4. Even Times.csproj.CoreCompileInputs.cache
+C:\Users\Vera\source\repos\Sets and Dictionaries AdvancedExercises\4. Even Times\obj\Debug\netcoreapp2.2\4. Even Times.AssemblyInfoInputs.cache
+C:\Users\Vera\source\repos\Sets and Dictionaries AdvancedExercises\4. Even Times\obj\Debug\netcoreapp2.2\4. Even Times.AssemblyInfo.cs
+C:\Users\Vera\source\repos\Sets and Dictionaries AdvancedExercises\4. Even Times\obj\Debug\netcoreapp2.2\4. Even Times.dll
+C:\Users\Vera\source\repos\Sets and Dictionaries AdvancedExercises\4. Even Times\obj\Debug\netcoreapp2.2\4. Even Times.pdb
