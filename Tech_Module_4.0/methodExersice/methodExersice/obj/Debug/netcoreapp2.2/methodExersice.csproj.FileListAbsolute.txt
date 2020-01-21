@@ -1,0 +1,11 @@
+C:\Users\Vera\source\repos\methodExersice\methodExersice\bin\Debug\netcoreapp2.2\methodExersice.deps.json
+C:\Users\Vera\source\repos\methodExersice\methodExersice\bin\Debug\netcoreapp2.2\methodExersice.runtimeconfig.json
+C:\Users\Vera\source\repos\methodExersice\methodExersice\bin\Debug\netcoreapp2.2\methodExersice.runtimeconfig.dev.json
+C:\Users\Vera\source\repos\methodExersice\methodExersice\bin\Debug\netcoreapp2.2\methodExersice.dll
+C:\Users\Vera\source\repos\methodExersice\methodExersice\bin\Debug\netcoreapp2.2\methodExersice.pdb
+C:\Users\Vera\source\repos\methodExersice\methodExersice\obj\Debug\netcoreapp2.2\methodExersice.csprojAssemblyReference.cache
+C:\Users\Vera\source\repos\methodExersice\methodExersice\obj\Debug\netcoreapp2.2\methodExersice.csproj.CoreCompileInputs.cache
+C:\Users\Vera\source\repos\methodExersice\methodExersice\obj\Debug\netcoreapp2.2\methodExersice.AssemblyInfoInputs.cache
+C:\Users\Vera\source\repos\methodExersice\methodExersice\obj\Debug\netcoreapp2.2\methodExersice.AssemblyInfo.cs
+C:\Users\Vera\source\repos\methodExersice\methodExersice\obj\Debug\netcoreapp2.2\methodExersice.dll
+C:\Users\Vera\source\repos\methodExersice\methodExersice\obj\Debug\netcoreapp2.2\methodExersice.pdb

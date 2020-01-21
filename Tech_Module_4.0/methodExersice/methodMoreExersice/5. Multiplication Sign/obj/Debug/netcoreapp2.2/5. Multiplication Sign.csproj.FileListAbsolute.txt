@@ -1,0 +1,11 @@
+C:\Users\Vera\source\repos\methodMoreExersice\5. Multiplication Sign\bin\Debug\netcoreapp2.2\5. Multiplication Sign.deps.json
+C:\Users\Vera\source\repos\methodMoreExersice\5. Multiplication Sign\bin\Debug\netcoreapp2.2\5. Multiplication Sign.runtimeconfig.json
+C:\Users\Vera\source\repos\methodMoreExersice\5. Multiplication Sign\bin\Debug\netcoreapp2.2\5. Multiplication Sign.runtimeconfig.dev.json
+C:\Users\Vera\source\repos\methodMoreExersice\5. Multiplication Sign\bin\Debug\netcoreapp2.2\5. Multiplication Sign.dll
+C:\Users\Vera\source\repos\methodMoreExersice\5. Multiplication Sign\bin\Debug\netcoreapp2.2\5. Multiplication Sign.pdb
+C:\Users\Vera\source\repos\methodMoreExersice\5. Multiplication Sign\obj\Debug\netcoreapp2.2\5. Multiplication Sign.csproj.CoreCompileInputs.cache
+C:\Users\Vera\source\repos\methodMoreExersice\5. Multiplication Sign\obj\Debug\netcoreapp2.2\5. Multiplication Sign.AssemblyInfoInputs.cache
+C:\Users\Vera\source\repos\methodMoreExersice\5. Multiplication Sign\obj\Debug\netcoreapp2.2\5. Multiplication Sign.AssemblyInfo.cs
+C:\Users\Vera\source\repos\methodMoreExersice\5. Multiplication Sign\obj\Debug\netcoreapp2.2\5. Multiplication Sign.dll
+C:\Users\Vera\source\repos\methodMoreExersice\5. Multiplication Sign\obj\Debug\netcoreapp2.2\5. Multiplication Sign.pdb
+C:\Users\Vera\source\repos\methodMoreExersice\5. Multiplication Sign\obj\Debug\netcoreapp2.2\5. Multiplication Sign.csprojAssemblyReference.cache

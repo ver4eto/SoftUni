@@ -1,0 +1,11 @@
+C:\Users\Vera\source\repos\methodMoreExersice\4. Tribonacci Sequence\bin\Debug\netcoreapp2.2\4. Tribonacci Sequence.deps.json
+C:\Users\Vera\source\repos\methodMoreExersice\4. Tribonacci Sequence\bin\Debug\netcoreapp2.2\4. Tribonacci Sequence.runtimeconfig.json
+C:\Users\Vera\source\repos\methodMoreExersice\4. Tribonacci Sequence\bin\Debug\netcoreapp2.2\4. Tribonacci Sequence.runtimeconfig.dev.json
+C:\Users\Vera\source\repos\methodMoreExersice\4. Tribonacci Sequence\bin\Debug\netcoreapp2.2\4. Tribonacci Sequence.dll
+C:\Users\Vera\source\repos\methodMoreExersice\4. Tribonacci Sequence\bin\Debug\netcoreapp2.2\4. Tribonacci Sequence.pdb
+C:\Users\Vera\source\repos\methodMoreExersice\4. Tribonacci Sequence\obj\Debug\netcoreapp2.2\4. Tribonacci Sequence.csprojAssemblyReference.cache
+C:\Users\Vera\source\repos\methodMoreExersice\4. Tribonacci Sequence\obj\Debug\netcoreapp2.2\4. Tribonacci Sequence.csproj.CoreCompileInputs.cache
+C:\Users\Vera\source\repos\methodMoreExersice\4. Tribonacci Sequence\obj\Debug\netcoreapp2.2\4. Tribonacci Sequence.AssemblyInfoInputs.cache
+C:\Users\Vera\source\repos\methodMoreExersice\4. Tribonacci Sequence\obj\Debug\netcoreapp2.2\4. Tribonacci Sequence.AssemblyInfo.cs
+C:\Users\Vera\source\repos\methodMoreExersice\4. Tribonacci Sequence\obj\Debug\netcoreapp2.2\4. Tribonacci Sequence.dll
+C:\Users\Vera\source\repos\methodMoreExersice\4. Tribonacci Sequence\obj\Debug\netcoreapp2.2\4. Tribonacci Sequence.pdb

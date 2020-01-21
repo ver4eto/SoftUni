@@ -1,0 +1,11 @@
+C:\Users\Vera\source\repos\methodMoreExersice\3. Longer Line\bin\Debug\netcoreapp2.2\3. Longer Line.deps.json
+C:\Users\Vera\source\repos\methodMoreExersice\3. Longer Line\bin\Debug\netcoreapp2.2\3. Longer Line.runtimeconfig.json
+C:\Users\Vera\source\repos\methodMoreExersice\3. Longer Line\bin\Debug\netcoreapp2.2\3. Longer Line.runtimeconfig.dev.json
+C:\Users\Vera\source\repos\methodMoreExersice\3. Longer Line\bin\Debug\netcoreapp2.2\3. Longer Line.dll
+C:\Users\Vera\source\repos\methodMoreExersice\3. Longer Line\bin\Debug\netcoreapp2.2\3. Longer Line.pdb
+C:\Users\Vera\source\repos\methodMoreExersice\3. Longer Line\obj\Debug\netcoreapp2.2\3. Longer Line.csprojAssemblyReference.cache
+C:\Users\Vera\source\repos\methodMoreExersice\3. Longer Line\obj\Debug\netcoreapp2.2\3. Longer Line.csproj.CoreCompileInputs.cache
+C:\Users\Vera\source\repos\methodMoreExersice\3. Longer Line\obj\Debug\netcoreapp2.2\3. Longer Line.AssemblyInfoInputs.cache
+C:\Users\Vera\source\repos\methodMoreExersice\3. Longer Line\obj\Debug\netcoreapp2.2\3. Longer Line.AssemblyInfo.cs
+C:\Users\Vera\source\repos\methodMoreExersice\3. Longer Line\obj\Debug\netcoreapp2.2\3. Longer Line.dll
+C:\Users\Vera\source\repos\methodMoreExersice\3. Longer Line\obj\Debug\netcoreapp2.2\3. Longer Line.pdb
