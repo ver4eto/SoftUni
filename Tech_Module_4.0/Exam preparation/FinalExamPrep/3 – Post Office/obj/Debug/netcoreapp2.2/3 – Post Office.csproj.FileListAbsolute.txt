@@ -1,0 +1,11 @@
+C:\Users\Vera\source\repos\FinalExamPrep\3 – Post Office\bin\Debug\netcoreapp2.2\3 – Post Office.deps.json
+C:\Users\Vera\source\repos\FinalExamPrep\3 – Post Office\bin\Debug\netcoreapp2.2\3 – Post Office.runtimeconfig.json
+C:\Users\Vera\source\repos\FinalExamPrep\3 – Post Office\bin\Debug\netcoreapp2.2\3 – Post Office.runtimeconfig.dev.json
+C:\Users\Vera\source\repos\FinalExamPrep\3 – Post Office\bin\Debug\netcoreapp2.2\3 – Post Office.dll
+C:\Users\Vera\source\repos\FinalExamPrep\3 – Post Office\bin\Debug\netcoreapp2.2\3 – Post Office.pdb
+C:\Users\Vera\source\repos\FinalExamPrep\3 – Post Office\obj\Debug\netcoreapp2.2\3 – Post Office.csprojAssemblyReference.cache
+C:\Users\Vera\source\repos\FinalExamPrep\3 – Post Office\obj\Debug\netcoreapp2.2\3 – Post Office.csproj.CoreCompileInputs.cache
+C:\Users\Vera\source\repos\FinalExamPrep\3 – Post Office\obj\Debug\netcoreapp2.2\3 – Post Office.AssemblyInfoInputs.cache
+C:\Users\Vera\source\repos\FinalExamPrep\3 – Post Office\obj\Debug\netcoreapp2.2\3 – Post Office.AssemblyInfo.cs
+C:\Users\Vera\source\repos\FinalExamPrep\3 – Post Office\obj\Debug\netcoreapp2.2\3 – Post Office.dll
+C:\Users\Vera\source\repos\FinalExamPrep\3 – Post Office\obj\Debug\netcoreapp2.2\3 – Post Office.pdb

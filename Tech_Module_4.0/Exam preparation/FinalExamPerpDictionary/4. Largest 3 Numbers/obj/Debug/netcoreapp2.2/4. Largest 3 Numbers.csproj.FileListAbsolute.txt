@@ -1,0 +1,11 @@
+C:\Users\Vera\source\repos\FinalExamPerpDictionary\4. Largest 3 Numbers\bin\Debug\netcoreapp2.2\4. Largest 3 Numbers.deps.json
+C:\Users\Vera\source\repos\FinalExamPerpDictionary\4. Largest 3 Numbers\bin\Debug\netcoreapp2.2\4. Largest 3 Numbers.runtimeconfig.json
+C:\Users\Vera\source\repos\FinalExamPerpDictionary\4. Largest 3 Numbers\bin\Debug\netcoreapp2.2\4. Largest 3 Numbers.runtimeconfig.dev.json
+C:\Users\Vera\source\repos\FinalExamPerpDictionary\4. Largest 3 Numbers\bin\Debug\netcoreapp2.2\4. Largest 3 Numbers.dll
+C:\Users\Vera\source\repos\FinalExamPerpDictionary\4. Largest 3 Numbers\bin\Debug\netcoreapp2.2\4. Largest 3 Numbers.pdb
+C:\Users\Vera\source\repos\FinalExamPerpDictionary\4. Largest 3 Numbers\obj\Debug\netcoreapp2.2\4. Largest 3 Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Vera\source\repos\FinalExamPerpDictionary\4. Largest 3 Numbers\obj\Debug\netcoreapp2.2\4. Largest 3 Numbers.AssemblyInfoInputs.cache
+C:\Users\Vera\source\repos\FinalExamPerpDictionary\4. Largest 3 Numbers\obj\Debug\netcoreapp2.2\4. Largest 3 Numbers.AssemblyInfo.cs
+C:\Users\Vera\source\repos\FinalExamPerpDictionary\4. Largest 3 Numbers\obj\Debug\netcoreapp2.2\4. Largest 3 Numbers.dll
+C:\Users\Vera\source\repos\FinalExamPerpDictionary\4. Largest 3 Numbers\obj\Debug\netcoreapp2.2\4. Largest 3 Numbers.pdb
+C:\Users\Vera\source\repos\FinalExamPerpDictionary\4. Largest 3 Numbers\obj\Debug\netcoreapp2.2\4. Largest 3 Numbers.csprojAssemblyReference.cache

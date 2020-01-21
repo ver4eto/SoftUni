@@ -1,0 +1,11 @@
+C:\Users\Vera\source\repos\FinalExamPrep\MeTube Statistics\bin\Debug\netcoreapp2.2\MeTube Statistics.deps.json
+C:\Users\Vera\source\repos\FinalExamPrep\MeTube Statistics\bin\Debug\netcoreapp2.2\MeTube Statistics.runtimeconfig.json
+C:\Users\Vera\source\repos\FinalExamPrep\MeTube Statistics\bin\Debug\netcoreapp2.2\MeTube Statistics.runtimeconfig.dev.json
+C:\Users\Vera\source\repos\FinalExamPrep\MeTube Statistics\bin\Debug\netcoreapp2.2\MeTube Statistics.dll
+C:\Users\Vera\source\repos\FinalExamPrep\MeTube Statistics\bin\Debug\netcoreapp2.2\MeTube Statistics.pdb
+C:\Users\Vera\source\repos\FinalExamPrep\MeTube Statistics\obj\Debug\netcoreapp2.2\MeTube Statistics.csprojAssemblyReference.cache
+C:\Users\Vera\source\repos\FinalExamPrep\MeTube Statistics\obj\Debug\netcoreapp2.2\MeTube Statistics.csproj.CoreCompileInputs.cache
+C:\Users\Vera\source\repos\FinalExamPrep\MeTube Statistics\obj\Debug\netcoreapp2.2\MeTube Statistics.AssemblyInfoInputs.cache
+C:\Users\Vera\source\repos\FinalExamPrep\MeTube Statistics\obj\Debug\netcoreapp2.2\MeTube Statistics.AssemblyInfo.cs
+C:\Users\Vera\source\repos\FinalExamPrep\MeTube Statistics\obj\Debug\netcoreapp2.2\MeTube Statistics.dll
+C:\Users\Vera\source\repos\FinalExamPrep\MeTube Statistics\obj\Debug\netcoreapp2.2\MeTube Statistics.pdb

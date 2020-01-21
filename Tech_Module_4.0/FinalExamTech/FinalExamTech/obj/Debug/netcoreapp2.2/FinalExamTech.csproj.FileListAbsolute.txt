@@ -1,0 +1,11 @@
+C:\Users\Vera\source\repos\FinalExamTech\FinalExamTech\bin\Debug\netcoreapp2.2\FinalExamTech.deps.json
+C:\Users\Vera\source\repos\FinalExamTech\FinalExamTech\bin\Debug\netcoreapp2.2\FinalExamTech.runtimeconfig.json
+C:\Users\Vera\source\repos\FinalExamTech\FinalExamTech\bin\Debug\netcoreapp2.2\FinalExamTech.runtimeconfig.dev.json
+C:\Users\Vera\source\repos\FinalExamTech\FinalExamTech\bin\Debug\netcoreapp2.2\FinalExamTech.dll
+C:\Users\Vera\source\repos\FinalExamTech\FinalExamTech\bin\Debug\netcoreapp2.2\FinalExamTech.pdb
+C:\Users\Vera\source\repos\FinalExamTech\FinalExamTech\obj\Debug\netcoreapp2.2\FinalExamTech.csprojAssemblyReference.cache
+C:\Users\Vera\source\repos\FinalExamTech\FinalExamTech\obj\Debug\netcoreapp2.2\FinalExamTech.csproj.CoreCompileInputs.cache
+C:\Users\Vera\source\repos\FinalExamTech\FinalExamTech\obj\Debug\netcoreapp2.2\FinalExamTech.AssemblyInfoInputs.cache
+C:\Users\Vera\source\repos\FinalExamTech\FinalExamTech\obj\Debug\netcoreapp2.2\FinalExamTech.AssemblyInfo.cs
+C:\Users\Vera\source\repos\FinalExamTech\FinalExamTech\obj\Debug\netcoreapp2.2\FinalExamTech.dll
+C:\Users\Vera\source\repos\FinalExamTech\FinalExamTech\obj\Debug\netcoreapp2.2\FinalExamTech.pdb

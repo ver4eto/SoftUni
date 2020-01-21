@@ -1,0 +1,11 @@
+C:\Users\Vera\source\repos\FinalExamPrep\International SoftUniada\bin\Debug\netcoreapp2.2\International SoftUniada.deps.json
+C:\Users\Vera\source\repos\FinalExamPrep\International SoftUniada\bin\Debug\netcoreapp2.2\International SoftUniada.runtimeconfig.json
+C:\Users\Vera\source\repos\FinalExamPrep\International SoftUniada\bin\Debug\netcoreapp2.2\International SoftUniada.runtimeconfig.dev.json
+C:\Users\Vera\source\repos\FinalExamPrep\International SoftUniada\bin\Debug\netcoreapp2.2\International SoftUniada.dll
+C:\Users\Vera\source\repos\FinalExamPrep\International SoftUniada\bin\Debug\netcoreapp2.2\International SoftUniada.pdb
+C:\Users\Vera\source\repos\FinalExamPrep\International SoftUniada\obj\Debug\netcoreapp2.2\International SoftUniada.csproj.CoreCompileInputs.cache
+C:\Users\Vera\source\repos\FinalExamPrep\International SoftUniada\obj\Debug\netcoreapp2.2\International SoftUniada.AssemblyInfoInputs.cache
+C:\Users\Vera\source\repos\FinalExamPrep\International SoftUniada\obj\Debug\netcoreapp2.2\International SoftUniada.AssemblyInfo.cs
+C:\Users\Vera\source\repos\FinalExamPrep\International SoftUniada\obj\Debug\netcoreapp2.2\International SoftUniada.dll
+C:\Users\Vera\source\repos\FinalExamPrep\International SoftUniada\obj\Debug\netcoreapp2.2\International SoftUniada.pdb
+C:\Users\Vera\source\repos\FinalExamPrep\International SoftUniada\obj\Debug\netcoreapp2.2\International SoftUniada.csprojAssemblyReference.cache

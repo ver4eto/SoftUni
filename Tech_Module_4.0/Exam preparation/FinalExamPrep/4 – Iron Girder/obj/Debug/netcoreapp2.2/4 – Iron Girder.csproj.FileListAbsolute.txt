@@ -1,0 +1,11 @@
+C:\Users\Vera\source\repos\FinalExamPrep\4 – Iron Girder\bin\Debug\netcoreapp2.2\4 – Iron Girder.deps.json
+C:\Users\Vera\source\repos\FinalExamPrep\4 – Iron Girder\bin\Debug\netcoreapp2.2\4 – Iron Girder.runtimeconfig.json
+C:\Users\Vera\source\repos\FinalExamPrep\4 – Iron Girder\bin\Debug\netcoreapp2.2\4 – Iron Girder.runtimeconfig.dev.json
+C:\Users\Vera\source\repos\FinalExamPrep\4 – Iron Girder\bin\Debug\netcoreapp2.2\4 – Iron Girder.dll
+C:\Users\Vera\source\repos\FinalExamPrep\4 – Iron Girder\bin\Debug\netcoreapp2.2\4 – Iron Girder.pdb
+C:\Users\Vera\source\repos\FinalExamPrep\4 – Iron Girder\obj\Debug\netcoreapp2.2\4 – Iron Girder.csprojAssemblyReference.cache
+C:\Users\Vera\source\repos\FinalExamPrep\4 – Iron Girder\obj\Debug\netcoreapp2.2\4 – Iron Girder.csproj.CoreCompileInputs.cache
+C:\Users\Vera\source\repos\FinalExamPrep\4 – Iron Girder\obj\Debug\netcoreapp2.2\4 – Iron Girder.AssemblyInfoInputs.cache
+C:\Users\Vera\source\repos\FinalExamPrep\4 – Iron Girder\obj\Debug\netcoreapp2.2\4 – Iron Girder.AssemblyInfo.cs
+C:\Users\Vera\source\repos\FinalExamPrep\4 – Iron Girder\obj\Debug\netcoreapp2.2\4 – Iron Girder.dll
+C:\Users\Vera\source\repos\FinalExamPrep\4 – Iron Girder\obj\Debug\netcoreapp2.2\4 – Iron Girder.pdb

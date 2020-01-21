@@ -1,0 +1,10 @@
+C:\Users\Vera\source\repos\FinalExamPerpDictionary\1. Phonebook\obj\Debug\netcoreapp2.2\1. Phonebook.csproj.CoreCompileInputs.cache
+C:\Users\Vera\source\repos\FinalExamPerpDictionary\1. Phonebook\obj\Debug\netcoreapp2.2\1. Phonebook.AssemblyInfoInputs.cache
+C:\Users\Vera\source\repos\FinalExamPerpDictionary\1. Phonebook\obj\Debug\netcoreapp2.2\1. Phonebook.AssemblyInfo.cs
+C:\Users\Vera\source\repos\FinalExamPerpDictionary\1. Phonebook\bin\Debug\netcoreapp2.2\1. Phonebook.deps.json
+C:\Users\Vera\source\repos\FinalExamPerpDictionary\1. Phonebook\bin\Debug\netcoreapp2.2\1. Phonebook.runtimeconfig.json
+C:\Users\Vera\source\repos\FinalExamPerpDictionary\1. Phonebook\bin\Debug\netcoreapp2.2\1. Phonebook.runtimeconfig.dev.json
+C:\Users\Vera\source\repos\FinalExamPerpDictionary\1. Phonebook\bin\Debug\netcoreapp2.2\1. Phonebook.dll
+C:\Users\Vera\source\repos\FinalExamPerpDictionary\1. Phonebook\bin\Debug\netcoreapp2.2\1. Phonebook.pdb
+C:\Users\Vera\source\repos\FinalExamPerpDictionary\1. Phonebook\obj\Debug\netcoreapp2.2\1. Phonebook.dll
+C:\Users\Vera\source\repos\FinalExamPerpDictionary\1. Phonebook\obj\Debug\netcoreapp2.2\1. Phonebook.pdb

@@ -1,0 +1,11 @@
+C:\Users\Vera\source\repos\FinalExamPrep\FinalExamPrep\bin\Debug\netcoreapp2.2\FinalExamPrep.deps.json
+C:\Users\Vera\source\repos\FinalExamPrep\FinalExamPrep\bin\Debug\netcoreapp2.2\FinalExamPrep.runtimeconfig.json
+C:\Users\Vera\source\repos\FinalExamPrep\FinalExamPrep\bin\Debug\netcoreapp2.2\FinalExamPrep.runtimeconfig.dev.json
+C:\Users\Vera\source\repos\FinalExamPrep\FinalExamPrep\bin\Debug\netcoreapp2.2\FinalExamPrep.dll
+C:\Users\Vera\source\repos\FinalExamPrep\FinalExamPrep\bin\Debug\netcoreapp2.2\FinalExamPrep.pdb
+C:\Users\Vera\source\repos\FinalExamPrep\FinalExamPrep\obj\Debug\netcoreapp2.2\FinalExamPrep.csprojAssemblyReference.cache
+C:\Users\Vera\source\repos\FinalExamPrep\FinalExamPrep\obj\Debug\netcoreapp2.2\FinalExamPrep.csproj.CoreCompileInputs.cache
+C:\Users\Vera\source\repos\FinalExamPrep\FinalExamPrep\obj\Debug\netcoreapp2.2\FinalExamPrep.AssemblyInfoInputs.cache
+C:\Users\Vera\source\repos\FinalExamPrep\FinalExamPrep\obj\Debug\netcoreapp2.2\FinalExamPrep.AssemblyInfo.cs
+C:\Users\Vera\source\repos\FinalExamPrep\FinalExamPrep\obj\Debug\netcoreapp2.2\FinalExamPrep.dll
+C:\Users\Vera\source\repos\FinalExamPrep\FinalExamPrep\obj\Debug\netcoreapp2.2\FinalExamPrep.pdb

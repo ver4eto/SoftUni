@@ -1,0 +1,11 @@
+C:\Users\Vera\source\repos\FinalExamPrep\01. Vapor Winter Sale\obj\Debug\netcoreapp2.2\01. Vapor Winter Sale.csprojAssemblyReference.cache
+C:\Users\Vera\source\repos\FinalExamPrep\01. Vapor Winter Sale\obj\Debug\netcoreapp2.2\01. Vapor Winter Sale.csproj.CoreCompileInputs.cache
+C:\Users\Vera\source\repos\FinalExamPrep\01. Vapor Winter Sale\obj\Debug\netcoreapp2.2\01. Vapor Winter Sale.AssemblyInfoInputs.cache
+C:\Users\Vera\source\repos\FinalExamPrep\01. Vapor Winter Sale\obj\Debug\netcoreapp2.2\01. Vapor Winter Sale.AssemblyInfo.cs
+C:\Users\Vera\source\repos\FinalExamPrep\01. Vapor Winter Sale\bin\Debug\netcoreapp2.2\01. Vapor Winter Sale.deps.json
+C:\Users\Vera\source\repos\FinalExamPrep\01. Vapor Winter Sale\bin\Debug\netcoreapp2.2\01. Vapor Winter Sale.runtimeconfig.json
+C:\Users\Vera\source\repos\FinalExamPrep\01. Vapor Winter Sale\bin\Debug\netcoreapp2.2\01. Vapor Winter Sale.runtimeconfig.dev.json
+C:\Users\Vera\source\repos\FinalExamPrep\01. Vapor Winter Sale\bin\Debug\netcoreapp2.2\01. Vapor Winter Sale.dll
+C:\Users\Vera\source\repos\FinalExamPrep\01. Vapor Winter Sale\bin\Debug\netcoreapp2.2\01. Vapor Winter Sale.pdb
+C:\Users\Vera\source\repos\FinalExamPrep\01. Vapor Winter Sale\obj\Debug\netcoreapp2.2\01. Vapor Winter Sale.dll
+C:\Users\Vera\source\repos\FinalExamPrep\01. Vapor Winter Sale\obj\Debug\netcoreapp2.2\01. Vapor Winter Sale.pdb

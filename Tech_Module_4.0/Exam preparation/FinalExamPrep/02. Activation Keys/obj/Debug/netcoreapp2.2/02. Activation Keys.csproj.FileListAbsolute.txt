@@ -1,0 +1,11 @@
+C:\Users\Vera\source\repos\FinalExamPrep\02. Activation Keys\bin\Debug\netcoreapp2.2\02. Activation Keys.deps.json
+C:\Users\Vera\source\repos\FinalExamPrep\02. Activation Keys\bin\Debug\netcoreapp2.2\02. Activation Keys.runtimeconfig.json
+C:\Users\Vera\source\repos\FinalExamPrep\02. Activation Keys\bin\Debug\netcoreapp2.2\02. Activation Keys.runtimeconfig.dev.json
+C:\Users\Vera\source\repos\FinalExamPrep\02. Activation Keys\bin\Debug\netcoreapp2.2\02. Activation Keys.dll
+C:\Users\Vera\source\repos\FinalExamPrep\02. Activation Keys\bin\Debug\netcoreapp2.2\02. Activation Keys.pdb
+C:\Users\Vera\source\repos\FinalExamPrep\02. Activation Keys\obj\Debug\netcoreapp2.2\02. Activation Keys.csprojAssemblyReference.cache
+C:\Users\Vera\source\repos\FinalExamPrep\02. Activation Keys\obj\Debug\netcoreapp2.2\02. Activation Keys.csproj.CoreCompileInputs.cache
+C:\Users\Vera\source\repos\FinalExamPrep\02. Activation Keys\obj\Debug\netcoreapp2.2\02. Activation Keys.AssemblyInfoInputs.cache
+C:\Users\Vera\source\repos\FinalExamPrep\02. Activation Keys\obj\Debug\netcoreapp2.2\02. Activation Keys.AssemblyInfo.cs
+C:\Users\Vera\source\repos\FinalExamPrep\02. Activation Keys\obj\Debug\netcoreapp2.2\02. Activation Keys.dll
+C:\Users\Vera\source\repos\FinalExamPrep\02. Activation Keys\obj\Debug\netcoreapp2.2\02. Activation Keys.pdb

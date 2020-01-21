@@ -1,0 +1,11 @@
+C:\Users\Vera\source\repos\DemoFinal\DemoFinal\bin\Debug\netcoreapp2.2\DemoFinal.deps.json
+C:\Users\Vera\source\repos\DemoFinal\DemoFinal\bin\Debug\netcoreapp2.2\DemoFinal.runtimeconfig.json
+C:\Users\Vera\source\repos\DemoFinal\DemoFinal\bin\Debug\netcoreapp2.2\DemoFinal.runtimeconfig.dev.json
+C:\Users\Vera\source\repos\DemoFinal\DemoFinal\bin\Debug\netcoreapp2.2\DemoFinal.dll
+C:\Users\Vera\source\repos\DemoFinal\DemoFinal\bin\Debug\netcoreapp2.2\DemoFinal.pdb
+C:\Users\Vera\source\repos\DemoFinal\DemoFinal\obj\Debug\netcoreapp2.2\DemoFinal.csprojAssemblyReference.cache
+C:\Users\Vera\source\repos\DemoFinal\DemoFinal\obj\Debug\netcoreapp2.2\DemoFinal.csproj.CoreCompileInputs.cache
+C:\Users\Vera\source\repos\DemoFinal\DemoFinal\obj\Debug\netcoreapp2.2\DemoFinal.AssemblyInfoInputs.cache
+C:\Users\Vera\source\repos\DemoFinal\DemoFinal\obj\Debug\netcoreapp2.2\DemoFinal.AssemblyInfo.cs
+C:\Users\Vera\source\repos\DemoFinal\DemoFinal\obj\Debug\netcoreapp2.2\DemoFinal.dll
+C:\Users\Vera\source\repos\DemoFinal\DemoFinal\obj\Debug\netcoreapp2.2\DemoFinal.pdb

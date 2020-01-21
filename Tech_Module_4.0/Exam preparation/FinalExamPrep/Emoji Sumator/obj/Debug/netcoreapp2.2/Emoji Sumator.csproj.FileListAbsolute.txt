@@ -1,0 +1,11 @@
+C:\Users\Vera\source\repos\FinalExamPrep\Emoji Sumator\bin\Debug\netcoreapp2.2\Emoji Sumator.deps.json
+C:\Users\Vera\source\repos\FinalExamPrep\Emoji Sumator\bin\Debug\netcoreapp2.2\Emoji Sumator.runtimeconfig.json
+C:\Users\Vera\source\repos\FinalExamPrep\Emoji Sumator\bin\Debug\netcoreapp2.2\Emoji Sumator.runtimeconfig.dev.json
+C:\Users\Vera\source\repos\FinalExamPrep\Emoji Sumator\bin\Debug\netcoreapp2.2\Emoji Sumator.dll
+C:\Users\Vera\source\repos\FinalExamPrep\Emoji Sumator\bin\Debug\netcoreapp2.2\Emoji Sumator.pdb
+C:\Users\Vera\source\repos\FinalExamPrep\Emoji Sumator\obj\Debug\netcoreapp2.2\Emoji Sumator.csprojAssemblyReference.cache
+C:\Users\Vera\source\repos\FinalExamPrep\Emoji Sumator\obj\Debug\netcoreapp2.2\Emoji Sumator.csproj.CoreCompileInputs.cache
+C:\Users\Vera\source\repos\FinalExamPrep\Emoji Sumator\obj\Debug\netcoreapp2.2\Emoji Sumator.AssemblyInfoInputs.cache
+C:\Users\Vera\source\repos\FinalExamPrep\Emoji Sumator\obj\Debug\netcoreapp2.2\Emoji Sumator.AssemblyInfo.cs
+C:\Users\Vera\source\repos\FinalExamPrep\Emoji Sumator\obj\Debug\netcoreapp2.2\Emoji Sumator.dll
+C:\Users\Vera\source\repos\FinalExamPrep\Emoji Sumator\obj\Debug\netcoreapp2.2\Emoji Sumator.pdb

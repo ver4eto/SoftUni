@@ -1,0 +1,10 @@
+C:\Users\Vera\source\repos\FinalExamPrep\Chore Wars\bin\Debug\netcoreapp2.2\Chore Wars.deps.json
+C:\Users\Vera\source\repos\FinalExamPrep\Chore Wars\bin\Debug\netcoreapp2.2\Chore Wars.runtimeconfig.json
+C:\Users\Vera\source\repos\FinalExamPrep\Chore Wars\bin\Debug\netcoreapp2.2\Chore Wars.runtimeconfig.dev.json
+C:\Users\Vera\source\repos\FinalExamPrep\Chore Wars\bin\Debug\netcoreapp2.2\Chore Wars.dll
+C:\Users\Vera\source\repos\FinalExamPrep\Chore Wars\bin\Debug\netcoreapp2.2\Chore Wars.pdb
+C:\Users\Vera\source\repos\FinalExamPrep\Chore Wars\obj\Debug\netcoreapp2.2\Chore Wars.csproj.CoreCompileInputs.cache
+C:\Users\Vera\source\repos\FinalExamPrep\Chore Wars\obj\Debug\netcoreapp2.2\Chore Wars.AssemblyInfoInputs.cache
+C:\Users\Vera\source\repos\FinalExamPrep\Chore Wars\obj\Debug\netcoreapp2.2\Chore Wars.AssemblyInfo.cs
+C:\Users\Vera\source\repos\FinalExamPrep\Chore Wars\obj\Debug\netcoreapp2.2\Chore Wars.dll
+C:\Users\Vera\source\repos\FinalExamPrep\Chore Wars\obj\Debug\netcoreapp2.2\Chore Wars.pdb

@@ -1,0 +1,11 @@
+C:\Users\Vera\source\repos\FinalExamPerpDictionary\3. Sum, Min, Max, Average\bin\Debug\netcoreapp2.2\3. Sum, Min, Max, Average.deps.json
+C:\Users\Vera\source\repos\FinalExamPerpDictionary\3. Sum, Min, Max, Average\bin\Debug\netcoreapp2.2\3. Sum, Min, Max, Average.runtimeconfig.json
+C:\Users\Vera\source\repos\FinalExamPerpDictionary\3. Sum, Min, Max, Average\bin\Debug\netcoreapp2.2\3. Sum, Min, Max, Average.runtimeconfig.dev.json
+C:\Users\Vera\source\repos\FinalExamPerpDictionary\3. Sum, Min, Max, Average\bin\Debug\netcoreapp2.2\3. Sum, Min, Max, Average.dll
+C:\Users\Vera\source\repos\FinalExamPerpDictionary\3. Sum, Min, Max, Average\bin\Debug\netcoreapp2.2\3. Sum, Min, Max, Average.pdb
+C:\Users\Vera\source\repos\FinalExamPerpDictionary\3. Sum, Min, Max, Average\obj\Debug\netcoreapp2.2\3. Sum, Min, Max, Average.csprojAssemblyReference.cache
+C:\Users\Vera\source\repos\FinalExamPerpDictionary\3. Sum, Min, Max, Average\obj\Debug\netcoreapp2.2\3. Sum, Min, Max, Average.csproj.CoreCompileInputs.cache
+C:\Users\Vera\source\repos\FinalExamPerpDictionary\3. Sum, Min, Max, Average\obj\Debug\netcoreapp2.2\3. Sum, Min, Max, Average.AssemblyInfoInputs.cache
+C:\Users\Vera\source\repos\FinalExamPerpDictionary\3. Sum, Min, Max, Average\obj\Debug\netcoreapp2.2\3. Sum, Min, Max, Average.AssemblyInfo.cs
+C:\Users\Vera\source\repos\FinalExamPerpDictionary\3. Sum, Min, Max, Average\obj\Debug\netcoreapp2.2\3. Sum, Min, Max, Average.dll
+C:\Users\Vera\source\repos\FinalExamPerpDictionary\3. Sum, Min, Max, Average\obj\Debug\netcoreapp2.2\3. Sum, Min, Max, Average.pdb
