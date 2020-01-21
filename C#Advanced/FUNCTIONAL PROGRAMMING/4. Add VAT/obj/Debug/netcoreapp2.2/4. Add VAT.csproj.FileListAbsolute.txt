@@ -1,0 +1,10 @@
+C:\Users\Vera\source\repos\FUNCTIONAL PROGRAMMING\4. Add VAT\bin\Debug\netcoreapp2.2\4. Add VAT.deps.json
+C:\Users\Vera\source\repos\FUNCTIONAL PROGRAMMING\4. Add VAT\bin\Debug\netcoreapp2.2\4. Add VAT.runtimeconfig.json
+C:\Users\Vera\source\repos\FUNCTIONAL PROGRAMMING\4. Add VAT\bin\Debug\netcoreapp2.2\4. Add VAT.runtimeconfig.dev.json
+C:\Users\Vera\source\repos\FUNCTIONAL PROGRAMMING\4. Add VAT\bin\Debug\netcoreapp2.2\4. Add VAT.dll
+C:\Users\Vera\source\repos\FUNCTIONAL PROGRAMMING\4. Add VAT\bin\Debug\netcoreapp2.2\4. Add VAT.pdb
+C:\Users\Vera\source\repos\FUNCTIONAL PROGRAMMING\4. Add VAT\obj\Debug\netcoreapp2.2\4. Add VAT.csproj.CoreCompileInputs.cache
+C:\Users\Vera\source\repos\FUNCTIONAL PROGRAMMING\4. Add VAT\obj\Debug\netcoreapp2.2\4. Add VAT.AssemblyInfoInputs.cache
+C:\Users\Vera\source\repos\FUNCTIONAL PROGRAMMING\4. Add VAT\obj\Debug\netcoreapp2.2\4. Add VAT.AssemblyInfo.cs
+C:\Users\Vera\source\repos\FUNCTIONAL PROGRAMMING\4. Add VAT\obj\Debug\netcoreapp2.2\4. Add VAT.dll
+C:\Users\Vera\source\repos\FUNCTIONAL PROGRAMMING\4. Add VAT\obj\Debug\netcoreapp2.2\4. Add VAT.pdb

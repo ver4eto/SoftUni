@@ -1,0 +1,10 @@
+C:\Users\Vera\source\repos\Functional ProgrammingExercises\Party Reservation Filter Module\bin\Debug\netcoreapp2.2\Party Reservation Filter Module.deps.json
+C:\Users\Vera\source\repos\Functional ProgrammingExercises\Party Reservation Filter Module\bin\Debug\netcoreapp2.2\Party Reservation Filter Module.runtimeconfig.json
+C:\Users\Vera\source\repos\Functional ProgrammingExercises\Party Reservation Filter Module\bin\Debug\netcoreapp2.2\Party Reservation Filter Module.runtimeconfig.dev.json
+C:\Users\Vera\source\repos\Functional ProgrammingExercises\Party Reservation Filter Module\bin\Debug\netcoreapp2.2\Party Reservation Filter Module.dll
+C:\Users\Vera\source\repos\Functional ProgrammingExercises\Party Reservation Filter Module\bin\Debug\netcoreapp2.2\Party Reservation Filter Module.pdb
+C:\Users\Vera\source\repos\Functional ProgrammingExercises\Party Reservation Filter Module\obj\Debug\netcoreapp2.2\Party Reservation Filter Module.csproj.CoreCompileInputs.cache
+C:\Users\Vera\source\repos\Functional ProgrammingExercises\Party Reservation Filter Module\obj\Debug\netcoreapp2.2\Party Reservation Filter Module.AssemblyInfoInputs.cache
+C:\Users\Vera\source\repos\Functional ProgrammingExercises\Party Reservation Filter Module\obj\Debug\netcoreapp2.2\Party Reservation Filter Module.AssemblyInfo.cs
+C:\Users\Vera\source\repos\Functional ProgrammingExercises\Party Reservation Filter Module\obj\Debug\netcoreapp2.2\Party Reservation Filter Module.dll
+C:\Users\Vera\source\repos\Functional ProgrammingExercises\Party Reservation Filter Module\obj\Debug\netcoreapp2.2\Party Reservation Filter Module.pdb

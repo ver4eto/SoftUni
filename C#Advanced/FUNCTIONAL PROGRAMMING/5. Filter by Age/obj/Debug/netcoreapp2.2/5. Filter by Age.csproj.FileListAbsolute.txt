@@ -1,0 +1,11 @@
+C:\Users\Vera\source\repos\FUNCTIONAL PROGRAMMING\5. Filter by Age\bin\Debug\netcoreapp2.2\5. Filter by Age.deps.json
+C:\Users\Vera\source\repos\FUNCTIONAL PROGRAMMING\5. Filter by Age\bin\Debug\netcoreapp2.2\5. Filter by Age.runtimeconfig.json
+C:\Users\Vera\source\repos\FUNCTIONAL PROGRAMMING\5. Filter by Age\bin\Debug\netcoreapp2.2\5. Filter by Age.runtimeconfig.dev.json
+C:\Users\Vera\source\repos\FUNCTIONAL PROGRAMMING\5. Filter by Age\bin\Debug\netcoreapp2.2\5. Filter by Age.dll
+C:\Users\Vera\source\repos\FUNCTIONAL PROGRAMMING\5. Filter by Age\bin\Debug\netcoreapp2.2\5. Filter by Age.pdb
+C:\Users\Vera\source\repos\FUNCTIONAL PROGRAMMING\5. Filter by Age\obj\Debug\netcoreapp2.2\5. Filter by Age.csprojAssemblyReference.cache
+C:\Users\Vera\source\repos\FUNCTIONAL PROGRAMMING\5. Filter by Age\obj\Debug\netcoreapp2.2\5. Filter by Age.csproj.CoreCompileInputs.cache
+C:\Users\Vera\source\repos\FUNCTIONAL PROGRAMMING\5. Filter by Age\obj\Debug\netcoreapp2.2\5. Filter by Age.AssemblyInfoInputs.cache
+C:\Users\Vera\source\repos\FUNCTIONAL PROGRAMMING\5. Filter by Age\obj\Debug\netcoreapp2.2\5. Filter by Age.AssemblyInfo.cs
+C:\Users\Vera\source\repos\FUNCTIONAL PROGRAMMING\5. Filter by Age\obj\Debug\netcoreapp2.2\5. Filter by Age.dll
+C:\Users\Vera\source\repos\FUNCTIONAL PROGRAMMING\5. Filter by Age\obj\Debug\netcoreapp2.2\5. Filter by Age.pdb

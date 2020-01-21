@@ -1,0 +1,11 @@
+C:\Users\Vera\source\repos\FUNCTIONAL PROGRAMMING\3. Count Uppercase Words\bin\Debug\netcoreapp2.2\3. Count Uppercase Words.deps.json
+C:\Users\Vera\source\repos\FUNCTIONAL PROGRAMMING\3. Count Uppercase Words\bin\Debug\netcoreapp2.2\3. Count Uppercase Words.runtimeconfig.json
+C:\Users\Vera\source\repos\FUNCTIONAL PROGRAMMING\3. Count Uppercase Words\bin\Debug\netcoreapp2.2\3. Count Uppercase Words.runtimeconfig.dev.json
+C:\Users\Vera\source\repos\FUNCTIONAL PROGRAMMING\3. Count Uppercase Words\bin\Debug\netcoreapp2.2\3. Count Uppercase Words.dll
+C:\Users\Vera\source\repos\FUNCTIONAL PROGRAMMING\3. Count Uppercase Words\bin\Debug\netcoreapp2.2\3. Count Uppercase Words.pdb
+C:\Users\Vera\source\repos\FUNCTIONAL PROGRAMMING\3. Count Uppercase Words\obj\Debug\netcoreapp2.2\3. Count Uppercase Words.csprojAssemblyReference.cache
+C:\Users\Vera\source\repos\FUNCTIONAL PROGRAMMING\3. Count Uppercase Words\obj\Debug\netcoreapp2.2\3. Count Uppercase Words.csproj.CoreCompileInputs.cache
+C:\Users\Vera\source\repos\FUNCTIONAL PROGRAMMING\3. Count Uppercase Words\obj\Debug\netcoreapp2.2\3. Count Uppercase Words.AssemblyInfoInputs.cache
+C:\Users\Vera\source\repos\FUNCTIONAL PROGRAMMING\3. Count Uppercase Words\obj\Debug\netcoreapp2.2\3. Count Uppercase Words.AssemblyInfo.cs
+C:\Users\Vera\source\repos\FUNCTIONAL PROGRAMMING\3. Count Uppercase Words\obj\Debug\netcoreapp2.2\3. Count Uppercase Words.dll
+C:\Users\Vera\source\repos\FUNCTIONAL PROGRAMMING\3. Count Uppercase Words\obj\Debug\netcoreapp2.2\3. Count Uppercase Words.pdb

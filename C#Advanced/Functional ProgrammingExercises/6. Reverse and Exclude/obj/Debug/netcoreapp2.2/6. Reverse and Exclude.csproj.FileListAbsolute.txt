@@ -1,0 +1,11 @@
+C:\Users\Vera\source\repos\Functional ProgrammingExercises\6. Reverse and Exclude\bin\Debug\netcoreapp2.2\6. Reverse and Exclude.deps.json
+C:\Users\Vera\source\repos\Functional ProgrammingExercises\6. Reverse and Exclude\bin\Debug\netcoreapp2.2\6. Reverse and Exclude.runtimeconfig.json
+C:\Users\Vera\source\repos\Functional ProgrammingExercises\6. Reverse and Exclude\bin\Debug\netcoreapp2.2\6. Reverse and Exclude.runtimeconfig.dev.json
+C:\Users\Vera\source\repos\Functional ProgrammingExercises\6. Reverse and Exclude\bin\Debug\netcoreapp2.2\6. Reverse and Exclude.dll
+C:\Users\Vera\source\repos\Functional ProgrammingExercises\6. Reverse and Exclude\bin\Debug\netcoreapp2.2\6. Reverse and Exclude.pdb
+C:\Users\Vera\source\repos\Functional ProgrammingExercises\6. Reverse and Exclude\obj\Debug\netcoreapp2.2\6. Reverse and Exclude.csprojAssemblyReference.cache
+C:\Users\Vera\source\repos\Functional ProgrammingExercises\6. Reverse and Exclude\obj\Debug\netcoreapp2.2\6. Reverse and Exclude.csproj.CoreCompileInputs.cache
+C:\Users\Vera\source\repos\Functional ProgrammingExercises\6. Reverse and Exclude\obj\Debug\netcoreapp2.2\6. Reverse and Exclude.AssemblyInfoInputs.cache
+C:\Users\Vera\source\repos\Functional ProgrammingExercises\6. Reverse and Exclude\obj\Debug\netcoreapp2.2\6. Reverse and Exclude.AssemblyInfo.cs
+C:\Users\Vera\source\repos\Functional ProgrammingExercises\6. Reverse and Exclude\obj\Debug\netcoreapp2.2\6. Reverse and Exclude.dll
+C:\Users\Vera\source\repos\Functional ProgrammingExercises\6. Reverse and Exclude\obj\Debug\netcoreapp2.2\6. Reverse and Exclude.pdb

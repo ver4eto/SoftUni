@@ -1,0 +1,11 @@
+C:\Users\Vera\source\repos\Functional ProgrammingExercises\Functional ProgrammingExercises\bin\Debug\netcoreapp2.2\1. Action Point.deps.json
+C:\Users\Vera\source\repos\Functional ProgrammingExercises\Functional ProgrammingExercises\bin\Debug\netcoreapp2.2\1. Action Point.runtimeconfig.json
+C:\Users\Vera\source\repos\Functional ProgrammingExercises\Functional ProgrammingExercises\bin\Debug\netcoreapp2.2\1. Action Point.runtimeconfig.dev.json
+C:\Users\Vera\source\repos\Functional ProgrammingExercises\Functional ProgrammingExercises\bin\Debug\netcoreapp2.2\1. Action Point.dll
+C:\Users\Vera\source\repos\Functional ProgrammingExercises\Functional ProgrammingExercises\bin\Debug\netcoreapp2.2\1. Action Point.pdb
+C:\Users\Vera\source\repos\Functional ProgrammingExercises\Functional ProgrammingExercises\obj\Debug\netcoreapp2.2\1. Action Point.csprojAssemblyReference.cache
+C:\Users\Vera\source\repos\Functional ProgrammingExercises\Functional ProgrammingExercises\obj\Debug\netcoreapp2.2\1. Action Point.csproj.CoreCompileInputs.cache
+C:\Users\Vera\source\repos\Functional ProgrammingExercises\Functional ProgrammingExercises\obj\Debug\netcoreapp2.2\1. Action Point.AssemblyInfoInputs.cache
+C:\Users\Vera\source\repos\Functional ProgrammingExercises\Functional ProgrammingExercises\obj\Debug\netcoreapp2.2\1. Action Point.AssemblyInfo.cs
+C:\Users\Vera\source\repos\Functional ProgrammingExercises\Functional ProgrammingExercises\obj\Debug\netcoreapp2.2\1. Action Point.dll
+C:\Users\Vera\source\repos\Functional ProgrammingExercises\Functional ProgrammingExercises\obj\Debug\netcoreapp2.2\1. Action Point.pdb

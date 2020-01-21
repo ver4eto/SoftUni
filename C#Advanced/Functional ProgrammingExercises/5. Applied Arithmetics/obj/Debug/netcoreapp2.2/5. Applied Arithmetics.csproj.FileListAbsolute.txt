@@ -1,0 +1,11 @@
+C:\Users\Vera\source\repos\Functional ProgrammingExercises\5. Applied Arithmetics\bin\Debug\netcoreapp2.2\5. Applied Arithmetics.deps.json
+C:\Users\Vera\source\repos\Functional ProgrammingExercises\5. Applied Arithmetics\bin\Debug\netcoreapp2.2\5. Applied Arithmetics.runtimeconfig.json
+C:\Users\Vera\source\repos\Functional ProgrammingExercises\5. Applied Arithmetics\bin\Debug\netcoreapp2.2\5. Applied Arithmetics.runtimeconfig.dev.json
+C:\Users\Vera\source\repos\Functional ProgrammingExercises\5. Applied Arithmetics\bin\Debug\netcoreapp2.2\5. Applied Arithmetics.dll
+C:\Users\Vera\source\repos\Functional ProgrammingExercises\5. Applied Arithmetics\bin\Debug\netcoreapp2.2\5. Applied Arithmetics.pdb
+C:\Users\Vera\source\repos\Functional ProgrammingExercises\5. Applied Arithmetics\obj\Debug\netcoreapp2.2\5. Applied Arithmetics.csprojAssemblyReference.cache
+C:\Users\Vera\source\repos\Functional ProgrammingExercises\5. Applied Arithmetics\obj\Debug\netcoreapp2.2\5. Applied Arithmetics.csproj.CoreCompileInputs.cache
+C:\Users\Vera\source\repos\Functional ProgrammingExercises\5. Applied Arithmetics\obj\Debug\netcoreapp2.2\5. Applied Arithmetics.AssemblyInfoInputs.cache
+C:\Users\Vera\source\repos\Functional ProgrammingExercises\5. Applied Arithmetics\obj\Debug\netcoreapp2.2\5. Applied Arithmetics.AssemblyInfo.cs
+C:\Users\Vera\source\repos\Functional ProgrammingExercises\5. Applied Arithmetics\obj\Debug\netcoreapp2.2\5. Applied Arithmetics.dll
+C:\Users\Vera\source\repos\Functional ProgrammingExercises\5. Applied Arithmetics\obj\Debug\netcoreapp2.2\5. Applied Arithmetics.pdb

@@ -1,0 +1,11 @@
+C:\Users\Vera\source\repos\FUNCTIONAL PROGRAMMING\FUNCTIONAL PROGRAMMING\bin\Debug\netcoreapp2.2\1. Sort Even Numbers.deps.json
+C:\Users\Vera\source\repos\FUNCTIONAL PROGRAMMING\FUNCTIONAL PROGRAMMING\bin\Debug\netcoreapp2.2\1. Sort Even Numbers.runtimeconfig.json
+C:\Users\Vera\source\repos\FUNCTIONAL PROGRAMMING\FUNCTIONAL PROGRAMMING\bin\Debug\netcoreapp2.2\1. Sort Even Numbers.runtimeconfig.dev.json
+C:\Users\Vera\source\repos\FUNCTIONAL PROGRAMMING\FUNCTIONAL PROGRAMMING\bin\Debug\netcoreapp2.2\1. Sort Even Numbers.dll
+C:\Users\Vera\source\repos\FUNCTIONAL PROGRAMMING\FUNCTIONAL PROGRAMMING\bin\Debug\netcoreapp2.2\1. Sort Even Numbers.pdb
+C:\Users\Vera\source\repos\FUNCTIONAL PROGRAMMING\FUNCTIONAL PROGRAMMING\obj\Debug\netcoreapp2.2\1. Sort Even Numbers.csprojAssemblyReference.cache
+C:\Users\Vera\source\repos\FUNCTIONAL PROGRAMMING\FUNCTIONAL PROGRAMMING\obj\Debug\netcoreapp2.2\1. Sort Even Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Vera\source\repos\FUNCTIONAL PROGRAMMING\FUNCTIONAL PROGRAMMING\obj\Debug\netcoreapp2.2\1. Sort Even Numbers.AssemblyInfoInputs.cache
+C:\Users\Vera\source\repos\FUNCTIONAL PROGRAMMING\FUNCTIONAL PROGRAMMING\obj\Debug\netcoreapp2.2\1. Sort Even Numbers.AssemblyInfo.cs
+C:\Users\Vera\source\repos\FUNCTIONAL PROGRAMMING\FUNCTIONAL PROGRAMMING\obj\Debug\netcoreapp2.2\1. Sort Even Numbers.dll
+C:\Users\Vera\source\repos\FUNCTIONAL PROGRAMMING\FUNCTIONAL PROGRAMMING\obj\Debug\netcoreapp2.2\1. Sort Even Numbers.pdb
