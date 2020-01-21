@@ -1,0 +1,11 @@
+C:\Users\Vera\source\repos\ListExcercise\6. Cards Game\bin\Debug\netcoreapp2.2\6. Cards Game.deps.json
+C:\Users\Vera\source\repos\ListExcercise\6. Cards Game\bin\Debug\netcoreapp2.2\6. Cards Game.runtimeconfig.json
+C:\Users\Vera\source\repos\ListExcercise\6. Cards Game\bin\Debug\netcoreapp2.2\6. Cards Game.runtimeconfig.dev.json
+C:\Users\Vera\source\repos\ListExcercise\6. Cards Game\bin\Debug\netcoreapp2.2\6. Cards Game.dll
+C:\Users\Vera\source\repos\ListExcercise\6. Cards Game\bin\Debug\netcoreapp2.2\6. Cards Game.pdb
+C:\Users\Vera\source\repos\ListExcercise\6. Cards Game\obj\Debug\netcoreapp2.2\6. Cards Game.csprojAssemblyReference.cache
+C:\Users\Vera\source\repos\ListExcercise\6. Cards Game\obj\Debug\netcoreapp2.2\6. Cards Game.csproj.CoreCompileInputs.cache
+C:\Users\Vera\source\repos\ListExcercise\6. Cards Game\obj\Debug\netcoreapp2.2\6. Cards Game.AssemblyInfoInputs.cache
+C:\Users\Vera\source\repos\ListExcercise\6. Cards Game\obj\Debug\netcoreapp2.2\6. Cards Game.AssemblyInfo.cs
+C:\Users\Vera\source\repos\ListExcercise\6. Cards Game\obj\Debug\netcoreapp2.2\6. Cards Game.dll
+C:\Users\Vera\source\repos\ListExcercise\6. Cards Game\obj\Debug\netcoreapp2.2\6. Cards Game.pdb

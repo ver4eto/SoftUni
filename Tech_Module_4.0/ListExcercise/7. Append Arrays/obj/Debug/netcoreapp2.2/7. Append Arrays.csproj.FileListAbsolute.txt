@@ -1,0 +1,11 @@
+C:\Users\Vera\source\repos\ListExcercise\7. Append Arrays\bin\Debug\netcoreapp2.2\7. Append Arrays.deps.json
+C:\Users\Vera\source\repos\ListExcercise\7. Append Arrays\bin\Debug\netcoreapp2.2\7. Append Arrays.runtimeconfig.json
+C:\Users\Vera\source\repos\ListExcercise\7. Append Arrays\bin\Debug\netcoreapp2.2\7. Append Arrays.runtimeconfig.dev.json
+C:\Users\Vera\source\repos\ListExcercise\7. Append Arrays\bin\Debug\netcoreapp2.2\7. Append Arrays.dll
+C:\Users\Vera\source\repos\ListExcercise\7. Append Arrays\bin\Debug\netcoreapp2.2\7. Append Arrays.pdb
+C:\Users\Vera\source\repos\ListExcercise\7. Append Arrays\obj\Debug\netcoreapp2.2\7. Append Arrays.csprojAssemblyReference.cache
+C:\Users\Vera\source\repos\ListExcercise\7. Append Arrays\obj\Debug\netcoreapp2.2\7. Append Arrays.csproj.CoreCompileInputs.cache
+C:\Users\Vera\source\repos\ListExcercise\7. Append Arrays\obj\Debug\netcoreapp2.2\7. Append Arrays.AssemblyInfoInputs.cache
+C:\Users\Vera\source\repos\ListExcercise\7. Append Arrays\obj\Debug\netcoreapp2.2\7. Append Arrays.AssemblyInfo.cs
+C:\Users\Vera\source\repos\ListExcercise\7. Append Arrays\obj\Debug\netcoreapp2.2\7. Append Arrays.dll
+C:\Users\Vera\source\repos\ListExcercise\7. Append Arrays\obj\Debug\netcoreapp2.2\7. Append Arrays.pdb

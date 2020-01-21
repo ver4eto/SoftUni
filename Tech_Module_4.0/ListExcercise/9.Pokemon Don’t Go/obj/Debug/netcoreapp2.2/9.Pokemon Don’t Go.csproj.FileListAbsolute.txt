@@ -1,0 +1,11 @@
+C:\Users\Vera\source\repos\ListExcercise\9.Pokemon Don’t Go\bin\Debug\netcoreapp2.2\9.Pokemon Don’t Go.deps.json
+C:\Users\Vera\source\repos\ListExcercise\9.Pokemon Don’t Go\bin\Debug\netcoreapp2.2\9.Pokemon Don’t Go.runtimeconfig.json
+C:\Users\Vera\source\repos\ListExcercise\9.Pokemon Don’t Go\bin\Debug\netcoreapp2.2\9.Pokemon Don’t Go.runtimeconfig.dev.json
+C:\Users\Vera\source\repos\ListExcercise\9.Pokemon Don’t Go\bin\Debug\netcoreapp2.2\9.Pokemon Don’t Go.dll
+C:\Users\Vera\source\repos\ListExcercise\9.Pokemon Don’t Go\bin\Debug\netcoreapp2.2\9.Pokemon Don’t Go.pdb
+C:\Users\Vera\source\repos\ListExcercise\9.Pokemon Don’t Go\obj\Debug\netcoreapp2.2\9.Pokemon Don’t Go.csproj.CoreCompileInputs.cache
+C:\Users\Vera\source\repos\ListExcercise\9.Pokemon Don’t Go\obj\Debug\netcoreapp2.2\9.Pokemon Don’t Go.AssemblyInfoInputs.cache
+C:\Users\Vera\source\repos\ListExcercise\9.Pokemon Don’t Go\obj\Debug\netcoreapp2.2\9.Pokemon Don’t Go.AssemblyInfo.cs
+C:\Users\Vera\source\repos\ListExcercise\9.Pokemon Don’t Go\obj\Debug\netcoreapp2.2\9.Pokemon Don’t Go.dll
+C:\Users\Vera\source\repos\ListExcercise\9.Pokemon Don’t Go\obj\Debug\netcoreapp2.2\9.Pokemon Don’t Go.pdb
+C:\Users\Vera\source\repos\ListExcercise\9.Pokemon Don’t Go\obj\Debug\netcoreapp2.2\9.Pokemon Don’t Go.csprojAssemblyReference.cache

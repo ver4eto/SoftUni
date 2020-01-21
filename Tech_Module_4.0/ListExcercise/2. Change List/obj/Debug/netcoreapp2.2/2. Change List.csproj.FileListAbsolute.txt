@@ -1,0 +1,10 @@
+C:\Users\Vera\source\repos\ListExcercise\2. Change List\bin\Debug\netcoreapp2.2\2. Change List.deps.json
+C:\Users\Vera\source\repos\ListExcercise\2. Change List\bin\Debug\netcoreapp2.2\2. Change List.runtimeconfig.json
+C:\Users\Vera\source\repos\ListExcercise\2. Change List\bin\Debug\netcoreapp2.2\2. Change List.runtimeconfig.dev.json
+C:\Users\Vera\source\repos\ListExcercise\2. Change List\bin\Debug\netcoreapp2.2\2. Change List.dll
+C:\Users\Vera\source\repos\ListExcercise\2. Change List\bin\Debug\netcoreapp2.2\2. Change List.pdb
+C:\Users\Vera\source\repos\ListExcercise\2. Change List\obj\Debug\netcoreapp2.2\2. Change List.csproj.CoreCompileInputs.cache
+C:\Users\Vera\source\repos\ListExcercise\2. Change List\obj\Debug\netcoreapp2.2\2. Change List.AssemblyInfoInputs.cache
+C:\Users\Vera\source\repos\ListExcercise\2. Change List\obj\Debug\netcoreapp2.2\2. Change List.AssemblyInfo.cs
+C:\Users\Vera\source\repos\ListExcercise\2. Change List\obj\Debug\netcoreapp2.2\2. Change List.dll
+C:\Users\Vera\source\repos\ListExcercise\2. Change List\obj\Debug\netcoreapp2.2\2. Change List.pdb

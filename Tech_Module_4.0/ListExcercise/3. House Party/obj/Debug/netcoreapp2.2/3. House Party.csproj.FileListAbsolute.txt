@@ -1,0 +1,10 @@
+C:\Users\Vera\source\repos\ListExcercise\3. House Party\bin\Debug\netcoreapp2.2\3. House Party.deps.json
+C:\Users\Vera\source\repos\ListExcercise\3. House Party\bin\Debug\netcoreapp2.2\3. House Party.runtimeconfig.json
+C:\Users\Vera\source\repos\ListExcercise\3. House Party\bin\Debug\netcoreapp2.2\3. House Party.runtimeconfig.dev.json
+C:\Users\Vera\source\repos\ListExcercise\3. House Party\bin\Debug\netcoreapp2.2\3. House Party.dll
+C:\Users\Vera\source\repos\ListExcercise\3. House Party\bin\Debug\netcoreapp2.2\3. House Party.pdb
+C:\Users\Vera\source\repos\ListExcercise\3. House Party\obj\Debug\netcoreapp2.2\3. House Party.csproj.CoreCompileInputs.cache
+C:\Users\Vera\source\repos\ListExcercise\3. House Party\obj\Debug\netcoreapp2.2\3. House Party.AssemblyInfoInputs.cache
+C:\Users\Vera\source\repos\ListExcercise\3. House Party\obj\Debug\netcoreapp2.2\3. House Party.AssemblyInfo.cs
+C:\Users\Vera\source\repos\ListExcercise\3. House Party\obj\Debug\netcoreapp2.2\3. House Party.dll
+C:\Users\Vera\source\repos\ListExcercise\3. House Party\obj\Debug\netcoreapp2.2\3. House Party.pdb

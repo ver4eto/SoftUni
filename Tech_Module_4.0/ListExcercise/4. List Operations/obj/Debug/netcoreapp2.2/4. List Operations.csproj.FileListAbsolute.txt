@@ -1,0 +1,11 @@
+C:\Users\Vera\source\repos\ListExcercise\4. List Operations\bin\Debug\netcoreapp2.2\4. List Operations.deps.json
+C:\Users\Vera\source\repos\ListExcercise\4. List Operations\bin\Debug\netcoreapp2.2\4. List Operations.runtimeconfig.json
+C:\Users\Vera\source\repos\ListExcercise\4. List Operations\bin\Debug\netcoreapp2.2\4. List Operations.runtimeconfig.dev.json
+C:\Users\Vera\source\repos\ListExcercise\4. List Operations\bin\Debug\netcoreapp2.2\4. List Operations.dll
+C:\Users\Vera\source\repos\ListExcercise\4. List Operations\bin\Debug\netcoreapp2.2\4. List Operations.pdb
+C:\Users\Vera\source\repos\ListExcercise\4. List Operations\obj\Debug\netcoreapp2.2\4. List Operations.csprojAssemblyReference.cache
+C:\Users\Vera\source\repos\ListExcercise\4. List Operations\obj\Debug\netcoreapp2.2\4. List Operations.csproj.CoreCompileInputs.cache
+C:\Users\Vera\source\repos\ListExcercise\4. List Operations\obj\Debug\netcoreapp2.2\4. List Operations.AssemblyInfoInputs.cache
+C:\Users\Vera\source\repos\ListExcercise\4. List Operations\obj\Debug\netcoreapp2.2\4. List Operations.AssemblyInfo.cs
+C:\Users\Vera\source\repos\ListExcercise\4. List Operations\obj\Debug\netcoreapp2.2\4. List Operations.dll
+C:\Users\Vera\source\repos\ListExcercise\4. List Operations\obj\Debug\netcoreapp2.2\4. List Operations.pdb
