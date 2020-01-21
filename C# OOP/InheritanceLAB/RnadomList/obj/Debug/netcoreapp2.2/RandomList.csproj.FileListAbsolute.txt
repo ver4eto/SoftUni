@@ -1,0 +1,11 @@
+C:\Users\Vera\source\repos\InheritanceLAB\RnadomList\obj\Debug\netcoreapp2.2\RandomList.csprojAssemblyReference.cache
+C:\Users\Vera\source\repos\InheritanceLAB\RnadomList\obj\Debug\netcoreapp2.2\RandomList.csproj.CoreCompileInputs.cache
+C:\Users\Vera\source\repos\InheritanceLAB\RnadomList\obj\Debug\netcoreapp2.2\RandomList.AssemblyInfoInputs.cache
+C:\Users\Vera\source\repos\InheritanceLAB\RnadomList\obj\Debug\netcoreapp2.2\RandomList.AssemblyInfo.cs
+C:\Users\Vera\source\repos\InheritanceLAB\RnadomList\bin\Debug\netcoreapp2.2\RandomList.deps.json
+C:\Users\Vera\source\repos\InheritanceLAB\RnadomList\bin\Debug\netcoreapp2.2\RandomList.runtimeconfig.json
+C:\Users\Vera\source\repos\InheritanceLAB\RnadomList\bin\Debug\netcoreapp2.2\RandomList.runtimeconfig.dev.json
+C:\Users\Vera\source\repos\InheritanceLAB\RnadomList\bin\Debug\netcoreapp2.2\RandomList.dll
+C:\Users\Vera\source\repos\InheritanceLAB\RnadomList\bin\Debug\netcoreapp2.2\RandomList.pdb
+C:\Users\Vera\source\repos\InheritanceLAB\RnadomList\obj\Debug\netcoreapp2.2\RandomList.dll
+C:\Users\Vera\source\repos\InheritanceLAB\RnadomList\obj\Debug\netcoreapp2.2\RandomList.pdb

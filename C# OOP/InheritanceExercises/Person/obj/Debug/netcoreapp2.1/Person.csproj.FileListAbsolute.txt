@@ -1,0 +1,11 @@
+C:\Users\Vera\Desktop\C#LABS\C#OOP\02INHERITANCE\Person\bin\Debug\netcoreapp2.1\Person.deps.json
+C:\Users\Vera\Desktop\C#LABS\C#OOP\02INHERITANCE\Person\bin\Debug\netcoreapp2.1\Person.runtimeconfig.json
+C:\Users\Vera\Desktop\C#LABS\C#OOP\02INHERITANCE\Person\bin\Debug\netcoreapp2.1\Person.runtimeconfig.dev.json
+C:\Users\Vera\Desktop\C#LABS\C#OOP\02INHERITANCE\Person\bin\Debug\netcoreapp2.1\Person.dll
+C:\Users\Vera\Desktop\C#LABS\C#OOP\02INHERITANCE\Person\bin\Debug\netcoreapp2.1\Person.pdb
+C:\Users\Vera\Desktop\C#LABS\C#OOP\02INHERITANCE\Person\obj\Debug\netcoreapp2.1\Person.csprojAssemblyReference.cache
+C:\Users\Vera\Desktop\C#LABS\C#OOP\02INHERITANCE\Person\obj\Debug\netcoreapp2.1\Person.csproj.CoreCompileInputs.cache
+C:\Users\Vera\Desktop\C#LABS\C#OOP\02INHERITANCE\Person\obj\Debug\netcoreapp2.1\Person.AssemblyInfoInputs.cache
+C:\Users\Vera\Desktop\C#LABS\C#OOP\02INHERITANCE\Person\obj\Debug\netcoreapp2.1\Person.AssemblyInfo.cs
+C:\Users\Vera\Desktop\C#LABS\C#OOP\02INHERITANCE\Person\obj\Debug\netcoreapp2.1\Person.dll
+C:\Users\Vera\Desktop\C#LABS\C#OOP\02INHERITANCE\Person\obj\Debug\netcoreapp2.1\Person.pdb

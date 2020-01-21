@@ -1,0 +1,11 @@
+C:\Users\Vera\Desktop\C#LABS\C#OOP\02INHERITANCE\Restaurant\bin\Debug\netcoreapp2.1\Restaurant.deps.json
+C:\Users\Vera\Desktop\C#LABS\C#OOP\02INHERITANCE\Restaurant\bin\Debug\netcoreapp2.1\Restaurant.runtimeconfig.json
+C:\Users\Vera\Desktop\C#LABS\C#OOP\02INHERITANCE\Restaurant\bin\Debug\netcoreapp2.1\Restaurant.runtimeconfig.dev.json
+C:\Users\Vera\Desktop\C#LABS\C#OOP\02INHERITANCE\Restaurant\bin\Debug\netcoreapp2.1\Restaurant.dll
+C:\Users\Vera\Desktop\C#LABS\C#OOP\02INHERITANCE\Restaurant\bin\Debug\netcoreapp2.1\Restaurant.pdb
+C:\Users\Vera\Desktop\C#LABS\C#OOP\02INHERITANCE\Restaurant\obj\Debug\netcoreapp2.1\Restaurant.csprojAssemblyReference.cache
+C:\Users\Vera\Desktop\C#LABS\C#OOP\02INHERITANCE\Restaurant\obj\Debug\netcoreapp2.1\Restaurant.csproj.CoreCompileInputs.cache
+C:\Users\Vera\Desktop\C#LABS\C#OOP\02INHERITANCE\Restaurant\obj\Debug\netcoreapp2.1\Restaurant.AssemblyInfoInputs.cache
+C:\Users\Vera\Desktop\C#LABS\C#OOP\02INHERITANCE\Restaurant\obj\Debug\netcoreapp2.1\Restaurant.AssemblyInfo.cs
+C:\Users\Vera\Desktop\C#LABS\C#OOP\02INHERITANCE\Restaurant\obj\Debug\netcoreapp2.1\Restaurant.dll
+C:\Users\Vera\Desktop\C#LABS\C#OOP\02INHERITANCE\Restaurant\obj\Debug\netcoreapp2.1\Restaurant.pdb

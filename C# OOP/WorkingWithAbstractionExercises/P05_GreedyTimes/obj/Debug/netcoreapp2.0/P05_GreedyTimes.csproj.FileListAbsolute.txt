@@ -1,0 +1,11 @@
+C:\Users\Vera\Desktop\C#LABS\C#OOP\01WORKING WITH ABSTRACTION\P05_GreedyTimes\bin\Debug\netcoreapp2.0\P05_GreedyTimes.deps.json
+C:\Users\Vera\Desktop\C#LABS\C#OOP\01WORKING WITH ABSTRACTION\P05_GreedyTimes\bin\Debug\netcoreapp2.0\P05_GreedyTimes.runtimeconfig.json
+C:\Users\Vera\Desktop\C#LABS\C#OOP\01WORKING WITH ABSTRACTION\P05_GreedyTimes\bin\Debug\netcoreapp2.0\P05_GreedyTimes.runtimeconfig.dev.json
+C:\Users\Vera\Desktop\C#LABS\C#OOP\01WORKING WITH ABSTRACTION\P05_GreedyTimes\bin\Debug\netcoreapp2.0\P05_GreedyTimes.dll
+C:\Users\Vera\Desktop\C#LABS\C#OOP\01WORKING WITH ABSTRACTION\P05_GreedyTimes\bin\Debug\netcoreapp2.0\P05_GreedyTimes.pdb
+C:\Users\Vera\Desktop\C#LABS\C#OOP\01WORKING WITH ABSTRACTION\P05_GreedyTimes\obj\Debug\netcoreapp2.0\P05_GreedyTimes.csprojAssemblyReference.cache
+C:\Users\Vera\Desktop\C#LABS\C#OOP\01WORKING WITH ABSTRACTION\P05_GreedyTimes\obj\Debug\netcoreapp2.0\P05_GreedyTimes.csproj.CoreCompileInputs.cache
+C:\Users\Vera\Desktop\C#LABS\C#OOP\01WORKING WITH ABSTRACTION\P05_GreedyTimes\obj\Debug\netcoreapp2.0\P05_GreedyTimes.AssemblyInfoInputs.cache
+C:\Users\Vera\Desktop\C#LABS\C#OOP\01WORKING WITH ABSTRACTION\P05_GreedyTimes\obj\Debug\netcoreapp2.0\P05_GreedyTimes.AssemblyInfo.cs
+C:\Users\Vera\Desktop\C#LABS\C#OOP\01WORKING WITH ABSTRACTION\P05_GreedyTimes\obj\Debug\netcoreapp2.0\P05_GreedyTimes.dll
+C:\Users\Vera\Desktop\C#LABS\C#OOP\01WORKING WITH ABSTRACTION\P05_GreedyTimes\obj\Debug\netcoreapp2.0\P05_GreedyTimes.pdb

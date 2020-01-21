@@ -1,0 +1,11 @@
+C:\Users\Vera\source\repos\InheritanceLAB\InheritanceLAB\bin\Debug\netcoreapp2.1\Farm.deps.json
+C:\Users\Vera\source\repos\InheritanceLAB\InheritanceLAB\bin\Debug\netcoreapp2.1\Farm.runtimeconfig.json
+C:\Users\Vera\source\repos\InheritanceLAB\InheritanceLAB\bin\Debug\netcoreapp2.1\Farm.runtimeconfig.dev.json
+C:\Users\Vera\source\repos\InheritanceLAB\InheritanceLAB\bin\Debug\netcoreapp2.1\Farm.dll
+C:\Users\Vera\source\repos\InheritanceLAB\InheritanceLAB\bin\Debug\netcoreapp2.1\Farm.pdb
+C:\Users\Vera\source\repos\InheritanceLAB\InheritanceLAB\obj\Debug\netcoreapp2.1\Farm.csprojAssemblyReference.cache
+C:\Users\Vera\source\repos\InheritanceLAB\InheritanceLAB\obj\Debug\netcoreapp2.1\Farm.csproj.CoreCompileInputs.cache
+C:\Users\Vera\source\repos\InheritanceLAB\InheritanceLAB\obj\Debug\netcoreapp2.1\Farm.AssemblyInfoInputs.cache
+C:\Users\Vera\source\repos\InheritanceLAB\InheritanceLAB\obj\Debug\netcoreapp2.1\Farm.AssemblyInfo.cs
+C:\Users\Vera\source\repos\InheritanceLAB\InheritanceLAB\obj\Debug\netcoreapp2.1\Farm.dll
+C:\Users\Vera\source\repos\InheritanceLAB\InheritanceLAB\obj\Debug\netcoreapp2.1\Farm.pdb

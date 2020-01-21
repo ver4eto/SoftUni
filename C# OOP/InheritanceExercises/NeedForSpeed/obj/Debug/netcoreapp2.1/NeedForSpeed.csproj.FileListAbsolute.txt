@@ -1,0 +1,11 @@
+C:\Users\Vera\Desktop\C#LABS\C#OOP\02INHERITANCE\NeedForSpeed\bin\Debug\netcoreapp2.1\NeedForSpeed.deps.json
+C:\Users\Vera\Desktop\C#LABS\C#OOP\02INHERITANCE\NeedForSpeed\bin\Debug\netcoreapp2.1\NeedForSpeed.runtimeconfig.json
+C:\Users\Vera\Desktop\C#LABS\C#OOP\02INHERITANCE\NeedForSpeed\bin\Debug\netcoreapp2.1\NeedForSpeed.runtimeconfig.dev.json
+C:\Users\Vera\Desktop\C#LABS\C#OOP\02INHERITANCE\NeedForSpeed\bin\Debug\netcoreapp2.1\NeedForSpeed.dll
+C:\Users\Vera\Desktop\C#LABS\C#OOP\02INHERITANCE\NeedForSpeed\bin\Debug\netcoreapp2.1\NeedForSpeed.pdb
+C:\Users\Vera\Desktop\C#LABS\C#OOP\02INHERITANCE\NeedForSpeed\obj\Debug\netcoreapp2.1\NeedForSpeed.csprojAssemblyReference.cache
+C:\Users\Vera\Desktop\C#LABS\C#OOP\02INHERITANCE\NeedForSpeed\obj\Debug\netcoreapp2.1\NeedForSpeed.csproj.CoreCompileInputs.cache
+C:\Users\Vera\Desktop\C#LABS\C#OOP\02INHERITANCE\NeedForSpeed\obj\Debug\netcoreapp2.1\NeedForSpeed.AssemblyInfoInputs.cache
+C:\Users\Vera\Desktop\C#LABS\C#OOP\02INHERITANCE\NeedForSpeed\obj\Debug\netcoreapp2.1\NeedForSpeed.AssemblyInfo.cs
+C:\Users\Vera\Desktop\C#LABS\C#OOP\02INHERITANCE\NeedForSpeed\obj\Debug\netcoreapp2.1\NeedForSpeed.dll
+C:\Users\Vera\Desktop\C#LABS\C#OOP\02INHERITANCE\NeedForSpeed\obj\Debug\netcoreapp2.1\NeedForSpeed.pdb

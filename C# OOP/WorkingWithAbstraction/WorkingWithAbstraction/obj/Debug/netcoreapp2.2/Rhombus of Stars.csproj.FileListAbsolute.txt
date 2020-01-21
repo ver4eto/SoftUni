@@ -1,0 +1,11 @@
+C:\Users\Vera\source\repos\WorkingWithAbstraction\WorkingWithAbstraction\bin\Debug\netcoreapp2.2\Rhombus of Stars.deps.json
+C:\Users\Vera\source\repos\WorkingWithAbstraction\WorkingWithAbstraction\bin\Debug\netcoreapp2.2\Rhombus of Stars.runtimeconfig.json
+C:\Users\Vera\source\repos\WorkingWithAbstraction\WorkingWithAbstraction\bin\Debug\netcoreapp2.2\Rhombus of Stars.runtimeconfig.dev.json
+C:\Users\Vera\source\repos\WorkingWithAbstraction\WorkingWithAbstraction\bin\Debug\netcoreapp2.2\Rhombus of Stars.dll
+C:\Users\Vera\source\repos\WorkingWithAbstraction\WorkingWithAbstraction\bin\Debug\netcoreapp2.2\Rhombus of Stars.pdb
+C:\Users\Vera\source\repos\WorkingWithAbstraction\WorkingWithAbstraction\obj\Debug\netcoreapp2.2\Rhombus of Stars.csprojAssemblyReference.cache
+C:\Users\Vera\source\repos\WorkingWithAbstraction\WorkingWithAbstraction\obj\Debug\netcoreapp2.2\Rhombus of Stars.csproj.CoreCompileInputs.cache
+C:\Users\Vera\source\repos\WorkingWithAbstraction\WorkingWithAbstraction\obj\Debug\netcoreapp2.2\Rhombus of Stars.AssemblyInfoInputs.cache
+C:\Users\Vera\source\repos\WorkingWithAbstraction\WorkingWithAbstraction\obj\Debug\netcoreapp2.2\Rhombus of Stars.AssemblyInfo.cs
+C:\Users\Vera\source\repos\WorkingWithAbstraction\WorkingWithAbstraction\obj\Debug\netcoreapp2.2\Rhombus of Stars.dll
+C:\Users\Vera\source\repos\WorkingWithAbstraction\WorkingWithAbstraction\obj\Debug\netcoreapp2.2\Rhombus of Stars.pdb

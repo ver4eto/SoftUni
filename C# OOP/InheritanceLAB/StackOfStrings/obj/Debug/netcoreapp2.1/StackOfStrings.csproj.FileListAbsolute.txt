@@ -1,0 +1,11 @@
+C:\Users\Vera\source\repos\InheritanceLAB\StackOfStrings\bin\Debug\netcoreapp2.1\StackOfStrings.deps.json
+C:\Users\Vera\source\repos\InheritanceLAB\StackOfStrings\bin\Debug\netcoreapp2.1\StackOfStrings.runtimeconfig.json
+C:\Users\Vera\source\repos\InheritanceLAB\StackOfStrings\bin\Debug\netcoreapp2.1\StackOfStrings.runtimeconfig.dev.json
+C:\Users\Vera\source\repos\InheritanceLAB\StackOfStrings\bin\Debug\netcoreapp2.1\StackOfStrings.dll
+C:\Users\Vera\source\repos\InheritanceLAB\StackOfStrings\bin\Debug\netcoreapp2.1\StackOfStrings.pdb
+C:\Users\Vera\source\repos\InheritanceLAB\StackOfStrings\obj\Debug\netcoreapp2.1\StackOfStrings.csproj.CoreCompileInputs.cache
+C:\Users\Vera\source\repos\InheritanceLAB\StackOfStrings\obj\Debug\netcoreapp2.1\StackOfStrings.AssemblyInfoInputs.cache
+C:\Users\Vera\source\repos\InheritanceLAB\StackOfStrings\obj\Debug\netcoreapp2.1\StackOfStrings.AssemblyInfo.cs
+C:\Users\Vera\source\repos\InheritanceLAB\StackOfStrings\obj\Debug\netcoreapp2.1\StackOfStrings.dll
+C:\Users\Vera\source\repos\InheritanceLAB\StackOfStrings\obj\Debug\netcoreapp2.1\StackOfStrings.pdb
+C:\Users\Vera\source\repos\InheritanceLAB\StackOfStrings\obj\Debug\netcoreapp2.1\StackOfStrings.csprojAssemblyReference.cache

@@ -1,0 +1,11 @@
+C:\Users\Vera\Desktop\C#LABS\C#OOP\02INHERITANCE\Zoo\bin\Debug\netcoreapp2.1\Zoo.deps.json
+C:\Users\Vera\Desktop\C#LABS\C#OOP\02INHERITANCE\Zoo\bin\Debug\netcoreapp2.1\Zoo.runtimeconfig.json
+C:\Users\Vera\Desktop\C#LABS\C#OOP\02INHERITANCE\Zoo\bin\Debug\netcoreapp2.1\Zoo.runtimeconfig.dev.json
+C:\Users\Vera\Desktop\C#LABS\C#OOP\02INHERITANCE\Zoo\bin\Debug\netcoreapp2.1\Zoo.dll
+C:\Users\Vera\Desktop\C#LABS\C#OOP\02INHERITANCE\Zoo\bin\Debug\netcoreapp2.1\Zoo.pdb
+C:\Users\Vera\Desktop\C#LABS\C#OOP\02INHERITANCE\Zoo\obj\Debug\netcoreapp2.1\Zoo.csprojAssemblyReference.cache
+C:\Users\Vera\Desktop\C#LABS\C#OOP\02INHERITANCE\Zoo\obj\Debug\netcoreapp2.1\Zoo.csproj.CoreCompileInputs.cache
+C:\Users\Vera\Desktop\C#LABS\C#OOP\02INHERITANCE\Zoo\obj\Debug\netcoreapp2.1\Zoo.AssemblyInfoInputs.cache
+C:\Users\Vera\Desktop\C#LABS\C#OOP\02INHERITANCE\Zoo\obj\Debug\netcoreapp2.1\Zoo.AssemblyInfo.cs
+C:\Users\Vera\Desktop\C#LABS\C#OOP\02INHERITANCE\Zoo\obj\Debug\netcoreapp2.1\Zoo.dll
+C:\Users\Vera\Desktop\C#LABS\C#OOP\02INHERITANCE\Zoo\obj\Debug\netcoreapp2.1\Zoo.pdb
