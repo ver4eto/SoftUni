@@ -1,0 +1,11 @@
+C:\Users\Vera\source\repos\Club Party\Radioactive Mutant Vampire Bunnies\bin\Debug\netcoreapp2.2\Radioactive Mutant Vampire Bunnies.deps.json
+C:\Users\Vera\source\repos\Club Party\Radioactive Mutant Vampire Bunnies\bin\Debug\netcoreapp2.2\Radioactive Mutant Vampire Bunnies.runtimeconfig.json
+C:\Users\Vera\source\repos\Club Party\Radioactive Mutant Vampire Bunnies\bin\Debug\netcoreapp2.2\Radioactive Mutant Vampire Bunnies.runtimeconfig.dev.json
+C:\Users\Vera\source\repos\Club Party\Radioactive Mutant Vampire Bunnies\bin\Debug\netcoreapp2.2\Radioactive Mutant Vampire Bunnies.dll
+C:\Users\Vera\source\repos\Club Party\Radioactive Mutant Vampire Bunnies\bin\Debug\netcoreapp2.2\Radioactive Mutant Vampire Bunnies.pdb
+C:\Users\Vera\source\repos\Club Party\Radioactive Mutant Vampire Bunnies\obj\Debug\netcoreapp2.2\Radioactive Mutant Vampire Bunnies.csproj.CoreCompileInputs.cache
+C:\Users\Vera\source\repos\Club Party\Radioactive Mutant Vampire Bunnies\obj\Debug\netcoreapp2.2\Radioactive Mutant Vampire Bunnies.AssemblyInfoInputs.cache
+C:\Users\Vera\source\repos\Club Party\Radioactive Mutant Vampire Bunnies\obj\Debug\netcoreapp2.2\Radioactive Mutant Vampire Bunnies.AssemblyInfo.cs
+C:\Users\Vera\source\repos\Club Party\Radioactive Mutant Vampire Bunnies\obj\Debug\netcoreapp2.2\Radioactive Mutant Vampire Bunnies.dll
+C:\Users\Vera\source\repos\Club Party\Radioactive Mutant Vampire Bunnies\obj\Debug\netcoreapp2.2\Radioactive Mutant Vampire Bunnies.pdb
+C:\Users\Vera\source\repos\Club Party\Radioactive Mutant Vampire Bunnies\obj\Debug\netcoreapp2.2\Radioactive Mutant Vampire Bunnies.csprojAssemblyReference.cache

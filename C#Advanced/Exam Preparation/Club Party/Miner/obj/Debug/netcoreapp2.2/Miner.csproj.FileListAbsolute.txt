@@ -1,0 +1,11 @@
+C:\Users\Vera\source\repos\Club Party\Miner\bin\Debug\netcoreapp2.2\Miner.deps.json
+C:\Users\Vera\source\repos\Club Party\Miner\bin\Debug\netcoreapp2.2\Miner.runtimeconfig.json
+C:\Users\Vera\source\repos\Club Party\Miner\bin\Debug\netcoreapp2.2\Miner.runtimeconfig.dev.json
+C:\Users\Vera\source\repos\Club Party\Miner\bin\Debug\netcoreapp2.2\Miner.dll
+C:\Users\Vera\source\repos\Club Party\Miner\bin\Debug\netcoreapp2.2\Miner.pdb
+C:\Users\Vera\source\repos\Club Party\Miner\obj\Debug\netcoreapp2.2\Miner.csproj.CoreCompileInputs.cache
+C:\Users\Vera\source\repos\Club Party\Miner\obj\Debug\netcoreapp2.2\Miner.AssemblyInfoInputs.cache
+C:\Users\Vera\source\repos\Club Party\Miner\obj\Debug\netcoreapp2.2\Miner.AssemblyInfo.cs
+C:\Users\Vera\source\repos\Club Party\Miner\obj\Debug\netcoreapp2.2\Miner.dll
+C:\Users\Vera\source\repos\Club Party\Miner\obj\Debug\netcoreapp2.2\Miner.pdb
+C:\Users\Vera\source\repos\Club Party\Miner\obj\Debug\netcoreapp2.2\Miner.csprojAssemblyReference.cache

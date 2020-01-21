@@ -1,0 +1,11 @@
+C:\Users\Vera\source\repos\Retake16042019\Helen's Abduction\bin\Debug\netcoreapp2.2\Helen's Abduction.deps.json
+C:\Users\Vera\source\repos\Retake16042019\Helen's Abduction\bin\Debug\netcoreapp2.2\Helen's Abduction.runtimeconfig.json
+C:\Users\Vera\source\repos\Retake16042019\Helen's Abduction\bin\Debug\netcoreapp2.2\Helen's Abduction.runtimeconfig.dev.json
+C:\Users\Vera\source\repos\Retake16042019\Helen's Abduction\bin\Debug\netcoreapp2.2\Helen's Abduction.dll
+C:\Users\Vera\source\repos\Retake16042019\Helen's Abduction\bin\Debug\netcoreapp2.2\Helen's Abduction.pdb
+C:\Users\Vera\source\repos\Retake16042019\Helen's Abduction\obj\Debug\netcoreapp2.2\Helen's Abduction.csproj.CoreCompileInputs.cache
+C:\Users\Vera\source\repos\Retake16042019\Helen's Abduction\obj\Debug\netcoreapp2.2\Helen's Abduction.AssemblyInfoInputs.cache
+C:\Users\Vera\source\repos\Retake16042019\Helen's Abduction\obj\Debug\netcoreapp2.2\Helen's Abduction.AssemblyInfo.cs
+C:\Users\Vera\source\repos\Retake16042019\Helen's Abduction\obj\Debug\netcoreapp2.2\Helen's Abduction.dll
+C:\Users\Vera\source\repos\Retake16042019\Helen's Abduction\obj\Debug\netcoreapp2.2\Helen's Abduction.pdb
+C:\Users\Vera\source\repos\Retake16042019\Helen's Abduction\obj\Debug\netcoreapp2.2\Helen's Abduction.csprojAssemblyReference.cache

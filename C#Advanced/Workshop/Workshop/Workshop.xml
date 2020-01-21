@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Workshop</name>
+    </assembly>
+    <members>
+        <member name="T:Workshop.CustomList">
+            <summary>
+            Integer List
+            </summary>
+        </member>
+        <member name="F:Workshop.CustomList.defaultSize">
+            <summary>
+            Default size of internal array
+            </summary>
+        </member>
+        <member name="F:Workshop.CustomList.innerArr">
+            <summary>
+            Internal array
+            </summary>
+        </member>
+        <member name="P:Workshop.CustomList.Count">
+            <summary>
+            Number of elements in the list
+            </summary>
+        </member>
+        <member name="M:Workshop.CustomList.#ctor">
+            <summary>
+            Create custom integer list with default size
+            </summary>
+        </member>
+        <member name="M:Workshop.CustomList.#ctor(System.Int32)">
+            <summary>
+            Create custom integer list with default size
+            </summary>
+            <param name="initialSize">Initial size</param>
+        </member>
+        <member name="M:Workshop.CustomList.RemoveAt(System.Int32)">
+            <summary>
+            Removes element at position
+            </summary>
+            <param name="index">position</param>
+            <exception cref="T:System.IndexOutOfRangeException">
+            The position is out of range</exception>
+        </member>
+    </members>
+</doc>

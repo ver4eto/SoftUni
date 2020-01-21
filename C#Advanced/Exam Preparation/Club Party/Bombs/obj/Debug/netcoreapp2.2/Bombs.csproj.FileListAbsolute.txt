@@ -1,0 +1,11 @@
+C:\Users\Vera\source\repos\Club Party\Bombs\bin\Debug\netcoreapp2.2\Bombs.deps.json
+C:\Users\Vera\source\repos\Club Party\Bombs\bin\Debug\netcoreapp2.2\Bombs.runtimeconfig.json
+C:\Users\Vera\source\repos\Club Party\Bombs\bin\Debug\netcoreapp2.2\Bombs.runtimeconfig.dev.json
+C:\Users\Vera\source\repos\Club Party\Bombs\bin\Debug\netcoreapp2.2\Bombs.dll
+C:\Users\Vera\source\repos\Club Party\Bombs\bin\Debug\netcoreapp2.2\Bombs.pdb
+C:\Users\Vera\source\repos\Club Party\Bombs\obj\Debug\netcoreapp2.2\Bombs.csproj.CoreCompileInputs.cache
+C:\Users\Vera\source\repos\Club Party\Bombs\obj\Debug\netcoreapp2.2\Bombs.AssemblyInfoInputs.cache
+C:\Users\Vera\source\repos\Club Party\Bombs\obj\Debug\netcoreapp2.2\Bombs.AssemblyInfo.cs
+C:\Users\Vera\source\repos\Club Party\Bombs\obj\Debug\netcoreapp2.2\Bombs.dll
+C:\Users\Vera\source\repos\Club Party\Bombs\obj\Debug\netcoreapp2.2\Bombs.pdb
+C:\Users\Vera\source\repos\Club Party\Bombs\obj\Debug\netcoreapp2.2\Bombs.csprojAssemblyReference.cache

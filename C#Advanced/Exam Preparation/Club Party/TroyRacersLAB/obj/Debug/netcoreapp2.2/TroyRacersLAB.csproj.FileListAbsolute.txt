@@ -1,0 +1,11 @@
+C:\Users\Vera\source\repos\Club Party\TroyRacersLAB\bin\Debug\netcoreapp2.2\TroyRacersLAB.deps.json
+C:\Users\Vera\source\repos\Club Party\TroyRacersLAB\bin\Debug\netcoreapp2.2\TroyRacersLAB.runtimeconfig.json
+C:\Users\Vera\source\repos\Club Party\TroyRacersLAB\bin\Debug\netcoreapp2.2\TroyRacersLAB.runtimeconfig.dev.json
+C:\Users\Vera\source\repos\Club Party\TroyRacersLAB\bin\Debug\netcoreapp2.2\TroyRacersLAB.dll
+C:\Users\Vera\source\repos\Club Party\TroyRacersLAB\bin\Debug\netcoreapp2.2\TroyRacersLAB.pdb
+C:\Users\Vera\source\repos\Club Party\TroyRacersLAB\obj\Debug\netcoreapp2.2\TroyRacersLAB.csprojAssemblyReference.cache
+C:\Users\Vera\source\repos\Club Party\TroyRacersLAB\obj\Debug\netcoreapp2.2\TroyRacersLAB.csproj.CoreCompileInputs.cache
+C:\Users\Vera\source\repos\Club Party\TroyRacersLAB\obj\Debug\netcoreapp2.2\TroyRacersLAB.AssemblyInfoInputs.cache
+C:\Users\Vera\source\repos\Club Party\TroyRacersLAB\obj\Debug\netcoreapp2.2\TroyRacersLAB.AssemblyInfo.cs
+C:\Users\Vera\source\repos\Club Party\TroyRacersLAB\obj\Debug\netcoreapp2.2\TroyRacersLAB.dll
+C:\Users\Vera\source\repos\Club Party\TroyRacersLAB\obj\Debug\netcoreapp2.2\TroyRacersLAB.pdb

@@ -1,0 +1,12 @@
+C:\Users\Vera\source\repos\Workshop\Workshop\bin\Debug\netcoreapp2.2\Workshop.deps.json
+C:\Users\Vera\source\repos\Workshop\Workshop\bin\Debug\netcoreapp2.2\Workshop.runtimeconfig.json
+C:\Users\Vera\source\repos\Workshop\Workshop\bin\Debug\netcoreapp2.2\Workshop.runtimeconfig.dev.json
+C:\Users\Vera\source\repos\Workshop\Workshop\bin\Debug\netcoreapp2.2\Workshop.dll
+C:\Users\Vera\source\repos\Workshop\Workshop\bin\Debug\netcoreapp2.2\Workshop.pdb
+C:\Users\Vera\source\repos\Workshop\Workshop\obj\Debug\netcoreapp2.2\Workshop.csprojAssemblyReference.cache
+C:\Users\Vera\source\repos\Workshop\Workshop\obj\Debug\netcoreapp2.2\Workshop.csproj.CoreCompileInputs.cache
+C:\Users\Vera\source\repos\Workshop\Workshop\obj\Debug\netcoreapp2.2\Workshop.AssemblyInfoInputs.cache
+C:\Users\Vera\source\repos\Workshop\Workshop\obj\Debug\netcoreapp2.2\Workshop.AssemblyInfo.cs
+C:\Users\Vera\source\repos\Workshop\Workshop\obj\Debug\netcoreapp2.2\Workshop.dll
+C:\Users\Vera\source\repos\Workshop\Workshop\obj\Debug\netcoreapp2.2\Workshop.pdb
+C:\Users\Vera\source\repos\Workshop\Workshop\bin\Debug\netcoreapp2.2\Workshop.xml
