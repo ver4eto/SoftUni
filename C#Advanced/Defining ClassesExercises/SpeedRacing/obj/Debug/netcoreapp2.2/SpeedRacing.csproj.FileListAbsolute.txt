@@ -1,0 +1,11 @@
+C:\Users\Vera\source\repos\Defining ClassesExercises\SpeedRacing\bin\Debug\netcoreapp2.2\SpeedRacing.deps.json
+C:\Users\Vera\source\repos\Defining ClassesExercises\SpeedRacing\bin\Debug\netcoreapp2.2\SpeedRacing.runtimeconfig.json
+C:\Users\Vera\source\repos\Defining ClassesExercises\SpeedRacing\bin\Debug\netcoreapp2.2\SpeedRacing.runtimeconfig.dev.json
+C:\Users\Vera\source\repos\Defining ClassesExercises\SpeedRacing\bin\Debug\netcoreapp2.2\SpeedRacing.dll
+C:\Users\Vera\source\repos\Defining ClassesExercises\SpeedRacing\bin\Debug\netcoreapp2.2\SpeedRacing.pdb
+C:\Users\Vera\source\repos\Defining ClassesExercises\SpeedRacing\obj\Debug\netcoreapp2.2\SpeedRacing.csprojAssemblyReference.cache
+C:\Users\Vera\source\repos\Defining ClassesExercises\SpeedRacing\obj\Debug\netcoreapp2.2\SpeedRacing.csproj.CoreCompileInputs.cache
+C:\Users\Vera\source\repos\Defining ClassesExercises\SpeedRacing\obj\Debug\netcoreapp2.2\SpeedRacing.AssemblyInfoInputs.cache
+C:\Users\Vera\source\repos\Defining ClassesExercises\SpeedRacing\obj\Debug\netcoreapp2.2\SpeedRacing.AssemblyInfo.cs
+C:\Users\Vera\source\repos\Defining ClassesExercises\SpeedRacing\obj\Debug\netcoreapp2.2\SpeedRacing.dll
+C:\Users\Vera\source\repos\Defining ClassesExercises\SpeedRacing\obj\Debug\netcoreapp2.2\SpeedRacing.pdb

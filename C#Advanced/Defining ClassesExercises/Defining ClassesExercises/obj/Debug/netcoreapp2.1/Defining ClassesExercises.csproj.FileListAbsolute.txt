@@ -1,0 +1,4 @@
+C:\Users\Vera\source\repos\Defining ClassesExercises\Defining ClassesExercises\obj\Debug\netcoreapp2.1\Defining ClassesExercises.csprojAssemblyReference.cache
+C:\Users\Vera\source\repos\Defining ClassesExercises\Defining ClassesExercises\obj\Debug\netcoreapp2.1\Defining ClassesExercises.csproj.CoreCompileInputs.cache
+C:\Users\Vera\source\repos\Defining ClassesExercises\Defining ClassesExercises\obj\Debug\netcoreapp2.1\Defining ClassesExercises.AssemblyInfoInputs.cache
+C:\Users\Vera\source\repos\Defining ClassesExercises\Defining ClassesExercises\obj\Debug\netcoreapp2.1\Defining ClassesExercises.AssemblyInfo.cs

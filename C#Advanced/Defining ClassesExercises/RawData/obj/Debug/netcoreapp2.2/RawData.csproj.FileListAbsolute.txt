@@ -1,0 +1,11 @@
+C:\Users\Vera\source\repos\Defining ClassesExercises\RawData\bin\Debug\netcoreapp2.2\RawData.deps.json
+C:\Users\Vera\source\repos\Defining ClassesExercises\RawData\bin\Debug\netcoreapp2.2\RawData.runtimeconfig.json
+C:\Users\Vera\source\repos\Defining ClassesExercises\RawData\bin\Debug\netcoreapp2.2\RawData.runtimeconfig.dev.json
+C:\Users\Vera\source\repos\Defining ClassesExercises\RawData\bin\Debug\netcoreapp2.2\RawData.dll
+C:\Users\Vera\source\repos\Defining ClassesExercises\RawData\bin\Debug\netcoreapp2.2\RawData.pdb
+C:\Users\Vera\source\repos\Defining ClassesExercises\RawData\obj\Debug\netcoreapp2.2\RawData.csprojAssemblyReference.cache
+C:\Users\Vera\source\repos\Defining ClassesExercises\RawData\obj\Debug\netcoreapp2.2\RawData.csproj.CoreCompileInputs.cache
+C:\Users\Vera\source\repos\Defining ClassesExercises\RawData\obj\Debug\netcoreapp2.2\RawData.AssemblyInfoInputs.cache
+C:\Users\Vera\source\repos\Defining ClassesExercises\RawData\obj\Debug\netcoreapp2.2\RawData.AssemblyInfo.cs
+C:\Users\Vera\source\repos\Defining ClassesExercises\RawData\obj\Debug\netcoreapp2.2\RawData.dll
+C:\Users\Vera\source\repos\Defining ClassesExercises\RawData\obj\Debug\netcoreapp2.2\RawData.pdb
