@@ -1,0 +1,11 @@
+C:\Users\Vera\source\repos\Reflection\HighQualityMistakes\bin\Debug\netcoreapp2.2\HighQualityMistakes.deps.json
+C:\Users\Vera\source\repos\Reflection\HighQualityMistakes\bin\Debug\netcoreapp2.2\HighQualityMistakes.runtimeconfig.json
+C:\Users\Vera\source\repos\Reflection\HighQualityMistakes\bin\Debug\netcoreapp2.2\HighQualityMistakes.runtimeconfig.dev.json
+C:\Users\Vera\source\repos\Reflection\HighQualityMistakes\bin\Debug\netcoreapp2.2\HighQualityMistakes.dll
+C:\Users\Vera\source\repos\Reflection\HighQualityMistakes\bin\Debug\netcoreapp2.2\HighQualityMistakes.pdb
+C:\Users\Vera\source\repos\Reflection\HighQualityMistakes\obj\Debug\netcoreapp2.2\HighQualityMistakes.csprojAssemblyReference.cache
+C:\Users\Vera\source\repos\Reflection\HighQualityMistakes\obj\Debug\netcoreapp2.2\HighQualityMistakes.csproj.CoreCompileInputs.cache
+C:\Users\Vera\source\repos\Reflection\HighQualityMistakes\obj\Debug\netcoreapp2.2\HighQualityMistakes.AssemblyInfoInputs.cache
+C:\Users\Vera\source\repos\Reflection\HighQualityMistakes\obj\Debug\netcoreapp2.2\HighQualityMistakes.AssemblyInfo.cs
+C:\Users\Vera\source\repos\Reflection\HighQualityMistakes\obj\Debug\netcoreapp2.2\HighQualityMistakes.dll
+C:\Users\Vera\source\repos\Reflection\HighQualityMistakes\obj\Debug\netcoreapp2.2\HighQualityMistakes.pdb

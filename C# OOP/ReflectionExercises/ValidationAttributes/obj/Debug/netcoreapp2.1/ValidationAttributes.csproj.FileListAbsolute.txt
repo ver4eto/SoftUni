@@ -1,0 +1,11 @@
+C:\Users\Vera\Desktop\C#LABS\C#OOP\07REFLECTION AND ATTRIBUTES\ValidationAttributes\bin\Debug\netcoreapp2.1\ValidationAttributes.deps.json
+C:\Users\Vera\Desktop\C#LABS\C#OOP\07REFLECTION AND ATTRIBUTES\ValidationAttributes\bin\Debug\netcoreapp2.1\ValidationAttributes.runtimeconfig.json
+C:\Users\Vera\Desktop\C#LABS\C#OOP\07REFLECTION AND ATTRIBUTES\ValidationAttributes\bin\Debug\netcoreapp2.1\ValidationAttributes.runtimeconfig.dev.json
+C:\Users\Vera\Desktop\C#LABS\C#OOP\07REFLECTION AND ATTRIBUTES\ValidationAttributes\bin\Debug\netcoreapp2.1\ValidationAttributes.dll
+C:\Users\Vera\Desktop\C#LABS\C#OOP\07REFLECTION AND ATTRIBUTES\ValidationAttributes\bin\Debug\netcoreapp2.1\ValidationAttributes.pdb
+C:\Users\Vera\Desktop\C#LABS\C#OOP\07REFLECTION AND ATTRIBUTES\ValidationAttributes\obj\Debug\netcoreapp2.1\ValidationAttributes.csprojAssemblyReference.cache
+C:\Users\Vera\Desktop\C#LABS\C#OOP\07REFLECTION AND ATTRIBUTES\ValidationAttributes\obj\Debug\netcoreapp2.1\ValidationAttributes.csproj.CoreCompileInputs.cache
+C:\Users\Vera\Desktop\C#LABS\C#OOP\07REFLECTION AND ATTRIBUTES\ValidationAttributes\obj\Debug\netcoreapp2.1\ValidationAttributes.AssemblyInfoInputs.cache
+C:\Users\Vera\Desktop\C#LABS\C#OOP\07REFLECTION AND ATTRIBUTES\ValidationAttributes\obj\Debug\netcoreapp2.1\ValidationAttributes.AssemblyInfo.cs
+C:\Users\Vera\Desktop\C#LABS\C#OOP\07REFLECTION AND ATTRIBUTES\ValidationAttributes\obj\Debug\netcoreapp2.1\ValidationAttributes.dll
+C:\Users\Vera\Desktop\C#LABS\C#OOP\07REFLECTION AND ATTRIBUTES\ValidationAttributes\obj\Debug\netcoreapp2.1\ValidationAttributes.pdb

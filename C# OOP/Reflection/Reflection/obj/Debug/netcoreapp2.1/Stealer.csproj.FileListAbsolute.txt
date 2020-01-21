@@ -1,0 +1,11 @@
+C:\Users\Vera\source\repos\Reflection\Reflection\bin\Debug\netcoreapp2.1\Stealer.deps.json
+C:\Users\Vera\source\repos\Reflection\Reflection\bin\Debug\netcoreapp2.1\Stealer.runtimeconfig.json
+C:\Users\Vera\source\repos\Reflection\Reflection\bin\Debug\netcoreapp2.1\Stealer.runtimeconfig.dev.json
+C:\Users\Vera\source\repos\Reflection\Reflection\bin\Debug\netcoreapp2.1\Stealer.dll
+C:\Users\Vera\source\repos\Reflection\Reflection\bin\Debug\netcoreapp2.1\Stealer.pdb
+C:\Users\Vera\source\repos\Reflection\Reflection\obj\Debug\netcoreapp2.1\Stealer.csprojAssemblyReference.cache
+C:\Users\Vera\source\repos\Reflection\Reflection\obj\Debug\netcoreapp2.1\Stealer.csproj.CoreCompileInputs.cache
+C:\Users\Vera\source\repos\Reflection\Reflection\obj\Debug\netcoreapp2.1\Stealer.AssemblyInfoInputs.cache
+C:\Users\Vera\source\repos\Reflection\Reflection\obj\Debug\netcoreapp2.1\Stealer.AssemblyInfo.cs
+C:\Users\Vera\source\repos\Reflection\Reflection\obj\Debug\netcoreapp2.1\Stealer.dll
+C:\Users\Vera\source\repos\Reflection\Reflection\obj\Debug\netcoreapp2.1\Stealer.pdb
