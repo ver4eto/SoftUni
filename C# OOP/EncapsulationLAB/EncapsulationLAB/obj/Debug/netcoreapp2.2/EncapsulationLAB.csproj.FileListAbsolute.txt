@@ -1,0 +1,11 @@
+C:\Users\Vera\source\repos\EncapsulationLAB\EncapsulationLAB\bin\Debug\netcoreapp2.2\EncapsulationLAB.deps.json
+C:\Users\Vera\source\repos\EncapsulationLAB\EncapsulationLAB\bin\Debug\netcoreapp2.2\EncapsulationLAB.runtimeconfig.json
+C:\Users\Vera\source\repos\EncapsulationLAB\EncapsulationLAB\bin\Debug\netcoreapp2.2\EncapsulationLAB.runtimeconfig.dev.json
+C:\Users\Vera\source\repos\EncapsulationLAB\EncapsulationLAB\bin\Debug\netcoreapp2.2\EncapsulationLAB.dll
+C:\Users\Vera\source\repos\EncapsulationLAB\EncapsulationLAB\bin\Debug\netcoreapp2.2\EncapsulationLAB.pdb
+C:\Users\Vera\source\repos\EncapsulationLAB\EncapsulationLAB\obj\Debug\netcoreapp2.2\EncapsulationLAB.csprojAssemblyReference.cache
+C:\Users\Vera\source\repos\EncapsulationLAB\EncapsulationLAB\obj\Debug\netcoreapp2.2\EncapsulationLAB.csproj.CoreCompileInputs.cache
+C:\Users\Vera\source\repos\EncapsulationLAB\EncapsulationLAB\obj\Debug\netcoreapp2.2\EncapsulationLAB.AssemblyInfoInputs.cache
+C:\Users\Vera\source\repos\EncapsulationLAB\EncapsulationLAB\obj\Debug\netcoreapp2.2\EncapsulationLAB.AssemblyInfo.cs
+C:\Users\Vera\source\repos\EncapsulationLAB\EncapsulationLAB\obj\Debug\netcoreapp2.2\EncapsulationLAB.dll
+C:\Users\Vera\source\repos\EncapsulationLAB\EncapsulationLAB\obj\Debug\netcoreapp2.2\EncapsulationLAB.pdb

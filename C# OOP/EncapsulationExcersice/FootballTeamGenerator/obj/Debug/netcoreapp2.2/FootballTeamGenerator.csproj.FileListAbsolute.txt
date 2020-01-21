@@ -1,0 +1,11 @@
+C:\Users\Vera\source\repos\EncapsulationExcersice\FootballTeamGenerator\bin\Debug\netcoreapp2.2\FootballTeamGenerator.deps.json
+C:\Users\Vera\source\repos\EncapsulationExcersice\FootballTeamGenerator\bin\Debug\netcoreapp2.2\FootballTeamGenerator.runtimeconfig.json
+C:\Users\Vera\source\repos\EncapsulationExcersice\FootballTeamGenerator\bin\Debug\netcoreapp2.2\FootballTeamGenerator.runtimeconfig.dev.json
+C:\Users\Vera\source\repos\EncapsulationExcersice\FootballTeamGenerator\bin\Debug\netcoreapp2.2\FootballTeamGenerator.dll
+C:\Users\Vera\source\repos\EncapsulationExcersice\FootballTeamGenerator\bin\Debug\netcoreapp2.2\FootballTeamGenerator.pdb
+C:\Users\Vera\source\repos\EncapsulationExcersice\FootballTeamGenerator\obj\Debug\netcoreapp2.2\FootballTeamGenerator.csprojAssemblyReference.cache
+C:\Users\Vera\source\repos\EncapsulationExcersice\FootballTeamGenerator\obj\Debug\netcoreapp2.2\FootballTeamGenerator.csproj.CoreCompileInputs.cache
+C:\Users\Vera\source\repos\EncapsulationExcersice\FootballTeamGenerator\obj\Debug\netcoreapp2.2\FootballTeamGenerator.AssemblyInfoInputs.cache
+C:\Users\Vera\source\repos\EncapsulationExcersice\FootballTeamGenerator\obj\Debug\netcoreapp2.2\FootballTeamGenerator.AssemblyInfo.cs
+C:\Users\Vera\source\repos\EncapsulationExcersice\FootballTeamGenerator\obj\Debug\netcoreapp2.2\FootballTeamGenerator.dll
+C:\Users\Vera\source\repos\EncapsulationExcersice\FootballTeamGenerator\obj\Debug\netcoreapp2.2\FootballTeamGenerator.pdb

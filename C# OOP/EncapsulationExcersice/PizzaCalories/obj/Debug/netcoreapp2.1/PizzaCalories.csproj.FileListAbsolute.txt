@@ -1,0 +1,11 @@
+C:\Users\Vera\source\repos\EncapsulationExcersice\PizzaCalories\bin\Debug\netcoreapp2.1\PizzaCalories.deps.json
+C:\Users\Vera\source\repos\EncapsulationExcersice\PizzaCalories\bin\Debug\netcoreapp2.1\PizzaCalories.runtimeconfig.json
+C:\Users\Vera\source\repos\EncapsulationExcersice\PizzaCalories\bin\Debug\netcoreapp2.1\PizzaCalories.runtimeconfig.dev.json
+C:\Users\Vera\source\repos\EncapsulationExcersice\PizzaCalories\bin\Debug\netcoreapp2.1\PizzaCalories.dll
+C:\Users\Vera\source\repos\EncapsulationExcersice\PizzaCalories\bin\Debug\netcoreapp2.1\PizzaCalories.pdb
+C:\Users\Vera\source\repos\EncapsulationExcersice\PizzaCalories\obj\Debug\netcoreapp2.1\PizzaCalories.csprojAssemblyReference.cache
+C:\Users\Vera\source\repos\EncapsulationExcersice\PizzaCalories\obj\Debug\netcoreapp2.1\PizzaCalories.csproj.CoreCompileInputs.cache
+C:\Users\Vera\source\repos\EncapsulationExcersice\PizzaCalories\obj\Debug\netcoreapp2.1\PizzaCalories.AssemblyInfoInputs.cache
+C:\Users\Vera\source\repos\EncapsulationExcersice\PizzaCalories\obj\Debug\netcoreapp2.1\PizzaCalories.AssemblyInfo.cs
+C:\Users\Vera\source\repos\EncapsulationExcersice\PizzaCalories\obj\Debug\netcoreapp2.1\PizzaCalories.dll
+C:\Users\Vera\source\repos\EncapsulationExcersice\PizzaCalories\obj\Debug\netcoreapp2.1\PizzaCalories.pdb
