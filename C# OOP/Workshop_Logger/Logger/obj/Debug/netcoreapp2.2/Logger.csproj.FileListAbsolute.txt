@@ -1,0 +1,11 @@
+C:\Users\Vera\source\repos\Logger\Logger\bin\Debug\netcoreapp2.2\Logger.deps.json
+C:\Users\Vera\source\repos\Logger\Logger\bin\Debug\netcoreapp2.2\Logger.runtimeconfig.json
+C:\Users\Vera\source\repos\Logger\Logger\bin\Debug\netcoreapp2.2\Logger.runtimeconfig.dev.json
+C:\Users\Vera\source\repos\Logger\Logger\bin\Debug\netcoreapp2.2\Logger.dll
+C:\Users\Vera\source\repos\Logger\Logger\bin\Debug\netcoreapp2.2\Logger.pdb
+C:\Users\Vera\source\repos\Logger\Logger\obj\Debug\netcoreapp2.2\Logger.csprojAssemblyReference.cache
+C:\Users\Vera\source\repos\Logger\Logger\obj\Debug\netcoreapp2.2\Logger.csproj.CoreCompileInputs.cache
+C:\Users\Vera\source\repos\Logger\Logger\obj\Debug\netcoreapp2.2\Logger.AssemblyInfoInputs.cache
+C:\Users\Vera\source\repos\Logger\Logger\obj\Debug\netcoreapp2.2\Logger.AssemblyInfo.cs
+C:\Users\Vera\source\repos\Logger\Logger\obj\Debug\netcoreapp2.2\Logger.dll
+C:\Users\Vera\source\repos\Logger\Logger\obj\Debug\netcoreapp2.2\Logger.pdb

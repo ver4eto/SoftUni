@@ -1,0 +1,12 @@
+C:\Users\Vera\Desktop\C#LABS\C#OOP\ExamPREP\DemoExam04August2019\.vs\TheRace\lut\0\b\TheRace.Tests\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+C:\Users\Vera\Desktop\C#LABS\C#OOP\ExamPREP\DemoExam04August2019\.vs\TheRace\lut\0\b\TheRace.Tests\Debug\netcoreapp2.1\nunit.engine.netstandard.dll
+C:\Users\Vera\Desktop\C#LABS\C#OOP\ExamPREP\DemoExam04August2019\.vs\TheRace\lut\0\b\TheRace.Tests\Debug\netcoreapp2.1\Mono.Cecil.dll
+C:\Users\Vera\Desktop\C#LABS\C#OOP\ExamPREP\DemoExam04August2019\.vs\TheRace\lut\0\b\TheRace.Tests\Debug\netcoreapp2.1\TheRace.Tests.deps.json
+C:\Users\Vera\Desktop\C#LABS\C#OOP\ExamPREP\DemoExam04August2019\.vs\TheRace\lut\0\b\TheRace.Tests\Debug\netcoreapp2.1\TheRace.Tests.runtimeconfig.json
+C:\Users\Vera\Desktop\C#LABS\C#OOP\ExamPREP\DemoExam04August2019\.vs\TheRace\lut\0\b\TheRace.Tests\Debug\netcoreapp2.1\TheRace.Tests.runtimeconfig.dev.json
+C:\Users\Vera\Desktop\C#LABS\C#OOP\ExamPREP\DemoExam04August2019\.vs\TheRace\lut\0\b\TheRace.Tests\Debug\netcoreapp2.1\TheRace.Tests.dll
+C:\Users\Vera\Desktop\C#LABS\C#OOP\ExamPREP\DemoExam04August2019\.vs\TheRace\lut\0\i\TheRace.Tests\Debug\netcoreapp2.1\TheRace.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Vera\Desktop\C#LABS\C#OOP\ExamPREP\DemoExam04August2019\.vs\TheRace\lut\0\i\TheRace.Tests\Debug\netcoreapp2.1\TheRace.Tests.AssemblyInfoInputs.cache
+C:\Users\Vera\Desktop\C#LABS\C#OOP\ExamPREP\DemoExam04August2019\.vs\TheRace\lut\0\i\TheRace.Tests\Debug\netcoreapp2.1\TheRace.Tests.AssemblyInfo.cs
+C:\Users\Vera\Desktop\C#LABS\C#OOP\ExamPREP\DemoExam04August2019\.vs\TheRace\lut\0\i\TheRace.Tests\Debug\netcoreapp2.1\TheRace.Tests.csproj.CopyComplete
+C:\Users\Vera\Desktop\C#LABS\C#OOP\ExamPREP\DemoExam04August2019\.vs\TheRace\lut\0\i\TheRace.Tests\Debug\netcoreapp2.1\TheRace.Tests.dll

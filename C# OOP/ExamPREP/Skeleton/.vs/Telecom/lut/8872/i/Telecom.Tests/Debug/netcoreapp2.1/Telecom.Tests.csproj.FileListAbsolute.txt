@@ -1,0 +1,12 @@
+C:\Users\Vera\Desktop\C#LABS\C#OOP\ExamPREP\Skeleton\.vs\Telecom\lut\0\b\Telecom.Tests\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+C:\Users\Vera\Desktop\C#LABS\C#OOP\ExamPREP\Skeleton\.vs\Telecom\lut\0\b\Telecom.Tests\Debug\netcoreapp2.1\nunit.engine.netstandard.dll
+C:\Users\Vera\Desktop\C#LABS\C#OOP\ExamPREP\Skeleton\.vs\Telecom\lut\0\b\Telecom.Tests\Debug\netcoreapp2.1\Mono.Cecil.dll
+C:\Users\Vera\Desktop\C#LABS\C#OOP\ExamPREP\Skeleton\.vs\Telecom\lut\0\b\Telecom.Tests\Debug\netcoreapp2.1\Telecom.Tests.deps.json
+C:\Users\Vera\Desktop\C#LABS\C#OOP\ExamPREP\Skeleton\.vs\Telecom\lut\0\b\Telecom.Tests\Debug\netcoreapp2.1\Telecom.Tests.runtimeconfig.json
+C:\Users\Vera\Desktop\C#LABS\C#OOP\ExamPREP\Skeleton\.vs\Telecom\lut\0\b\Telecom.Tests\Debug\netcoreapp2.1\Telecom.Tests.runtimeconfig.dev.json
+C:\Users\Vera\Desktop\C#LABS\C#OOP\ExamPREP\Skeleton\.vs\Telecom\lut\0\b\Telecom.Tests\Debug\netcoreapp2.1\Telecom.Tests.dll
+C:\Users\Vera\Desktop\C#LABS\C#OOP\ExamPREP\Skeleton\.vs\Telecom\lut\0\i\Telecom.Tests\Debug\netcoreapp2.1\Telecom.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Vera\Desktop\C#LABS\C#OOP\ExamPREP\Skeleton\.vs\Telecom\lut\0\i\Telecom.Tests\Debug\netcoreapp2.1\Telecom.Tests.AssemblyInfoInputs.cache
+C:\Users\Vera\Desktop\C#LABS\C#OOP\ExamPREP\Skeleton\.vs\Telecom\lut\0\i\Telecom.Tests\Debug\netcoreapp2.1\Telecom.Tests.AssemblyInfo.cs
+C:\Users\Vera\Desktop\C#LABS\C#OOP\ExamPREP\Skeleton\.vs\Telecom\lut\0\i\Telecom.Tests\Debug\netcoreapp2.1\Telecom.Tests.csproj.CopyComplete
+C:\Users\Vera\Desktop\C#LABS\C#OOP\ExamPREP\Skeleton\.vs\Telecom\lut\0\i\Telecom.Tests\Debug\netcoreapp2.1\Telecom.Tests.dll

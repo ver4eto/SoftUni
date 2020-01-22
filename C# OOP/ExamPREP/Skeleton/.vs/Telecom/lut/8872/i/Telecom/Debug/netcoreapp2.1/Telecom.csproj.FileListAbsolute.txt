@@ -1,0 +1,10 @@
+C:\Users\Vera\Desktop\C#LABS\C#OOP\ExamPREP\Skeleton\.vs\Telecom\lut\0\b\Telecom\Debug\netcoreapp2.1\Telecom.deps.json
+C:\Users\Vera\Desktop\C#LABS\C#OOP\ExamPREP\Skeleton\.vs\Telecom\lut\0\b\Telecom\Debug\netcoreapp2.1\Telecom.runtimeconfig.json
+C:\Users\Vera\Desktop\C#LABS\C#OOP\ExamPREP\Skeleton\.vs\Telecom\lut\0\b\Telecom\Debug\netcoreapp2.1\Telecom.runtimeconfig.dev.json
+C:\Users\Vera\Desktop\C#LABS\C#OOP\ExamPREP\Skeleton\.vs\Telecom\lut\0\b\Telecom\Debug\netcoreapp2.1\Telecom.dll
+C:\Users\Vera\Desktop\C#LABS\C#OOP\ExamPREP\Skeleton\.vs\Telecom\lut\0\i\Telecom\Debug\netcoreapp2.1\Telecom.csprojAssemblyReference.cache
+C:\Users\Vera\Desktop\C#LABS\C#OOP\ExamPREP\Skeleton\.vs\Telecom\lut\0\i\Telecom\Debug\netcoreapp2.1\Telecom.csproj.CoreCompileInputs.cache
+C:\Users\Vera\Desktop\C#LABS\C#OOP\ExamPREP\Skeleton\.vs\Telecom\lut\0\i\Telecom\Debug\netcoreapp2.1\Telecom.AssemblyInfoInputs.cache
+C:\Users\Vera\Desktop\C#LABS\C#OOP\ExamPREP\Skeleton\.vs\Telecom\lut\0\i\Telecom\Debug\netcoreapp2.1\Telecom.AssemblyInfo.cs
+C:\Users\Vera\Desktop\C#LABS\C#OOP\ExamPREP\Skeleton\.vs\Telecom\lut\0\i\Telecom\Debug\netcoreapp2.1\Telecom.csproj.CopyComplete
+C:\Users\Vera\Desktop\C#LABS\C#OOP\ExamPREP\Skeleton\.vs\Telecom\lut\0\i\Telecom\Debug\netcoreapp2.1\Telecom.dll

@@ -1,0 +1,10 @@
+C:\Users\Vera\Desktop\C#LABS\C#OOP\ExamPREP\19 December 2018\.vs\ParkingSystem\lut\0\b\ParkingSystem\Debug\netcoreapp2.1\ParkingSystem.deps.json
+C:\Users\Vera\Desktop\C#LABS\C#OOP\ExamPREP\19 December 2018\.vs\ParkingSystem\lut\0\b\ParkingSystem\Debug\netcoreapp2.1\ParkingSystem.runtimeconfig.json
+C:\Users\Vera\Desktop\C#LABS\C#OOP\ExamPREP\19 December 2018\.vs\ParkingSystem\lut\0\b\ParkingSystem\Debug\netcoreapp2.1\ParkingSystem.runtimeconfig.dev.json
+C:\Users\Vera\Desktop\C#LABS\C#OOP\ExamPREP\19 December 2018\.vs\ParkingSystem\lut\0\b\ParkingSystem\Debug\netcoreapp2.1\ParkingSystem.dll
+C:\Users\Vera\Desktop\C#LABS\C#OOP\ExamPREP\19 December 2018\.vs\ParkingSystem\lut\0\i\ParkingSystem\Debug\netcoreapp2.1\ParkingSystem.csprojAssemblyReference.cache
+C:\Users\Vera\Desktop\C#LABS\C#OOP\ExamPREP\19 December 2018\.vs\ParkingSystem\lut\0\i\ParkingSystem\Debug\netcoreapp2.1\ParkingSystem.csproj.CoreCompileInputs.cache
+C:\Users\Vera\Desktop\C#LABS\C#OOP\ExamPREP\19 December 2018\.vs\ParkingSystem\lut\0\i\ParkingSystem\Debug\netcoreapp2.1\ParkingSystem.AssemblyInfoInputs.cache
+C:\Users\Vera\Desktop\C#LABS\C#OOP\ExamPREP\19 December 2018\.vs\ParkingSystem\lut\0\i\ParkingSystem\Debug\netcoreapp2.1\ParkingSystem.AssemblyInfo.cs
+C:\Users\Vera\Desktop\C#LABS\C#OOP\ExamPREP\19 December 2018\.vs\ParkingSystem\lut\0\i\ParkingSystem\Debug\netcoreapp2.1\ParkingSystem.csproj.CopyComplete
+C:\Users\Vera\Desktop\C#LABS\C#OOP\ExamPREP\19 December 2018\.vs\ParkingSystem\lut\0\i\ParkingSystem\Debug\netcoreapp2.1\ParkingSystem.dll
