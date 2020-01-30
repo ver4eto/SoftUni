@@ -1,0 +1,8 @@
+C:\Users\Vera\source\repos\SIS\SIS.Http\bin\Debug\netstandard2.0\SIS.HTTP.deps.json
+C:\Users\Vera\source\repos\SIS\SIS.Http\bin\Debug\netstandard2.0\SIS.HTTP.dll
+C:\Users\Vera\source\repos\SIS\SIS.Http\bin\Debug\netstandard2.0\SIS.HTTP.pdb
+C:\Users\Vera\source\repos\SIS\SIS.Http\obj\Debug\netstandard2.0\SIS.HTTP.csprojAssemblyReference.cache
+C:\Users\Vera\source\repos\SIS\SIS.Http\obj\Debug\netstandard2.0\SIS.HTTP.AssemblyInfoInputs.cache
+C:\Users\Vera\source\repos\SIS\SIS.Http\obj\Debug\netstandard2.0\SIS.HTTP.AssemblyInfo.cs
+C:\Users\Vera\source\repos\SIS\SIS.Http\obj\Debug\netstandard2.0\SIS.HTTP.dll
+C:\Users\Vera\source\repos\SIS\SIS.Http\obj\Debug\netstandard2.0\SIS.HTTP.pdb
