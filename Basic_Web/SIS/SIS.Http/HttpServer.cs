@@ -63,16 +63,22 @@ namespace SIS.HTTP
                 content = "<h1>login page</h1>";
             }
 
-            byte[] fileContent = Encoding.UTF8.GetBytes(content);
+            byte[] stringContent = Encoding.UTF8.GetBytes(content);
+            var response = new HttpResponse(HttpResponseCode.OK, stringContent);
+            response.Headers.Add(new Header("Server: ", "SoftUniServer/1.0"));
+            response.Headers.Add(new Header("Content-Type: ","text/html"));
 
-            string headers = "HTTP/1.0 200 OK" + HttpConstants.NewLine +
-                              "Server: SoftUniServer/1.0" + HttpConstants.NewLine +
-                              "Content-Type: text/html" + HttpConstants.NewLine +
-                              "Content-Lenght: " + fileContent.Length + HttpConstants.NewLine +
-                              HttpConstants.NewLine;
-            byte[] headereBytes = Encoding.UTF8.GetBytes(headers);
-            await networkStream.WriteAsync(headereBytes, 0, headereBytes.Length);
-            await networkStream.WriteAsync(fileContent, 0, fileContent.Length);
+            //string headers = "HTTP/1.0 200 OK" + HttpConstants.NewLine +
+            //                  "Server: SoftUniServer/1.0" + HttpConstants.NewLine +
+            //                  "Content-Type: text/html" + HttpConstants.NewLine +
+            //                  "Content-Lenght: " + stringContent.Length + HttpConstants.NewLine +
+            //                  HttpConstants.NewLine;
+
+            byte[] responseBytes = Encoding.UTF8.GetBytes(response.ToString());
+            await networkStream.WriteAsync(responseBytes, 0, responseBytes.Length);
+            await networkStream.WriteAsync(response.Body, 0, response.Body.Length);
+
+
             Console.WriteLine(request);
             Console.WriteLine(new string('=', 60));
         }
