@@ -9,3 +9,14 @@ C:\Users\Vera\source\repos\SIS\SIS.MvcFramework\obj\Debug\netstandard2.0\SIS.Mvc
 C:\Users\Vera\source\repos\SIS\SIS.MvcFramework\obj\Debug\netstandard2.0\SIS.MvcFramework.csproj.CopyComplete
 C:\Users\Vera\source\repos\SIS\SIS.MvcFramework\obj\Debug\netstandard2.0\SIS.MvcFramework.dll
 C:\Users\Vera\source\repos\SIS\SIS.MvcFramework\obj\Debug\netstandard2.0\SIS.MvcFramework.pdb
+C:\Projects\SoftUni\SoftUni\Basic_Web\SIS\SIS.MvcFramework\bin\Debug\netstandard2.0\SIS.MvcFramework.deps.json
+C:\Projects\SoftUni\SoftUni\Basic_Web\SIS\SIS.MvcFramework\bin\Debug\netstandard2.0\SIS.MvcFramework.dll
+C:\Projects\SoftUni\SoftUni\Basic_Web\SIS\SIS.MvcFramework\bin\Debug\netstandard2.0\SIS.MvcFramework.pdb
+C:\Projects\SoftUni\SoftUni\Basic_Web\SIS\SIS.MvcFramework\bin\Debug\netstandard2.0\SIS.HTTP.dll
+C:\Projects\SoftUni\SoftUni\Basic_Web\SIS\SIS.MvcFramework\bin\Debug\netstandard2.0\SIS.HTTP.pdb
+C:\Projects\SoftUni\SoftUni\Basic_Web\SIS\SIS.MvcFramework\obj\Debug\netstandard2.0\SIS.MvcFramework.csprojAssemblyReference.cache
+C:\Projects\SoftUni\SoftUni\Basic_Web\SIS\SIS.MvcFramework\obj\Debug\netstandard2.0\SIS.MvcFramework.AssemblyInfoInputs.cache
+C:\Projects\SoftUni\SoftUni\Basic_Web\SIS\SIS.MvcFramework\obj\Debug\netstandard2.0\SIS.MvcFramework.AssemblyInfo.cs
+C:\Projects\SoftUni\SoftUni\Basic_Web\SIS\SIS.MvcFramework\obj\Debug\netstandard2.0\SIS.MvcFramework.csproj.CopyComplete
+C:\Projects\SoftUni\SoftUni\Basic_Web\SIS\SIS.MvcFramework\obj\Debug\netstandard2.0\SIS.MvcFramework.dll
+C:\Projects\SoftUni\SoftUni\Basic_Web\SIS\SIS.MvcFramework\obj\Debug\netstandard2.0\SIS.MvcFramework.pdb

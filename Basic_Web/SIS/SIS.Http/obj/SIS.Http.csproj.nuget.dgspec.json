@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Vera\\source\\repos\\SIS\\SIS.Http\\SIS.HTTP.csproj": {}
+    "C:\\Projects\\SoftUni\\SoftUni\\Basic_Web\\SIS\\SIS.Http\\SIS.HTTP.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Vera\\source\\repos\\SIS\\SIS.Http\\SIS.HTTP.csproj": {
+    "C:\\Projects\\SoftUni\\SoftUni\\Basic_Web\\SIS\\SIS.Http\\SIS.HTTP.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Vera\\source\\repos\\SIS\\SIS.Http\\SIS.HTTP.csproj",
+        "projectUniqueName": "C:\\Projects\\SoftUni\\SoftUni\\Basic_Web\\SIS\\SIS.Http\\SIS.HTTP.csproj",
         "projectName": "SIS.HTTP",
-        "projectPath": "C:\\Users\\Vera\\source\\repos\\SIS\\SIS.Http\\SIS.HTTP.csproj",
+        "projectPath": "C:\\Projects\\SoftUni\\SoftUni\\Basic_Web\\SIS\\SIS.Http\\SIS.HTTP.csproj",
         "packagesPath": "C:\\Users\\Vera\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Vera\\source\\repos\\SIS\\SIS.Http\\obj\\",
+        "outputPath": "C:\\Projects\\SoftUni\\SoftUni\\Basic_Web\\SIS\\SIS.Http\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

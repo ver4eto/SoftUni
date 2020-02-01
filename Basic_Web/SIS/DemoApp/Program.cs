@@ -1,15 +1,16 @@
 ﻿using SIS.HTTP;
-
+using SIS.HTTP.Response;
 using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Text;
 using System.Threading.Tasks;
 
 namespace DemoApp
 {
-    class Program
+  public static  class Program
     {
-        static async Task Main(string[] args)
+        static async Task Main()
         {
             var routeTable = new List<Route>();
             routeTable.Add(new Route(HttpMethodType.Get, "/", Index));
@@ -27,46 +28,30 @@ namespace DemoApp
 
         private static HttpResponse FavIcon(HttpRequest arg)
         {
-            throw new NotImplementedException();
+            var byteContent = File.ReadAllBytes("wwwroot/favicon.ico");
+            return new FileResponse(byteContent, "image/x-icon");
         }
 
         private static HttpResponse Contact(HttpRequest request)
         {
-            var content = "<h1>contact</h1>";
-            byte[] stringContent = Encoding.UTF8.GetBytes(content);
-            var response = new HttpResponse(HttpResponseCode.OK, stringContent);
-            response.Headers.Add(new Header("Content-Type: ", "text/html"));
-
-            return response;
+            return new HtmlResponse("<h1>contact</h1>");            
         }
 
         public static HttpResponse Index(HttpRequest request)
         {
-           var content = "<h1>home page</h1>< img src='/image/img.jpeg />";
-            byte[] stringContent = Encoding.UTF8.GetBytes(content);
-            var response = new HttpResponse(HttpResponseCode.OK, stringContent);
-            response.Headers.Add(new Header("Content-Type: ", "text/html"));
-
-            return response;
+            var username = request.SessionData.ContainsKey("Username") ? request.SessionData["Username"] : "Anonymous";
+           return new HtmlResponse( $"<h1>Home page.Hello {username}</h1> <img src='/image/img.jpeg/>");           
         }
 
         public static HttpResponse Login(HttpRequest request)
         {
-            var content = "<h1>login page</h1>";
-            byte[] stringContent = Encoding.UTF8.GetBytes(content);
-            var response = new HttpResponse(HttpResponseCode.OK, stringContent);
-            response.Headers.Add(new Header("Content-Type: ", "text/html"));
-
-            return response;
+            request.SessionData["Username"] = "Pesho";
+            return new HtmlResponse( "<h1>login page</h1>");            
         }
 
         public static HttpResponse DoLogin(HttpRequest request)
         {
-            var content = "<h1>login page</h1>";
-            byte[] stringContent = Encoding.UTF8.GetBytes(content);
-            var response = new HttpResponse(HttpResponseCode.OK, stringContent);
-
-            return response;
+            return new HtmlResponse( "<h1>login page form</h1>");            
         }
     }
 }

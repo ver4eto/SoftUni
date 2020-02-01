@@ -15,15 +15,17 @@ namespace SIS.HTTP
 
         private readonly TcpListener tcpListener;
         private readonly IList<Route> routeTable;
+        private readonly Dictionary<string, IDictionary<string, string>> sessions;
 
         //TODO: actions
-        public HttpServer(int port,IList<Route> routeTable)
+        public HttpServer(int port, IList<Route> routeTable)
         {
             this.tcpListener = new TcpListener(IPAddress.Loopback, port);
             this.routeTable = routeTable;
+            this.sessions =  new Dictionary<string, IDictionary<string, string>>();
         }
 
-        
+
 
         public async Task ResetAsync()
         {
@@ -55,29 +57,53 @@ namespace SIS.HTTP
             using NetworkStream networkStream = tcpClient.GetStream();
             try
             {
-                
+
                 byte[] requestBytes = new byte[1000000]; // TODO: Use buffer
                 int bytesRead = await networkStream.ReadAsync(requestBytes, 0, requestBytes.Length);
                 string requestAsString = Encoding.UTF8.GetString(requestBytes, 0, bytesRead);
+                string newSessionId=null;
                 var request = new HttpRequest(requestAsString);
-                var route = this.routeTable.FirstOrDefault(x => x.HttpMethod == request.Method && x.Path == request.Path);
-                HttpResponse response;
-                if (route==null)
+
+                var sessionCookie = request.Cookies.FirstOrDefault(x => x.Name == HttpConstants.SessionIdCookieName);
+
+                if (sessionCookie != null && this.sessions.ContainsKey(sessionCookie.Value))
                 {
-                    response = new HttpResponse(HttpResponseCode.NotFound,new byte[0]);
+                    request.SessionData = this.sessions[sessionCookie.Value];
+                }
+                else
+                {
+                    newSessionId = Guid.NewGuid().ToString();
+                    var dictionary = new Dictionary<string, string>();
+                    this.sessions.Add(newSessionId,dictionary );
+                    request.SessionData=dictionary;
+
+                }
+
+                Console.WriteLine($"{request.Method} {request.Path}");
+
+                var route = this.routeTable.FirstOrDefault(
+                    x => x.HttpMethod == request.Method && x.Path == request.Path);
+
+                HttpResponse response;
+                if (route == null)
+                {
+                    response = new HttpResponse(HttpResponseCode.NotFound, new byte[0]);
                     response.StatusCode = HttpResponseCode.NotFound;
                 }
                 else
                 {
                     response = route.Action(request);
                 }
-              
 
-             
-                response.Headers.Add(new Header("Server: ", "SoftUniServer/1.0"));               
-                response.Cookies.Add(
-                    new ResponseCookie("sid", Guid.NewGuid().ToString())
-                    { HttpOnly = true, MaxAge = 3600 });
+
+                response.Headers.Add(new Header("Server: ", "SoftUniServer/1.0"));
+
+                if (newSessionId != null)
+                {
+                  
+                    response.Cookies.Add(new ResponseCookie(HttpConstants.SessionIdCookieName, newSessionId) { HttpOnly = true, MaxAge = 30*3600 });
+                }
+
 
                 //string headers = "HTTP/1.0 200 OK" + HttpConstants.NewLine +
                 //                  "Server: SoftUniServer/1.0" + HttpConstants.NewLine +
@@ -90,14 +116,12 @@ namespace SIS.HTTP
                 await networkStream.WriteAsync(response.Body, 0, response.Body.Length);
 
 
-                Console.WriteLine(request);
-                Console.WriteLine(new string('=', 60));
             }
             catch (Exception ex)
             {
 
                 var errorResponse = new HttpResponse(
-                    HttpResponseCode.InternalServerError, 
+                    HttpResponseCode.InternalServerError,
                     Encoding.UTF8.GetBytes(ex.Message));
 
                 errorResponse.Headers.Add(new Header("Content-Type", "text/html"));

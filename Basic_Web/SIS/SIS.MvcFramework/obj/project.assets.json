@@ -201,11 +201,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Vera\\source\\repos\\SIS\\SIS.MvcFramework\\SIS.MvcFramework.csproj",
+      "projectUniqueName": "C:\\Projects\\SoftUni\\SoftUni\\Basic_Web\\SIS\\SIS.MvcFramework\\SIS.MvcFramework.csproj",
       "projectName": "SIS.MvcFramework",
-      "projectPath": "C:\\Users\\Vera\\source\\repos\\SIS\\SIS.MvcFramework\\SIS.MvcFramework.csproj",
+      "projectPath": "C:\\Projects\\SoftUni\\SoftUni\\Basic_Web\\SIS\\SIS.MvcFramework\\SIS.MvcFramework.csproj",
       "packagesPath": "C:\\Users\\Vera\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Vera\\source\\repos\\SIS\\SIS.MvcFramework\\obj\\",
+      "outputPath": "C:\\Projects\\SoftUni\\SoftUni\\Basic_Web\\SIS\\SIS.MvcFramework\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -224,8 +224,8 @@
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "C:\\Users\\Vera\\source\\repos\\SIS\\SIS.Http\\SIS.HTTP.csproj": {
-              "projectPath": "C:\\Users\\Vera\\source\\repos\\SIS\\SIS.Http\\SIS.HTTP.csproj"
+            "C:\\Projects\\SoftUni\\SoftUni\\Basic_Web\\SIS\\SIS.Http\\SIS.HTTP.csproj": {
+              "projectPath": "C:\\Projects\\SoftUni\\SoftUni\\Basic_Web\\SIS\\SIS.Http\\SIS.HTTP.csproj"
             }
           }
         }

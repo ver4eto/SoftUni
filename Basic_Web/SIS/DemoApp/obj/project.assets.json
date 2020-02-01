@@ -51,11 +51,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Vera\\source\\repos\\SIS\\DemoApp\\DemoApp.csproj",
+      "projectUniqueName": "C:\\Projects\\SoftUni\\SoftUni\\Basic_Web\\SIS\\DemoApp\\DemoApp.csproj",
       "projectName": "DemoApp",
-      "projectPath": "C:\\Users\\Vera\\source\\repos\\SIS\\DemoApp\\DemoApp.csproj",
+      "projectPath": "C:\\Projects\\SoftUni\\SoftUni\\Basic_Web\\SIS\\DemoApp\\DemoApp.csproj",
       "packagesPath": "C:\\Users\\Vera\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Vera\\source\\repos\\SIS\\DemoApp\\obj\\",
+      "outputPath": "C:\\Projects\\SoftUni\\SoftUni\\Basic_Web\\SIS\\DemoApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -74,8 +74,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\Vera\\source\\repos\\SIS\\SIS.MvcFramework\\SIS.MvcFramework.csproj": {
-              "projectPath": "C:\\Users\\Vera\\source\\repos\\SIS\\SIS.MvcFramework\\SIS.MvcFramework.csproj"
+            "C:\\Projects\\SoftUni\\SoftUni\\Basic_Web\\SIS\\SIS.MvcFramework\\SIS.MvcFramework.csproj": {
+              "projectPath": "C:\\Projects\\SoftUni\\SoftUni\\Basic_Web\\SIS\\SIS.MvcFramework\\SIS.MvcFramework.csproj"
             }
           }
         }

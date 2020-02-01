@@ -6,3 +6,11 @@ C:\Users\Vera\source\repos\SIS\SIS.Http\obj\Debug\netstandard2.0\SIS.HTTP.Assemb
 C:\Users\Vera\source\repos\SIS\SIS.Http\obj\Debug\netstandard2.0\SIS.HTTP.AssemblyInfo.cs
 C:\Users\Vera\source\repos\SIS\SIS.Http\obj\Debug\netstandard2.0\SIS.HTTP.dll
 C:\Users\Vera\source\repos\SIS\SIS.Http\obj\Debug\netstandard2.0\SIS.HTTP.pdb
+C:\Projects\SoftUni\SoftUni\Basic_Web\SIS\SIS.Http\bin\Debug\netstandard2.0\SIS.HTTP.deps.json
+C:\Projects\SoftUni\SoftUni\Basic_Web\SIS\SIS.Http\bin\Debug\netstandard2.0\SIS.HTTP.dll
+C:\Projects\SoftUni\SoftUni\Basic_Web\SIS\SIS.Http\bin\Debug\netstandard2.0\SIS.HTTP.pdb
+C:\Projects\SoftUni\SoftUni\Basic_Web\SIS\SIS.Http\obj\Debug\netstandard2.0\SIS.HTTP.csprojAssemblyReference.cache
+C:\Projects\SoftUni\SoftUni\Basic_Web\SIS\SIS.Http\obj\Debug\netstandard2.0\SIS.HTTP.AssemblyInfoInputs.cache
+C:\Projects\SoftUni\SoftUni\Basic_Web\SIS\SIS.Http\obj\Debug\netstandard2.0\SIS.HTTP.AssemblyInfo.cs
+C:\Projects\SoftUni\SoftUni\Basic_Web\SIS\SIS.Http\obj\Debug\netstandard2.0\SIS.HTTP.dll
+C:\Projects\SoftUni\SoftUni\Basic_Web\SIS\SIS.Http\obj\Debug\netstandard2.0\SIS.HTTP.pdb
